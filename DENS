@@ -5780,8 +5780,9 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SCTV15hd" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/3kgHfnb/sctv15.png", SCTV15
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://inet.tinchuanchuaanh.com/hls/v1/e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
+#EXTINF:-1 tvg-id="SCTV15hd" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/3kgHfnb/sctv15.png", SCTV15 X
+https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8
 #EXTINF:-1 tvg-id="SCTV16hd" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/FgqbkhL/SCTV16.png", SCTV16
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
