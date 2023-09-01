@@ -6139,433 +6139,362 @@ https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="DENS TV", MNCTV
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="DENS TV", GTV
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="DENS TV", INEWS
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4urMukgFxOsmKR06xskG4LzwSbtbwosJ0oQ&usqp=CAU" group-title="DENS TV", RCTI
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="DENS TV", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="DENS TV", DENS LIVE 1
-http://210.210.155.37/x6bnqe/s/s100/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg" group-title="DENS TV", DENS LIVE 2
-http://210.210.155.37/uq2663/h/h998/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="DENS TV", DENS PLAY
-http://210.210.155.37/x6bnqe/s/s37/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="DENS TV", DENS LIFESTYLE
-http://210.210.155.37/x6bnqe/s/s101/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="DENS TV", LEARNING & KNOWLEDGE
-http://210.210.155.37/x6bnqe/s/s36/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="DENS TV", DENS SHOWBIZ
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg" group-title="DENS TV", DENS FOOD CHANNEL
-http://210.210.155.37/x6bnqe/s/s38/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="DENS TV", METRO TV
-http://210.210.155.37/uq2663/h/h12/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="DENS TV", TVONE
-http://210.210.155.37/qwr9ew/s/s105/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="DENS TV", KOMPAS TV
-http://210.210.155.37/qwr9ew/s/s104/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="DENS TV", BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="DENS TV", SCTV
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7 1
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/162502.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="DENS TV", INDOSIAR
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="DENS TV", TRANS TV
-http://kuchini.site:8080/multi6741/ab72059e/162503
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="DENS TV", TRANS TV 1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="DENS TV", ANTV
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="DENS TV", NET
-http://210.210.155.37/uq2663/h/h06/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="DENS TV", RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="DENS TV", ELSHINTA TV
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="DENS TV", MOJI
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="DENS TV", TVRI
-http://210.210.155.37/qwr9ew/s/s11/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="DENS TV", JAK TV
-http://210.210.155.37/x6bnqe/s/s46/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="DENS TV", RODJA TV
-http://210.210.155.37/qwr9ew/s/s14/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="DENS TV", DAAI TV
-http://210.210.155.37/qwr9ew/s/s13/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg" group-title="DENS TV", U CHANNEL
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="DENS TV", EGG NETWORK TV
-http://210.210.155.37/uq2663/h/h22/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="DENS TV", ANIPLUS
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="DENS TV", MY KIDZ
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="DENS TV", TOONZ KIDZ
-http://210.210.155.37/x6bnqe/s/s14/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="DENS TV", HITS
-http://210.210.155.37/dr9445/h/h37/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="DENS TV", HITS MOVIES
-http://210.210.155.37/dr9445/h/h38/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="DENS TV", ROCK ENTERTAINMENT
-http://210.210.155.37/dr9445/h/h16/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="DENS TV", ROCK ACTION
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DENS TV", ROCK ACTION
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151142.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DENS TV", ROCK ENTERTAINMENT
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151143.ts
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="DENS TV", KIX
-http://210.210.155.37/dr9445/h/h07/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="DENS TV", GEM
-http://210.210.155.37/uq2663/h/h19/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="DENS TV", K+
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg" group-title="DENS TV", TVN
-http://210.210.155.37/dr9445/h/h20/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="DENS TV", TVN MOVIES
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="DENS TV", CELESTIAL MOVIES
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="DENS TV", CCM
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="DENS TV", ZEE BIOSKOP
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="DENS TV", THRILL
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="DENS TV", CINEMA WORLD
-http://210.210.155.37/dr9445/h/h04/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="DENS TV", MY CINEMA
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="DENS TV", MY CINEMA ASIA
-http://210.210.155.37/uq2663/h/h193/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="DENS TV", CINEMA EUROPE
-http://210.210.155.37/uq2663/h/h18/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="DENS TV", MY FAMILY CHANNEL
-http://210.210.155.37/uq2663/h/h194/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="DENS TV", Monde STYLE
-http://210.210.155.37/dr9445/h/h01/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="DENS TV", FIGHT SPORTS
-http://210.210.155.37/dr9445/h/h05/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg" group-title="DENS TV", MOTORVISION
-http://210.210.155.37/uq2663/h/h09/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="DENS TV", CNA
-http://210.210.155.37/uq2663/h/h29/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="DENS TV", NHK WORLD JAPAN
-http://210.210.155.37/uq2663/h/h23/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="DENS TV", AL JAZEERA ARABIC
-http://210.210.155.37/qwr9ew/s/s16/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="DENS TV", TRT WORLD
-http://210.210.155.37/uq2663/h/h156/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="DENS TV", WION
-http://210.210.155.37/uq2663/h/h91/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg" group-title="DENS TV", UA
-http://210.210.155.37/uq2663/h/h101/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="DENS TV", AL JAZEERA ENGLISH
-http://210.210.155.37/qwr9ew/s/s17/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="DENS TV", CCTV 4
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="DENS TV", FRANCE 24
-http://210.210.155.37/qwr9ew/s/s22/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="DENS TV", TVRI SPORT
-http://210.210.155.37/qwr9ew/s/s107/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/121.jpg" group-title="DENS TV", HORIZON SPORT
-http://210.210.155.37/uq2663/h/h124/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENS TV", MOTO RACING
-http://210.210.155.37/uq2663/h/h223/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MOJI HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png", group-title="18. FIRSTMEDIA",MOJI HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TRANSTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS.png", group-title="18. FIRSTMEDIA",TRANSTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TRANS7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS%207.png", group-title="18. FIRSTMEDIA",TRANS7 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ANTV.png", group-title="18. FIRSTMEDIA",ANTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BTV.png", group-title="18. FIRSTMEDIA",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BERITASATU WORLD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BERITASATU.png", group-title="18. FIRSTMEDIA",BERITASATU WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", JAKARTA GLOBE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JAKARTAG.png", group-title="18. FIRSTMEDIA",JAKARTA GLOBE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", KOMPASTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png", group-title="18. FIRSTMEDIA",KOMPASTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", METROTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png", group-title="18. FIRSTMEDIA",METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", IDX CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/IDX.png", group-title="18. FIRSTMEDIA",IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GARUDATV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/GARUDAtv.png", group-title="18. FIRSTMEDIA",GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DAAITV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DAAI.png", group-title="18. FIRSTMEDIA",DAAITV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HOREE!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HOREE.png", group-title="18. FIRSTMEDIA",HOREE!
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", JAKTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JAKTV.png", group-title="18. FIRSTMEDIA",JAKTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", JTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JTV.png", group-title="18. FIRSTMEDIA",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TV9 NUSANTARA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TV9.png", group-title="18. FIRSTMEDIA",TV9 NUSANTARA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", WESTJAVA NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/WestJ.png", group-title="18. FIRSTMEDIA",WESTJAVA NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BALAIKOTA CHANNEL
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20SD-FirstMedia-Chl-33.jpg", group-title="18. FIRSTMEDIA",BALAIKOTA CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BALAIKOTA BANDUNG
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20Bandung%20SD-FirstMedia-Chl-34.jpg", group-title="18. FIRSTMEDIA",BALAIKOTA BANDUNG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FIRST WARRIORS
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/2-E-SPORT/Frst%20Warriors%20HD-FirstMedia-Chl-999.jpg", group-title="18. FIRSTMEDIA",FIRST WARRIORS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FIRST LIFESTYLE
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg", group-title="18. FIRSTMEDIA",FIRST LIFESTYLE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA MUSLIM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg", group-title="18. FIRSTMEDIA",CITRA MUSLIM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA BIOSKOP
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png", group-title="18. FIRSTMEDIA",CITRA BIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA DRAMA
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png", group-title="18. FIRSTMEDIA",CITRA DRAMA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA DANGDUT
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png", group-title="18. FIRSTMEDIA",CITRA DANGDUT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA ENTERTAINMENT
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png", group-title="18. FIRSTMEDIA",CITRA ENTERTAINMENT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TVRI
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png", group-title="18. FIRSTMEDIA",TVRI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", AXN
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png", group-title="18. FIRSTMEDIA",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", PARAMOUNT NETWORK
+#EXTINF:-1 http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png", group-title="18. FIRSTMEDIA",PARAMOUNT NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ROCK ACTION
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png", group-title="18. FIRSTMEDIA",ROCK ACTION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png", group-title="18. FIRSTMEDIA",ROCK ENTERTAINMENT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HITSMOVIE
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png", group-title="18. FIRSTMEDIA",HITS MOVIE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HITS
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png", group-title="18. FIRSTMEDIA",HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SONY MAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png", group-title="18. FIRSTMEDIA",SONY MAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", KIX
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png", group-title="18. FIRSTMEDIA",KIX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TVN
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png", group-title="18. FIRSTMEDIA",TVN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TVNMOVIES
+#EXTINF:-1 tvg-logo="hhttps://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201701111724468376495_20170111172626_01.jpg, group-title="18. FIRSTMEDIA",TVN MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", KBSWORLD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png", group-title="18. FIRSTMEDIA",KBS WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ONE
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png", group-title="18. FIRSTMEDIA",SONY ONE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ZEEBIOSKOP
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png", group-title="18. FIRSTMEDIA",ZEEBIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SPOTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png", group-title="18. FIRSTMEDIA",SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SPOTV2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png", group-title="18. FIRSTMEDIA",SPOTV2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", EUROSPORT
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909310533193_image-header_pIt_1686238719000&quality=70", group-title="18. FIRSTMEDIA",EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CGTN DOCUMENTARY
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png", group-title="18. FIRSTMEDIA",CGTN DOCUMENTARY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png", group-title="18. FIRSTMEDIA",DISCOVERY CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png", group-title="18. FIRSTMEDIA",ANIMAL PLANET
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", LOVENATURE
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png", group-title="18. FIRSTMEDIA",LOVENATURE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HISTORY
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png", group-title="18. FIRSTMEDIA",HISTORY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CRIMEINVESTIGATION
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/99f1a318b5c6b2ea16112188fe3641eb.svg", group-title="18. FIRSTMEDIA",CRIMEINVESTIGATION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TECHSTORM
+#EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png", group-title="18. FIRSTMEDIA",TECHSTORM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GLOBAL TREKKER
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png", group-title="18. FIRSTMEDIA",GLOBAL TREKKER
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DREAMWORK
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png", group-title="18. FIRSTMEDIA",DREAMWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", LIFETIME
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png", group-title="18. FIRSTMEDIA",LIFETIME
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HGTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png", group-title="18. FIRSTMEDIA",HGTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TLC
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png", group-title="18. FIRSTMEDIA",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", AFN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png", group-title="18. FIRSTMEDIA",AFN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FOOD NETWORK
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png", group-title="18. FIRSTMEDIA",FOOD NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FASHIONTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png", group-title="18. FIRSTMEDIA",FASHIONTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DAVINCI
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3e7d43bedbb508318fbef3d99aa56732.png", group-title="18. FIRSTMEDIA",DA VINCI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANIMAX
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png", group-title="18. FIRSTMEDIA",ANIMAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BOOMERANG
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png", group-title="18. FIRSTMEDIA",BOOMERANG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80C4ymGhiSixfnABmDMjsOiY7VVqLXz5c-A&usqp=CAU", group-title="18. FIRSTMEDIA",CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", NICKELODEON
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png", group-title="18. FIRSTMEDIA",NICKELODEON
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", NICKJR.
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png", group-title="18. FIRSTMEDIA",NICK JR
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MTV 90S
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkALF-4BQMfDVyoqx0veoAHDWGziFel-Fhww&usqp=CAU", group-title="18. FIRSTMEDIA",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MTV STAGE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPQrZduEW42ln9mDwHQ7O_1STZ0_cOPkeuTd8ww9AJjhhYf-4w21hMBU9_SY105iC2yU&usqp=CAU", group-title="18. FIRSTMEDIA",MTV STAGE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", STINGRAY NATURESCAPE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrqU06igSDhyxD7RMKa4iU9WHjGikEp-hXatQsML6B8X1k2sspPXJV9nw7GLLmIZ7hxo&usqp=CAU", group-title="18. FIRSTMEDIA",STINGRAY NATURESCAPE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", STINGRAY DJAZZ
+#EXTINF:-1 tvg-logo="https://djazz.stingray.com/static/site/djazz/site/MetaImage.png", group-title="18. FIRSTMEDIA",STINGRAY DJAZZ
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GEM
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png", group-title="18. FIRSTMEDIA",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CH3888
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/Praise%20SD-FirstMedia-Chl-89.jpg", group-title="18. FIRSTMEDIA",PRA-SE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="19. DENS TV", MNCTV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="19. DENS TV", GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="19. DENS TV", INEWS
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4urMukgFxOsmKR06xskG4LzwSbtbwosJ0oQ&usqp=CAU" group-title="19. DENS TV", RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="19. DENS TV", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="19. DENS TV", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="19. DENS TV", DENS LIVE 1
+http://210.210.155.37/x6bnqe/s/s100/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg" group-title="19. DENS TV", DENS LIVE 2
+http://210.210.155.37/uq2663/h/h998/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="19. DENS TV", DENS PLAY
+http://210.210.155.37/x6bnqe/s/s37/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="19. DENS TV", DENS LIFESTYLE
+http://210.210.155.37/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="19. DENS TV", LEARNING & KNOWLEDGE
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="19. DENS TV", DENS SHOWBIZ
+http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg" group-title="19. DENS TV", DENS FOOD CHANNEL
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="19. DENS TV", METRO TV
+http://210.210.155.37/uq2663/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="19. DENS TV", TVONE
+http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="19. DENS TV", KOMPAS TV
+http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="19. DENS TV", BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="19. DENS TV", SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="19. DENS TV", TRANS 7 1
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/162502.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="19. DENS TV", INDOSIAR
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="19. DENS TV", TRANS TV
+http://kuchini.site:8080/multi6741/ab72059e/162503
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="19. DENS TV", TRANS TV 1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="19. DENS TV", ANTV
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="19. DENS TV", NET
+http://210.210.155.37/uq2663/h/h06/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="19. DENS TV", RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="19. DENS TV", ELSHINTA TV
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="19. DENS TV", MOJI
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="19. DENS TV", TVRI
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="19. DENS TV", JAK TV
+http://210.210.155.37/x6bnqe/s/s46/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="19. DENS TV", RODJA TV
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="19. DENS TV", DAAI TV
+http://210.210.155.37/qwr9ew/s/s13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg" group-title="19. DENS TV", U CHANNEL
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="19. DENS TV", EGG NETWORK TV
+http://210.210.155.37/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="19. DENS TV", ANIPLUS
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="19. DENS TV", MY KIDZ
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="19. DENS TV", TOONZ KIDZ
+http://210.210.155.37/x6bnqe/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="19. DENS TV", HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="19. DENS TV", HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="19. DENS TV", ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="19. DENS TV", ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="19. DENS TV", ROCK ACTION
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151142.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="19. DENS TV", ROCK ENTERTAINMENT
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151143.ts
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="19. DENS TV", KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="19. DENS TV", GEM
+http://210.210.155.37/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="19. DENS TV", K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg" group-title="19. DENS TV", TVN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="19. DENS TV", TVN MOVIES
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="19. DENS TV", CELESTIAL MOVIES
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="19. DENS TV", CCM
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="19. DENS TV", ZEE BIOSKOP
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="19. DENS TV", THRILL
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="19. DENS TV", CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="19. DENS TV", MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="19. DENS TV", MY CINEMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="19. DENS TV", CINEMA EUROPE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="19. DENS TV", MY FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="19. DENS TV", Monde STYLE
+http://210.210.155.37/dr9445/h/h01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="19. DENS TV", FIGHT SPORTS
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg" group-title="19. DENS TV", MOTORVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="19. DENS TV", CNA
+http://210.210.155.37/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="19. DENS TV", NHK WORLD JAPAN
+http://210.210.155.37/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="19. DENS TV", AL JAZEERA ARABIC
+http://210.210.155.37/qwr9ew/s/s16/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="19. DENS TV", TRT WORLD
+http://210.210.155.37/uq2663/h/h156/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="19. DENS TV", WION
+http://210.210.155.37/uq2663/h/h91/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg" group-title="19. DENS TV", UA
+http://210.210.155.37/uq2663/h/h101/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="19. DENS TV", AL JAZEERA ENGLISH
+http://210.210.155.37/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="19. DENS TV", CCTV 4
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="19. DENS TV", FRANCE 24
+http://210.210.155.37/qwr9ew/s/s22/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="19. DENS TV", TVRI SPORT
+http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/121.jpg" group-title="19. DENS TV", HORIZON SPORT
+http://210.210.155.37/uq2663/h/h124/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="19. DENS TV", MOTO RACING
+http://210.210.155.37/uq2663/h/h223/index.m3u8
 
 
 
