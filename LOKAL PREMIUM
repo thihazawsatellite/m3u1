@@ -3031,11 +3031,8 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/327-3270547_tayo-the-little-bus-logo-png.png" group-title="4. CARTOONS",Tayo TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:0 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="4. CARTOONS",Cartoon Network (dub indo) 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
