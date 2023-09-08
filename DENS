@@ -11,10 +11,6 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 2
