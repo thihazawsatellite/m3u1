@@ -2331,17 +2331,26 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="3. MOVIES",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
-#EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 
+#EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop Ku
 http://kuchini.site:8080/Raionew/2e1df8e7/298526
+#EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop Sy
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298526
 
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 02 
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 02 Ku
 http://kuchini.site:8080/Raionew/2e1df8e7/298527
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 02 Sy
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298527
 
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 03 
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 03 Ku
 http://kuchini.site:8080/Raionew/2e1df8e7/298528
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 03 Sy
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298528
 
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 04 
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 04 Ku
 http://kuchini.site:8080/Raionew/2e1df8e7/298529
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEBdXndk6-6HPv4lL8qK-wLZokKpSM8kiLQ&usqp=CAU" group-title="3. MOVIES",ID: Etv Bioskop 04 Sy
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298529
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1200px-IFC_2018_logo.svg.png" group-title="3. MOVIES",IFC Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2353,60 +2362,64 @@ http://aflaxtv.xyz:8080/multi9159/d1a478bd/11511
 
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="3. MOVIES",Cinemax 
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="3. MOVIES",Cinemax MX
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="3. MOVIES",Cinemax (Android 6) 
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="3. MOVIES",Cinemax CUB
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
-#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="3. MOVIES",Cinemax (Android 6) 
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="3. MOVIES",Cinemax SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
 
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO HD
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
- 
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO HD (Android 6)
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO MX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO HD (Android 6) 
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO CUB
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO HD SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
 
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO HD
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941648&extension=m3u8&play_token=xdbt7BgLik683152
 
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="3. MOVIES",HBO Family 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="3. MOVIES",HBO Family (Android 6) 
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="3. MOVIES",HBO Family MX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="3. MOVIES",HBO Family (Android 6) 
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197055
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="3. MOVIES",HBO Family CUB
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="3. MOVIES",HBO Family SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
 
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="3. MOVIES",HBO Family 
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941646&extension=m3u8&play_token=xdbt7BgLik683150
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="3. MOVIES",HBO Signature 
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="3. MOVIES",HBO Signature (Android 6) 
+
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="3. MOVIES",HBO Signature MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosig.openwindow040.workers.dev
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="3. MOVIES",HBO Signature (Android 6) 
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/221948
+
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="3. MOVIES",HBO Signature CUB
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="3. MOVIES",HBO Signature SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
 
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="3. MOVIES",HBO Signature 
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941645&extension=m3u8&play_token=xdbt7BgLik683156
@@ -2414,18 +2427,18 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941645&extension=
 #EXTINF:0 group-title="3. MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature (luar) 
 http://208.115.225.174:14160
 
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES",HBO Hits 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES",HBO Hits (Android 6) 
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES",HBO Hits MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosig.openwindow040.workers.dev
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES",HBO Hits (Android 6) 
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.testapivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES",HBO Hits CUB
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES",HBO Hits SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
 
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES",HBO Hits 
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941647&extension=m3u8&play_token=xdbt7BgLik683151
@@ -2460,28 +2473,6 @@ http://208.115.225.174:14165
 #EXTINF:0  group-title="3. MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO HITS HD
 #http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683151&extension=ts&play_token=RmFK3j6FUm
 
-#EXTINF:0  group-title="3. MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO HITS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-#https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0  group-title="3. MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
-#https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#EXTINF:0  group-title="3. MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-#https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#EXTINF:0  group-title="3. MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
-#http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683150&extension=m3u8&play_token=xdbt7BgLik
-
-#EXTINF:0 group-title="3. MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
