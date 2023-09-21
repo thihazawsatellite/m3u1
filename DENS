@@ -1127,15 +1127,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR2SVBpJ/etvbioskop.png" group-title="FILM",  ETV Bioskop
 https://kametv.my.id/putar/etv01.php
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxbhDdd/etvbioskop2.png" group-title="FILM",  ETV Bioskop 2
 https://kametv.my.id/putar/etv02.php
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5WNNbHb/etvbioskop3.png" group-title="FILM",  ETV Bioskop 3
 https://kametv.my.id/putar/etv03.php
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPNgpwW0/etvbioskop4.png" group-title="FILM",  ETV Bioskop 4
 https://kametv.my.id/putar/etv04.php
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR2SVBpJ/etvbioskop.png" group-title="FILM",  ETV Bioskop SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298526
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxbhDdd/etvbioskop2.png" group-title="FILM",  ETV Bioskop 2 SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298527
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5WNNbHb/etvbioskop3.png" group-title="FILM",  ETV Bioskop 3 SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298528
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPNgpwW0/etvbioskop4.png" group-title="FILM",  ETV Bioskop 4 SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298529
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1240,6 +1247,17 @@ https://kametv.my.id/putar/hboindobckup/sign.php
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 #http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 https://kametv.my.id/putar/hboindobckup/hits.php
+
+#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="FILM",Cinemax SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="FILM",HBO SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="FILM",HBO Family SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="FILM",HBO Hits SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature SY
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
