@@ -732,8 +732,16 @@ http://kuchini.site:8080/F30140/f3de2280/157584
 http://kuchini.site:8080/F30140/f3de2280/264751
 
 
-
-
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="TH➾ TRUE SPORTS", True Sport Premier Football 1
+https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="TH➾ TRUE SPORTS", True Sport Premier Football 2
+https://m1.ballnaja.com/live/True_Premier_Football_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="TH➾ TRUE SPORTS", True Sport Premier Football 3
+https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="TH➾ TRUE SPORTS", True Sport Premier Football 4
+https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="TH➾ TRUE SPORTS", True Sport Premier Football 5
+https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS FEED YAYIN mac saati aktif
 http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/12
