@@ -10,6 +10,19 @@ https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 1 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 2 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 3 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 4 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO", US - Espn News HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57189
 
