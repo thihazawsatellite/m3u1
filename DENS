@@ -24,18 +24,6 @@ https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/max-sport-1-bg.png" group-title="SPORT GADO GADO 1", MAX SPORT 1 HD
-http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12540
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO 1", MAX SPORT 2 HD
-http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12986
-
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT GADO GADO 1", Arena Sport 1 Premium HD
-http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12342
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO", US - Espn News HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57189
 
@@ -543,6 +531,14 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73132
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO", US - FOX Deportes HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57388
 
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/max-sport-1-bg.png" group-title="SPORT GADO GADO 1", MAX SPORT 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO 1", MAX SPORT 2 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12986
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT GADO GADO 1", Arena Sport 1 Premium HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12342
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORT GADO GADO 1", Arena Sport 2 Premium HD
 http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12343
@@ -958,7 +954,7 @@ http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/8594
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO 1", ORF Sport+ HD
 http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6740
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUSTRIA", AT: Sport 1+ HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO 1", AT: Sport 1+ HD
 http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9399
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GADO GADO 1", AT: ORF Sport+ HD
