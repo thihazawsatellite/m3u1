@@ -840,7 +840,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:-14  group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.postimg.cc/7602FTsR/bi.png",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-14  group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.postimg.cc/7602FTsR/bi.png",Bioskop Indonesia - Backup
@@ -920,7 +920,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/130cT46m/dunialain.png" group-title="🇮🇩 NASIONAL 🇮🇩",Dunia Lain 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/ 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/ 
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8|
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/130cT46m/dunialain.png" group-title="🇮🇩 NASIONAL 🇮🇩",Dunia Lain - Backup
@@ -1277,7 +1277,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfC7W2nW/wb.png" group-title="FILM",Warner TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfC7W2nW/wb.png" group-title="FILM",Warner TV - Backup
@@ -1301,26 +1301,26 @@ http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(9ef01e28-6fac-49
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="FILM",HBO 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 https://kametv.my.id/putar/hboindobckup/hbo.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="FILM",HBO Family 
 http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 https://kametv.my.id/putar/hboindobckup/family.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature 
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 #http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 https://kametv.my.id/putar/hboindobckup/sign.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="FILM",HBO Hits 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
@@ -2125,7 +2125,7 @@ https://12537-stream-ip-tv.xyz/play/yusi/hls/indikids/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpf616w/dunianak.png" group-title="ANAK",Dunia Anak
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpf616w/dunianak.png" group-title="ANAK",Dunia Anak - Backup
@@ -2359,7 +2359,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 --------------- MUSIK ----------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj08PgPM/musikindo.png" group-title="MUSIK" tvg-id="" tvg-name="",Musik Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
