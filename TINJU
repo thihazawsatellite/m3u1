@@ -217,12 +217,120 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040328&exte
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SETANTA SPORT+ UR
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040327&extension=ts&play_token=PCrj0cpNiM
 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VIJU+ SPORT RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132781&extension=ts&play_token=PCrj0cpNiM
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 1 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132716&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 2 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132716&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 1 RU FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040314&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 2 RU FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040315&extension=ts&play_token=PCrj0cpNiM
+
+
 #EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", FLOW SPORT 
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1106879&extension=ts&play_token=8Zz1UB3C6t
 #EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", WILLOW CRICKET 
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1104677&extension=ts&play_token=8Zz1UB3C6t
 #EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", WILLOW CRICKET EXTRA
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1142110&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", EXTREME SPORT RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132483&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MOTORSPORT RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132601&extension=ts&play_token=8Zz1UB3C6t
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH BOEH RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=300846&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=300843&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH 2 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132562&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH 3 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132564&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH 4 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132566&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCHPAHA RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132595&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH ARENA RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132558&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 1 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035203&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 2 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035201&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 3 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035199&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 4 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035197&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5  IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035196&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 GOLD IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035194&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 PLUS IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035193&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 LIVE IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035191&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 STARS IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035190&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT ONE IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035189&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 1 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035194&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801859&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 3 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801860&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 1 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801855&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 2 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801856&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 3 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801857&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110913&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1192360&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801858&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 EXYU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110914&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110911&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110912&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=161932&extension=ts&play_token=8Zz1UB3C6t
+
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110913&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110913&extension=ts&play_token=8Zz1UB3C6t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
