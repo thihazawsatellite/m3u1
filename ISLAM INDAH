@@ -1,0 +1,731 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Follow https://t.me/iptv_sunnah for more updates" tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",Follow https://t.me/iptv_sunnah for more updates
+https://www.googleapis.com/drive/v3/files/1-I2bcsbfHEVSulQYCgJMlv8LuolNkXy8?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 1
+https://etus.link/iptvsunnah_live1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 2
+https://etus.link/iptvsunnah_live2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 3
+https://etus.link/iptvsunnah_live3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 4
+https://etus.link/iptvsunnah_live4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 5
+https://etus.link/iptvsunnah_live5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 6
+https://etus.link/iptvsunnah_live6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 7
+https://etus.link/iptvsunnah_live7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 8
+https://etus.link/iptvsunnah_live8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 9
+https://etus.link/iptvsunnah_live9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 10
+https://etus.link/iptvsunnah_live10
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 11
+https://etus.link/iptvsunnah_live11
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 12
+https://etus.link/iptvsunnah_live12
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 13
+https://etus.link/iptvsunnah_live13
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 14
+https://etus.link/iptvsunnah_live14
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRMT8B7/20211221-192546.png" group-title="LIVE KAJIAN ISLAM",LIVE 15
+https://etus.link/iptvsunnah_live15
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="anb channel" tvg-logo="https://i.ibb.co/QdTk4HB/anb.png" group-title="LIVE KAJIAN ISLAM",anb channel
+https://etus.link/iptvsunnah_anb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFA Channel" tvg-logo="https://i.ibb.co/Gvdvxq2/UFA.png" group-title="LIVE KAJIAN ISLAM",UFA Channel
+https://etus.link/iptvsunnah_UFA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rumaysho TV" tvg-logo="https://i.ibb.co/44LhQCW/Rumaysho.png" group-title="LIVE KAJIAN ISLAM",Rumaysho TV
+https://etus.link/iptvsunnah_rumayshotv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robbani TV" tvg-logo="https://i.ibb.co/Q8pbNCM/Robbani.png" group-title="LIVE KAJIAN ISLAM",Robbani TV
+https://etus.link/iptvsunnah_robbanitv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muhammad Nuzul Dzikri" tvg-logo="https://i.ibb.co/qgLZRPV/MNDz.png" group-title="LIVE KAJIAN ISLAM",Muhammad Nuzul Dzikri
+https://etus.link/iptvsunnah_MNDz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsman TV" tvg-logo="https://i.ibb.co/6nTSf2W/UtsmanTV.png" group-title="LIVE KAJIAN ISLAM",Utsman TV
+https://etus.link/iptvsunnah_utsmantv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yufid TV" tvg-logo="https://i.ibb.co/zVshkrv/Yufid.png" group-title="LIVE KAJIAN ISLAM",Yufid TV
+https://etus.link/iptvsunnah_yufid
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Haqu TV" tvg-logo="https://yt3.googleusercontent.com/0QpgdMqKEooVtNLgzDaVAjLH2IIPRUT9v2610pHHLkcDQNrkq0EITo5ai9iQo9tjfXwJGCfZ=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE KAJIAN ISLAM",Haqu TV
+https://etus.link/iptvsunnah_haqutv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kliksunnah TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPqo9hP56t-JOI2JkCuX2TvgAl1g9mdFJpJmQl9=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE KAJIAN ISLAM",Kliksunnah TV
+https://etus.link/iptvsunnah_kliksunnah
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Konsultasi Islam" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqN8Rz_8b3YFwHNLhs65ZQmK7Wu2bvjFIGxSpnJ6=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE KAJIAN ISLAM",Konsultasi Islam
+https://etus.link/iptvsunnah_kuslamtv
+
+
+
+#EXTINF:-1 tvg-id="552562" tvg-name="Murottal Terjemah 24/7" tvg-logo="https://i.ibb.co/1ZDf2tw/Mp3quran.png" group-title="AL-QUR'AN",Murottal Terjemah 24/7
+http://quraan.us:9978/
+#EXTINF:-1 tvg-id="552562" tvg-name="[001] Surah Al-Fatihah (Pembukaan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[001] Surah Al-Fatihah (Pembukaan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190281
+#EXTINF:-1 tvg-id="233100" tvg-name="[002] Surah Al-Baqarah (Lembu Betina)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[002] Surah Al-Baqarah (Lembu Betina)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190282
+#EXTINF:-1 tvg-id="343202" tvg-name="[003] Surah Ali 'Imran (Keluarga Imran)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[003] Surah Ali 'Imran (Keluarga Imran)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190283
+#EXTINF:-1 tvg-id="786939" tvg-name="[004] Surah An-Nisaa' (Wanita)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[004] Surah An-Nisaa' (Wanita)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190284
+#EXTINF:-1 tvg-id="255522" tvg-name="[005] Surah Al-Maa'idah (Hidangan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[005] Surah Al-Maa'idah (Hidangan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190285
+#EXTINF:-1 tvg-id="358313" tvg-name="[006] Surah Al-An'aam (Binatang Ternakan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[006] Surah Al-An'aam (Binatang Ternakan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190286
+#EXTINF:-1 tvg-id="179806" tvg-name="[007] Surah Al-A'raaf (Tempat Tertinggi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190287
+#EXTINF:-1 tvg-id="696895" tvg-name="[008] Surah Al-Anfaal (Rampasan Perang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[008] Surah Al-Anfaal (Rampasan Perang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190288
+#EXTINF:-1 tvg-id="937234" tvg-name="[009] Surah At-Taubah (Pengampunan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[009] Surah At-Taubah (Pengampunan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190289
+#EXTINF:-1 tvg-id="626127" tvg-name="[010] Surah Yunus (Nabi Yunus a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[010] Surah Yunus (Nabi Yunus a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190290
+#EXTINF:-1 tvg-id="410590" tvg-name="[011] Surah Hud (Nabi Hud a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[011] Surah Hud (Nabi Hud a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190291
+#EXTINF:-1 tvg-id="904384" tvg-name="[012] Surah Yusuf (Nabi Yusuf a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[012] Surah Yusuf (Nabi Yusuf a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190292
+#EXTINF:-1 tvg-id="139353" tvg-name="[013] Surah Ar-Ra'd (Guruh)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[013] Surah Ar-Ra'd (Guruh)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190293
+#EXTINF:-1 tvg-id="903990" tvg-name="[014] Surah Ibrahim (Nabi Ibrahim a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190294
+#EXTINF:-1 tvg-id="130690" tvg-name="[015] Surah Al-Hijr (Kawasan Berbatu)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[015] Surah Al-Hijr (Kawasan Berbatu)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190295
+#EXTINF:-1 tvg-id="317834" tvg-name="[016] Surah An-Nahl (Lebah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[016] Surah An-Nahl (Lebah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190296
+#EXTINF:-1 tvg-id="226588" tvg-name="[017] Surah Al-Israa' (Perjalanan Malam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[017] Surah Al-Israa' (Perjalanan Malam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190297
+#EXTINF:-1 tvg-id="901812" tvg-name="[018] Surah Al-Kahfi (Gua)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[018] Surah Al-Kahfi (Gua)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190298
+#EXTINF:-1 tvg-id="693043" tvg-name="[019] Surah Maryam (Siti Maryam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[019] Surah Maryam (Siti Maryam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190299
+#EXTINF:-1 tvg-id="211053" tvg-name="[020] Surah Taahaa" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[020] Surah Taahaa
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190300
+#EXTINF:-1 tvg-id="241006" tvg-name="[021] Surah Al-Anbiyaa' (Para Nabi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[021] Surah Al-Anbiyaa' (Para Nabi)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190301
+#EXTINF:-1 tvg-id="205380" tvg-name="[022] Surah Al-Hajj (Haji)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[022] Surah Al-Hajj (Haji)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190302
+#EXTINF:-1 tvg-id="205380" tvg-name="[023] Surah Al-Mu'minun (Orang-Orang Mukmin)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[023] Surah Al-Mu'minun (Orang-Orang Mukmin)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:-1 tvg-id="205380" tvg-name="[024] Surah An-Nur (Cahaya)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[024] Surah An-Nur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:-1 tvg-id="192335" tvg-name="[025] Surah Al-Furqaan (Pembeda)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[025] Surah Al-Furqaan (Pembeda)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190303
+#EXTINF:-1 tvg-id="595844" tvg-name="[026] Surah Asy-Syu'ara' (Para Penyair)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[026] Surah Asy-Syu'ara' (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:-1 tvg-id="595844" tvg-name="[027] Surah An-Naml (Semut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[027] Surah An-Naml (Semut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190304
+#EXTINF:-1 tvg-id="788895" tvg-name="[028] Surah Al-Qasas (Cerita-cerita)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[028] Surah Al-Qasas (Cerita-cerita)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190305
+#EXTINF:-1 tvg-id="934696" tvg-name="[029] Surah Al-'Ankabut (Labah-labah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[029] Surah Al-'Ankabut (Labah-labah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190306
+#EXTINF:-1 tvg-id="212182" tvg-name="[030] Surah Ar-Rum (Bangsa Rom)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[030] Surah Ar-Rum (Bangsa Rom)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190307
+#EXTINF:-1 tvg-id="324240" tvg-name="[031] Surah Luqman (Luqman)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[031] Surah Luqman (Luqman)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190308
+#EXTINF:-1 tvg-id="990477" tvg-name="[032] Surah As-Sajdah (Sujud)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[032] Surah As-Sajdah (Sujud)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190309
+#EXTINF:-1 tvg-id="836912" tvg-name="[033] Surah Al-Ahzab (Golongan yang Bersekutu)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190310
+#EXTINF:-1 tvg-id="767896" tvg-name="[034] Surah Saba' (Kaum Saba')" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[034] Surah Saba' (Kaum Saba')
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190311
+#EXTINF:-1 tvg-id="726448" tvg-name="[035] Surah Faatir (Pencipta)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[035] Surah Faatir (Pencipta)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190312
+#EXTINF:-1 tvg-id="433355" tvg-name="[036] Surah Yaasin" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[036] Surah Yaasin
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190313
+#EXTINF:-1 tvg-id="433355" tvg-name="[037] Surah As-Saffat (Barisan-Barisan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[037] Surah As-Saffat (Barisan-Barisan)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:-1 tvg-id="712332" tvg-name="[038] Surah Saad" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[038] Surah Saad
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190314
+#EXTINF:-1 tvg-id="610083" tvg-name="[039] Surah Az-Zumar (Rombongan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[039] Surah Az-Zumar (Rombongan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190315
+#EXTINF:-1 tvg-id="122873" tvg-name="[040] Surah Fussilat (Dijelaskan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[040] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF:-1 tvg-id="122873" tvg-name="[041] Surah Fussilat (Dijelaskan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[041] Surah Fussilat (Dijelaskan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190316
+#EXTINF:-1 tvg-id="132710" tvg-name="[042] Surah Asy-Syuraa (Permesyuaratan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[042] Surah Asy-Syuraa (Permesyuaratan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190317
+#EXTINF:-1 tvg-id="703287" tvg-name="[043] Surah Az-Zukhruf (Perhiasan Emas)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[043] Surah Az-Zukhruf (Perhiasan Emas)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190318
+#EXTINF:-1 tvg-id="703287" tvg-name="[044] Surah Ad-Dukhan (Kabut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[044] Surah Ad-Dukhan (Kabut)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:-1 tvg-id="873394" tvg-name="[045] Surah Al-Jatsiyah (Yang Berlutut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[045] Surah Al-Jatsiyah (Yang Berlutut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190319
+#EXTINF:-1 tvg-id="603463" tvg-name="[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190320
+#EXTINF:-1 tvg-id="734543" tvg-name="[047] Surah Muhammad (Nabi Muhammad SAW)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[047] Surah Muhammad (Nabi Muhammad SAW)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190321
+#EXTINF:-1 tvg-id="734997" tvg-name="[048] Surah Al-Fath (Kemenangan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[048] Surah Al-Fath (Kemenangan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190322
+#EXTINF:-1 tvg-id="300169" tvg-name="[049] Surah Al-Hujurat (Bilik-bilik)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[049] Surah Al-Hujurat (Bilik-bilik)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190323
+#EXTINF:-1 tvg-id="638200" tvg-name="[050] Surah Qaaf" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[050] Surah Qaaf
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190324
+#EXTINF:-1 tvg-id="799119" tvg-name="[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190325
+#EXTINF:-1 tvg-id="743254" tvg-name="[052] Surah At-Tur (Bukit)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[052] Surah At-Tur (Bukit)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190326
+#EXTINF:-1 tvg-id="927154" tvg-name="[053] Surah An-Najm (Bintang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[053] Surah An-Najm (Bintang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190327
+#EXTINF:-1 tvg-id="351911" tvg-name="[054] Surah Al-Qamar (Bulan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[054] Surah Al-Qamar (Bulan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190328
+#EXTINF:-1 tvg-id="261613" tvg-name="[055] Surah Ar-Rahman (Yang Maha Pemurah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190329
+#EXTINF:-1 tvg-id="261613" tvg-name="[056] Surah Al-Waqi'ah (Hari Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[056] Surah Al-Waqi'ah (Hari Kiamat)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:-1 tvg-id="261613" tvg-name="[057] Surah Al-Hadid (Besi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:-1 tvg-id="972439" tvg-name="[058] Surah Al-Mujadilah (Perempuan yang Merayu)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190330
+#EXTINF:-1 tvg-id="793053" tvg-name="[059] Surah Al-Hasyr (Pengusiran)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[059] Surah Al-Hasyr (Pengusiran)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190331
+#EXTINF:-1 tvg-id="647134" tvg-name="[060] Surah Al-Mumtahanah (Perempuan yang Diuji)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190332
+#EXTINF:-1 tvg-id="948480" tvg-name="[061] Surah As-Saf (Barisan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[061] Surah As-Saf (Barisan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190333
+#EXTINF:-1 tvg-id="732463" tvg-name="[062] Surah Al-Jumu'ah (Hari Jumaat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[062] Surah Al-Jumu'ah (Hari Jumaat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190334
+#EXTINF:-1 tvg-id="912804" tvg-name="[063] Surah Al-Munafiquun (Golongan Munafik)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[063] Surah Al-Munafiquun (Golongan Munafik)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190335
+#EXTINF:-1 tvg-id="433585" tvg-name="[064] Surah At-Taghabun (Dinampakkan Kesalahan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190336
+#EXTINF:-1 tvg-id="420297" tvg-name="[065] Surah At-Talaq (Cerai / Talak)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[065] Surah At-Talaq (Cerai / Talak)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190337
+#EXTINF:-1 tvg-id="179978" tvg-name="[066] Surah At-Tahrim (Mengharamkan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[066] Surah At-Tahrim (Mengharamkan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190338
+#EXTINF:-1 tvg-id="141698" tvg-name="[067] Surah Al-Mulk (Kerajaan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[067] Surah Al-Mulk (Kerajaan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190339
+#EXTINF:-1 tvg-id="537264" tvg-name="[068] Surah Al-Qalam (Pena / Kalam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[068] Surah Al-Qalam (Pena / Kalam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190340
+#EXTINF:-1 tvg-id="126455" tvg-name="[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190341
+#EXTINF:-1 tvg-id="610319" tvg-name="[070] Surah Al-Maâarij (Tempat Naik)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[070] Surah Al-Maâarij (Tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF:-1 tvg-id="610319" tvg-name="[071] Surah Nuh (Nabi Nuh a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[071] Surah Nuh (Nabi Nuh a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190342
+#EXTINF:-1 tvg-id="610319" tvg-name="[072] Surah Al-Jinn (Jin)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[072] Surah Al-Jinn (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:-1 tvg-id="133032" tvg-name="[073] Surah Al-Muzammil (Yang Berselimut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[073] Surah Al-Muzammil (Yang Berselimut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190343
+#EXTINF:-1 tvg-id="308177" tvg-name="[074] Surah Al-Muddathir (Yang Berselubung)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[074] Surah Al-Muddathir (Yang Berselubung)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190344
+#EXTINF:-1 tvg-id="869094" tvg-name="[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190345
+#EXTINF:-1 tvg-id="610319" tvg-name="[076] Surah Al-Insan (Manusia)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[076] Surah Al-Insan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:-1 tvg-id="380202" tvg-name="[077] Surah Al-Mursalat (Malaikat Yang Diutus)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190346
+#EXTINF:-1 tvg-id="488450" tvg-name="[078] Surah An-Naba' (Berita Besar)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[078] Surah An-Naba' (Berita Besar)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190347
+#EXTINF:-1 tvg-id="819599" tvg-name="[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190348
+#EXTINF:-1 tvg-id="223521" tvg-name="[080] Surah 'Abasa (Dia Bermasam Muka)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[080] Surah 'Abasa (Dia Bermasam Muka)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190349
+#EXTINF:-1 tvg-id="400801" tvg-name="[081] Surah At-Takwiir (Menggulung)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[081] Surah At-Takwiir (Menggulung)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190350
+#EXTINF:-1 tvg-id="610319" tvg-name="[082] Surah Al-Infitar (Terbelah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[082] Surah Al-Infitar (Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:-1 tvg-id="533747" tvg-name="[083] Surah Al-Mutaffifiin (Golongan yang Curang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190351
+#EXTINF:-1 tvg-id="791538" tvg-name="[084] Surah Al-Insyiqaaq (Terbelah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[084] Surah Al-Insyiqaaq (Terbelah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190352
+#EXTINF:-1 tvg-id="639346" tvg-name="[085] Surah Al-Buruj (Gugusan Bintang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[085] Surah Al-Buruj (Gugusan Bintang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190353
+#EXTINF:-1 tvg-id="505518" tvg-name="[086] Surah At-Taariq (Pengunjung Malam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[086] Surah At-Taariq (Pengunjung Malam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190354
+#EXTINF:-1 tvg-id="610319" tvg-name="[087] Surah Al-A'la (Maha Tinggi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[087] Surah Al-A'la (Maha Tinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:-1 tvg-id="329555" tvg-name="[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190355
+#EXTINF:-1 tvg-id="836801" tvg-name="[089] Surah Al-Fajr (Fajar / Sinar Mentari)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190356
+#EXTINF:-1 tvg-id="983724" tvg-name="[090] Surah Al-Balad (Negeri)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[090] Surah Al-Balad (Negeri)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190357
+#EXTINF:-1 tvg-id="152541" tvg-name="[091] Surah Asy-Syams (Matahari)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[091] Surah Asy-Syams (Matahari)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190358
+#EXTINF:-1 tvg-id="841568" tvg-name="[092] Surah Al-Lail (Malam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[092] Surah Al-Lail (Malam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190359
+#EXTINF:-1 tvg-id="922527" tvg-name="[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190360
+#EXTINF:-1 tvg-id="858981" tvg-name="[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190361
+#EXTINF:-1 tvg-id="348255" tvg-name="[095] Surah At-Tin (Buah Tin / Buah Ara)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[095] Surah At-Tin (Buah Tin / Buah Ara)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190362
+#EXTINF:-1 tvg-id="271651" tvg-name="[096] Surah Al-'Alaq (Segumpal Darah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[096] Surah Al-'Alaq (Segumpal Darah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190363
+#EXTINF:-1 tvg-id="136738" tvg-name="[097] Surah Al-Qadr (Kemuliaan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[097] Surah Al-Qadr (Kemuliaan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190364
+#EXTINF:-1 tvg-id="583822" tvg-name="[098] Surah Al-Baiyinah (Bukti yang Nyata)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190365
+#EXTINF:-1 tvg-id="991937" tvg-name="[099] Surah Al-Zalzalah (Kegoncangan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[099] Surah Al-Zalzalah (Kegoncangan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190366
+#EXTINF:-1 tvg-id="326060" tvg-name="[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190367
+#EXTINF:-1 tvg-id="697209" tvg-name="[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190368
+#EXTINF:-1 tvg-id="158095" tvg-name="[102] Surah At-Takathur (Bermegah-Megah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[102] Surah At-Takathur (Bermegah-Megah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190369
+#EXTINF:-1 tvg-id="779044" tvg-name="[103] Surah Al-'Asr (Masa)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[103] Surah Al-'Asr (Masa)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190370
+#EXTINF:-1 tvg-id="136640" tvg-name="[104] Surah Al-Humazah (Pengumpat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[104] Surah Al-Humazah (Pengumpat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190371
+#EXTINF:-1 tvg-id="610319" tvg-name="[105] Surah Al-Fil (Gajah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[105] Surah Al-Fil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:-1 tvg-id="980825" tvg-name="[106] Surah Quraisy (Kaum Quraisy)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[106] Surah Quraisy (Kaum Quraisy)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190372
+#EXTINF:-1 tvg-id="610319" tvg-name="[107] Surah Al- Ma'un (Barang yg Berguna)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[107] Surah Al- Ma'un (Barang yg Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:-1 tvg-id="610319" tvg-name="[108] Surah Al-Kautsar (Pemberian Yang Banyak)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[108] Surah Al-Kautsar (Pemberian Yang Banyak)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:-1 tvg-id="610319" tvg-name="[109] Surah Al-Kafirun (Golongan Kafir)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:-1 tvg-id="610319" tvg-name="[110] Surah An-Nashr (Pertolongan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[110] Surah An-Nashr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF:-1 tvg-id="129187" tvg-name="[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190373
+#EXTINF:-1 tvg-id="119957" tvg-name="[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190374
+#EXTINF:-1 tvg-id="903415" tvg-name="[113] Surah Al-Falaq (Waktu Subuh / Dinihari)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190375
+#EXTINF:-1 tvg-id="188984" tvg-name="[114] Surah An-Naas (Manusia)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[114] Surah An-Naas (Manusia)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190376
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qL62NHT/Logo-tadabbur.png" group-title="Murottal 24/7",Tadabbur Daily
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly9ldHVzLmxpbmsvaXB0dnN1bm5haF90YWRhYmJ1ci1kYWlseQo=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdurrahman Al Sudais" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abdurrahman Al Sudais
+https://qurango.net/radio/abdulrahman_alsudaes
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mishary Rashid Al-Afasy" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Mishary Rashid Al-Afasy
+https://qurango.net/radio/mishary_alafasi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saad Al Ghamidi" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Saad Al Ghamidi
+https://qurango.net/radio/saad_alghamdi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ali Jaber" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Ali Jaber
+https://qurango.net/radio/ali_jaber
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohammed Ayyoub" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Mohammed Ayyoub
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saud Al Shuraim" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Saud Al Shuraim
+https://qurango.net/radio/saud_alshuraim
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nabil Ar Rifa'i" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Nabil Ar Rifa'i
+https://qurango.net/radio/nabil_al_rifay
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hani Ar Rifa'i" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Hani Ar Rifa'i
+https://qurango.net/radio/hani_arrifai
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasser Al Qatami" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Nasser Al Qatami
+https://qurango.net/radio/nasser_alqatami
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yasser Ad Dossary" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Yasser Ad Dossary
+https://qurango.net/radio/yasser_aldosari
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Bakr Al Shatri" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abu Bakr Al Shatri
+https://qurango.net/radio/shaik_abu_bakr_al_shatri
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maher Al Muaeqaly" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Maher Al Muaeqaly
+https://qurango.net/radio/maher_al_meaqli
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdul Mohsen Al-Qasim" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abdul Mohsen Al-Qasim
+https://qurango.net/radio/abdulmohsen_alqasim
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ali Al-Hudzaifi" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Ali Al-Hudzaifi
+https://qurango.net/radio/ali_alhuthaifi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mahmoud Khalil Al-Hussary" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Mahmoud Khalil Al-Hussary
+https://qurango.net/radio/mahmoud_khalil_alhussary
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdullah Al-Mathrood" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abdullah Al-Mathrood
+https://qurango.net/radio/abdullah_almattrod
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khalifa Al-Tunaijjiy" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Khalifa Al-Tunaijjiy
+https://qurango.net/radio/khalifa_altunaiji
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Idris Akbar" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Idris Akbar
+https://qurango.net/radio/idrees_abkr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Salah Bukhatir" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Salah Bukhatir
+https://qurango.net/radio/slaah_bukhatir
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fares Abbad" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Fares Abbad
+https://qurango.net/radio/fares_abbad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdullah Humaid" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abdullah Humaid
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:ab:dd:7f&stream=902904&extension=m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Islam Sobhi" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Islam Sobhi
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:ab:dd:7f&stream=890202&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI QURAN TV" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="TV Islam",SAUDI QURAN TV
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI QURAN TV (Vidio)" tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="TV Islam",SAUDI QURAN TV (Vidio)
+https://deptokv1.herokuapp.com/index.m3u8?id=6852
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI QURAN TV (Dens)" tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="TV Islam",SAUDI QURAN TV (Dens)
+http://210.210.155.35:80/qwr9ew/s/s28/index.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI QURAN TV (Usee)" tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="TV Islam",SAUDI QURAN TV (Usee)
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI SUNNAH TV (International server)" tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/sunnah-1-1.png" group-title="TV Islam",SAUDI SUNNAH TV (International server)
+http://m.live.net.sa:1935/live/sunnah/chunklist_w938352387.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI SUNNAH TV" tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/sunnah-1-1.png" group-title="TV Islam",SAUDI SUNNAH TV
+https://etus.link/iptvsunnah_saudi-sunnah
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI SUNNAH TV (Dens)" tvg-logo="https://i.postimg.cc/0Q5wbRs1/AL-SUNNAH-AL-NABAWIYAH.png" group-title="TV Islam",SAUDI SUNNAH TV (Dens)
+http://210.210.155.37/qwr9ew/s/s27/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="TV Islam",Makkah TV
+http://mitvpro.live:25461/live/FQJUDZCY4J/XBJLPZRR0V/7264.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Radio Quran (24/7 Live Youtube)" tvg-logo="https://i.ibb.co/JFP90XJ/Sharjah.png" group-title="TV Islam",Sharjah Radio Quran (24/7 Live Youtube)
+https://etus.link/iptvsunnah_sharjahquran
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="British Muslim" tvg-logo="https://i.postimg.cc/HLg518vx/BRITISH-MUSLIM.png" group-title="TV Islam",British Muslim
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Alhijrah SD" tvg-logo="https://i.ibb.co/N96zKzv/Alhijrah.png" group-title="TV Islam",TV Alhijrah SD
+https://etus.link/iptvsunnah_tv-alhijrah
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Alhijrah" tvg-logo="https://i.ibb.co/N96zKzv/Alhijrah.png" group-title="TV Islam",TV Alhijrah
+https://m3u-editor.com:443/wyyibvrg/msvrsh3j/524877178
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUI TV" tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="TV Islam",MUI TV
+http://tvlive.my.id:25461/live/ab/ab/410.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MQTV" tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" group-title="TV Islam",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adi Hidayat Official" tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="TV Islam",Adi Hidayat Official
+https://ythls.onrender.com/channel/UC5KW9VowHehb_jHAhDMZpEQ.m3u8
+#https://edge.nim.mivo.tv/video/assets/oops.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Bahjah TV (Intech)" tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="TV Islam",Al Bahjah TV (Intech)
+https://ythls.onrender.com/channel/UC50vyjmknAf3nMvOr37gm1Q.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Salingsapa TV" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png" group-title="TV Islam",Salingsapa TV
+https://ythls.onrender.com/channel/UCfHKiAhhx2btoZBZu9KTgNg.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RODJA TV" tvg-logo="http://live.artvisi.or.id/logo/rodja.png" group-title="TV Islam",RODJA TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rodja TV USEE" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="TV Islam",Rodja TV USEE
+http://beetv.my.id/x/usee-rodjatv-gojokkk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RODJA TV (Dens)" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png" group-title="TV Islam",RODJA TV (Dens)
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RODJA TV MAXSTREAM" tvg-logo="https://i.ibb.co/ysTs8Kx/Rodja.png" group-title="TV Islam",RODJA TV MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INSAN TV" tvg-logo="https://streaming.artvisi.or.id/assets/img/insantv.png" group-title="TV Islam",INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL IMAN TV" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam",AL IMAN TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ0x2N1h3b3NEbmdJbkFHUjdQNktUMEEubTN1OAo=
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wesal TV" tvg-logo="https://streaming.artvisi.or.id/assets/img/wesal.png" group-title="TV Islam",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURAU TV" tvg-logo="https://streaming.artvisi.or.id/assets/img/surautv.png" group-title="TV Islam",SURAU TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AHSAN TV" tvg-logo="https://streaming.artvisi.or.id/assets/img/ahsan.png" group-title="TV Islam",AHSAN TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQzZjMTVHTjZmdzhBU1RCS2pPRGd0Y3cubTN1OAoKCgo=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NIAGA TV" tvg-logo="https://streaming.artvisi.or.id/assets/img/niagatv.png" group-title="TV Islam",NIAGA TV
+https://etus.link/iptvsunnah_niagatv
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASHIIL TV" tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png" group-title="TV Islam",ASHIIL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUADZ TV" tvg-logo="http://live.artvisi.or.id/logo/muadztv.png" group-title="TV Islam",MUADZ TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ3NzSTEzMGQyOS1Gbk12YlR5OTFkTkEubTN1OA==
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BINBAZ TV" tvg-logo="http://live.artvisi.or.id/logo/binbaztv.png" group-title="TV Islam",BINBAZ TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ3Q0UmN0QXRMS3g5VnpfWFFJUjRReXcubTN1OA==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HIJRAH TV" tvg-logo="https://i.ibb.co/0c1333R/HijrahTV.png" group-title="TV Islam",HIJRAH TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQzYxM3hEX0tiZm52T1hRUGZyRnUxNmcubTN1OA==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RASYAAD TV" tvg-logo="https://i.ibb.co/Sx0pVJh/Rasyaad2.png" group-title="TV Islam",RASYAAD TV
+https://etus.link/iptvsunnah_rasyaadtv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Artivisi 24/7 Rekaman Kajian" tvg-logo="https://i.postimg.cc/pLnCjMhk/20221222-095232.png" group-title="TV Islam",Artivisi 24/7 Rekaman Kajian
+https://streaming.yufid.com/hls/artvisi.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RADIOKITA TV" tvg-logo="https://i.ibb.co/1dgn05q/tvsunnah.png" group-title="TV Islam",RADIOKITA TV
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIFQAN TV" tvg-logo="https://i.ibb.co/z7W0Yjp/rifqantv.png" group-title="TV Islam",RIFQAN TV
+https://etus.link/iptvsunnah_rifqantv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL FURQON TV" tvg-logo="http://live.artvisi.or.id/logo/alfurqontv.png" group-title="TV Islam",AL FURQON TV
+https://etus.link/iptvsunnah_alfurqontv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MHOTV" tvg-logo="http://live.artvisi.or.id/logo/mhotv.png" group-title="TV Islam",MHOTV
+https://h1.intechmedia.net/intech/ch19.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BINA MADANI TV" tvg-logo="https://i.ibb.co/MBv7NCY/Bina.png" group-title="TV Islam",BINA MADANI TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PULDAPI TV" tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam",PULDAPI TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ0pzTUFTYldCREh2Rm9GSHZCMnpfVEEubTN1OA==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGI TV" tvg-logo="http://live.artvisi.or.id/logo/mgitv.png" group-title="TV Islam",MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGI TV (Intech)" tvg-logo="http://live.artvisi.or.id/logo/mgitv.png" group-title="TV Islam",MGI TV (Intech)
+https://h1.intechmedia.net/intech/ch25.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAAJIYA TV" tvg-logo="https://i.ibb.co/zHQ88BD/naajiyatv.png" group-title="TV Islam",NAAJIYA TV
+https://etus.link/iptvsunnah_naajiyatv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IZZAH TV" tvg-logo="https://i.ibb.co/ZM4QxH7/Izzah.png" group-title="TV Islam",IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MADANI TV" tvg-logo="http://www.tvislamonline.com/images/logo/madani.png" group-title="TV Islam",MADANI TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ0hVUDk5aHZiZHpYOVlzSHVRdEw4T3cubTN1OAoKCgo=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SALAM TV" tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam",SALAM TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNNAH TV" tvg-logo="https://i.ibb.co/KFmCc7r/Sunnah.png" group-title="TV Islam",SUNNAH TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sunnah Jalan Pasti (24/7 Live Youtube)" tvg-logo="https://i.ibb.co/ZzvdT8R/SJP.png" group-title="TV Islam",Sunnah Jalan Pasti (24/7 Live Youtube)
+https://etus.link/iptvsunnah_sjp
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Media Sunnah Aceh" tvg-logo="https://i.ibb.co/8KS6n13/MedS.png" group-title="TV Islam",Media Sunnah Aceh
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Media Sunnah Aceh (Live Youtube)" tvg-logo="https://i.ibb.co/8KS6n13/MedS.png" group-title="TV Islam",Media Sunnah Aceh (Live Youtube)
+https://ythls.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV AN-Nashihah" tvg-logo="https://i.ibb.co/Gvdvxq2/UFA.png" group-title="TV Islam",TV AN-Nashihah
+https://ythls.onrender.com/channel/UCZLEB_Oux4yjwV2YIhAlPyQ.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tarbiyyah Sunnah" tvg-logo="http://live.artvisi.or.id/logo/tarbiyahsunnah.png" group-title="TV Islam",Tarbiyyah Sunnah
+https://etus.link/iptvsunnah_tarbiyahsunnah
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fatwa TV" tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" group-title="TV Islam",Fatwa TV
+https://etus.link/iptvsunnah_fatwatv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazwah TV" tvg-logo="https://i.ibb.co/tXydM83/Gazwahtv.png" group-title="TV Islam",Gazwah TV
+https://etus.link/iptvsunnah_gazwahtv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khalid Basalamah Official" tvg-logo="https://i.ibb.co/kMF6S3X/KHB.png" group-title="TV Islam",KHB Official
+https://etus.link/iptvsunnah_KHB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syafiq Riza Basalamah Official" tvg-logo="https://i.ibb.co/4KYJXT5/SRB.png" group-title="TV Islam",SRB Official
+https://etus.link/iptvsunnah_SRB
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Insan tv" tvg-logo="https://i.ibb.co/M2y22rm/Ch1.png" group-title="Intech Media",Insan tv
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Ashiil TV" tvg-logo="https://i.ibb.co/QbDYrnz/Ch2.png" group-title="Intech Media",Ashiil TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Surau TV" tvg-logo="https://i.ibb.co/VmL3Mmv/Ch3.png" group-title="Intech Media",Surau TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Ahsan TV" tvg-logo="https://i.ibb.co/mvj8yt3/Ch4.png" group-title="Intech Media",Ahsan TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQzZjMTVHTjZmdzhBU1RCS2pPRGd0Y3cubTN1OAoKCgo=
+#EXTINF:-1 tvg-id="5" tvg-name="Muadz TV" tvg-logo="https://i.ibb.co/J33dBX7/Ch5.png" group-title="Intech Media",Muadz TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ3NzSTEzMGQyOS1Gbk12YlR5OTFkTkEubTN1OA==
+#EXTINF:-1 tvg-id="6" tvg-name="Rasyaad TV" tvg-logo="https://i.ibb.co/3NYyFKs/Ch6.png" group-title="Intech Media",Rasyaad TV
+https://etus.link/iptvsunnah_rasyaadtv
+#EXTINF:-1 tvg-id="7" tvg-name="Izzah TV" tvg-logo="https://i.ibb.co/mtd6nqz/Ch7.png" group-title="Intech Media",Izzah TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Hijrah TV" tvg-logo="https://i.ibb.co/D7BNZmZ/Ch8.png" group-title="Intech Media",Hijrah TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQzYxM3hEX0tiZm52T1hRUGZyRnUxNmcubTN1OA==
+#EXTINF:-1 tvg-id="9" tvg-name="Al Iman TV" tvg-logo="https://i.ibb.co/51VkhFF/Ch9.png" group-title="Intech Media",Al Iman TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ0x2N1h3b3NEbmdJbkFHUjdQNktUMEEubTN1OAo=
+#EXTINF:-1 tvg-id="10" tvg-name="Niaga TV" tvg-logo="https://i.ibb.co/FnwsjgF/Ch10.png" group-title="Intech Media",Niaga TV
+https://etus.link/iptvsunnah_niagatv
+#EXTINF:-1 tvg-id="11" tvg-name="Albinaa TV" tvg-logo="https://i.ibb.co/QvzCKWy/Ch11.png" group-title="Intech Media",Albinaa TV
+https://etus.link/iptvsunnah_albinaatv
+#EXTINF:-1 tvg-id="12" tvg-name="Salam TV" tvg-logo="https://i.ibb.co/YX8PdDV/Ch12.png" group-title="Intech Media",Salam TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Live Madinah" tvg-logo="https://i.ibb.co/HgsmZ78/Ch13.png" group-title="Intech Media",Live Madinah
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Live Makkah" tvg-logo="https://i.ibb.co/7yd7Yty/Ch14.png" group-title="Intech Media",Live Makkah
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Puldapii TV" tvg-logo="https://i.ibb.co/WgSYyDp/Ch15.png" group-title="Intech Media",Puldapii TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ0pzTUFTYldCREh2Rm9GSHZCMnpfVEEubTN1OA==
+#EXTINF:-1 tvg-id="16" tvg-name="RadioKita TV" tvg-logo="https://i.ibb.co/1dgn05q/tvsunnah.png" group-title="Intech Media",RadioKita TV
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="Sunnah TV" tvg-logo="https://i.ibb.co/BtNSK57/Ch17.png" group-title="Intech Media",Sunnah TV
+https://etus.link/iptvsunnah_sjp
+#EXTINF:-1 tvg-id="18" tvg-name="Wesal TV" tvg-logo="https://i.ibb.co/QdbYhgf/Ch18.png" group-title="Intech Media",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="MHO TV" tvg-logo="https://i.ibb.co/Pcqmdws/Ch19.png" group-title="Intech Media",MHO TV
+https://h1.intechmedia.net/intech/ch19.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Bina Madani TV" tvg-logo="https://i.ibb.co/M8xnKQw/Ch20.png" group-title="Intech Media",Bina Madani TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="Binbaz TV" tvg-logo="https://i.ibb.co/58FD1cf/Ch22.png" group-title="Intech Media",Binbaz TV
+https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ3Q0UmN0QXRMS3g5VnpfWFFJUjRReXcubTN1OA==
+#EXTINF:-1 tvg-id="22" tvg-name="MedS TV" tvg-logo="https://i.ibb.co/QkMPqL9/Ch23.png" group-title="Intech Media",MedS TV
+https://ythls.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="Al Furqon TV" tvg-logo="https://i.ibb.co/ZJ94fnH/Ch24.png" group-title="Intech Media",Al Furqon TV
+https://etus.link/iptvsunnah_alfurqontv
+#EXTINF:-1 tvg-id="24" tvg-name="MGI TV" tvg-logo="https://i.ibb.co/8sTKcd3/Ch25.png" group-title="Intech Media",MGI TV
+https://h1.intechmedia.net/intech/ch25.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/zfGkLmK/Ch26.png" group-title="Intech Media",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="UFA Channel" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" group-title="Intech Media",UFA Channel
+https://etus.link/iptvsunnah_UFA
+#EXTINF:-1 tvg-id="26" tvg-name="Dei Kids" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" group-title="Intech Media",Dei Kids
+https://h1.intechmedia.net/intech/ch80.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAUDI QURAN Radio" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="Radio Islam",SAUDI QURAN Radio
+http://mediaserver2.islamicity.com:8000/SaudiTVArabic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Radio Quran" tvg-logo="https://i.ibb.co/JFP90XJ/Sharjah.png" group-title="Radio Islam",Sharjah Radio Quran
+https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Rodja" tvg-logo="https://i.ibb.co/6n085bh/radiorodja.png" group-title="Radio Islam",Radio Rodja
+http://live2.radiorodja.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Rodja Bandung" tvg-logo="https://i.ibb.co/t4HS9g9/rodja-bandung.png" group-title="Radio Islam",Radio Rodja Bandung
+https://radioislamindonesia.com/rodja-bandung.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Rodja Majalengka" tvg-logo="https://i.ibb.co/rt8ZN4X/rodja-majalengka.png" group-title="Radio Islam",Radio Rodja Majalengka
+https://radioislamindonesia.com/rodja-majalengka.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suara Al-Iman" tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="Radio Islam",Suara Al-Iman
+https://radioislamindonesia.com/aliman.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Salam Jambi" tvg-logo="https://live.artvisi.or.id/logo/salamjambi.png" group-title="Radio Islam",Radio Salam Jambi
+http://streaming.radiosalamjambi.com:8000/;
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al-Hikmah FM" tvg-logo="https://live.artvisi.or.id/logo/alhikmahfm.png" group-title="Radio Islam",Al-Hikmah FM
+http://158.69.119.235:8164/stream
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dakwah Sunnah" tvg-logo="http://tvislamonline.com/images/logo/dsradio.png" group-title="Radio Islam",Dakwah Sunnah
+http://live.dakwahsunnah.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bass FM" tvg-logo="http://tvislamonline.com/images/logo/bassfm.png" group-title="Radio Islam",Bass FM
+http://live.bassfm.id/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hang FM" tvg-logo="https://live.artvisi.or.id/logo/hang.png" group-title="Radio Islam",Hang FM
+http://185.47.62.52:8000/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hidayah FM" tvg-logo="http://tvislamonline.com/images/logo/hidayahfm.png" group-title="Radio Islam",Hidayah FM
+https://radioislamindonesia.com/radiohidayah.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Insani" tvg-logo="https://streaming.artvisi.or.id/assets/img/insanifm.png" group-title="Radio Islam",Radio Insani
+https://insanifm.radio.yufid.com/;?1678517972573
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Muslim" tvg-logo="https://streaming.artvisi.or.id/assets/img/radiomuslim.png" group-title="Radio Islam",Radio Muslim
+http://live.radiomuslim.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kalam FM" tvg-logo="https://i.ibb.co/mBRN3FJ/kalamfm.png" group-title="Radio Islam",Kalam FM
+https://radioislamindonesia.com/idzaatulkhair.mp3?1678518018435
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RadioKita FM" tvg-logo="http://tvislamonline.com/images/logo/kitafm.png" group-title="Radio Islam",RadioKita FM
+http://live.radiosunnah.net/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Tarbiyyah Sunnah" tvg-logo="http://live.artvisi.or.id/logo/tarbiyahsunnah.png" group-title="Radio Islam",Radio Tarbiyyah Sunnah
+https://radioislamindonesia.com/tarbiyah.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suara Sunnah" tvg-logo="https://live.artvisi.or.id/logo/suarasunnah.png" group-title="Radio Islam",Suara Sunnah
+http://i.klikhost.net:8142/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syiar Tauhid" tvg-logo="https://streaming.artvisi.or.id/assets/img/syiartauhidaceh.png" group-title="Radio Islam",Syiar Tauhid
+http://209.58.160.62:11180/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fajri FM" tvg-logo="" group-title="Radio Islam",Fajri FM
+http://coloid.fajrifm.com:9930/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kajian Online Medan" tvg-logo="" group-title="Radio Islam",Kajian Online Medan
+http://live.kajianonlinemedan.com/stream
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hijrah FM" tvg-logo="https://live.artvisi.or.id/logo/hijrahbatam.png" group-title="Radio Islam",Hijrah FM
+http://streaming.hijrahfm.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Satu Radio Lombok" tvg-logo="https://live.artvisi.or.id/logo/radiosatu.png" group-title="Radio Islam",Satu Radio Lombok
+http://live.assunnahfm.com:9010/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Riyadhul Jannah FM" tvg-logo="https://live.artvisi.or.id/logo/rjfm.png" group-title="Radio Islam",Riyadhul Jannah FM
+http://live.syaria.net:9306/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gema Suara Muslim" tvg-logo="https://live.artvisi.or.id/logo/gsmbrebes.png" group-title="Radio Islam",Gema Suara Muslim
+http://live.syaria.net:9982/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shahabat Muslim FM" tvg-logo="https://live.artvisi.or.id/logo/shahabat.png" group-title="Radio Islam",Shahabat Muslim FM
+https://radioislamindonesia.com/shahabatmuslim.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mutiara Qur'an FM" tvg-logo="https://live.artvisi.or.id/logo/mutiaraquran.png" group-title="Radio Islam",Mutiara Qur'an FM
+https://radioislamindonesia.com/mutiaraquran.mp3
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Pagi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="Doa dan Dzikir",Dzikir Pagi
+https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Petang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DpGZOCMeioII5wpQscU03uduG5hvC3w52A&usqp=CAU" group-title="Doa dan Dzikir",Dzikir Petang
+https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Sebelum Tidur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="Doa dan Dzikir",Dzikir Sebelum Tidur
+https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y0IF0K5hCe8/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kisah Utsman Bin Affan - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=Y0IF0K5hCe8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0iVuE0I-J9w/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Cara Cerdas Berbekal Untuk Perjalanan Menuju Akhirat - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=0iVuE0I-J9w
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7eKRDQQWZcE/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Al-Qur'an Membersihkan Hati - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=7eKRDQQWZcE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DbsPly41iqs/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kisah Umar Bin Khattab - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=DbsPly41iqs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/T_3CfEdySac/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",10 Tips Agar Hati Menjadi Bersih - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=T_3CfEdySac
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_Q--DN4soP0/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Merokok, Egoisme yang Membangkrutkan - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=_Q--DN4soP0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-MsLymHm9bU/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Sejarah Abu Bakar Ash-Shiddiq: Keistimewaan yang Tidak Dimiliki Sahabat Lain - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=-MsLymHm9bU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9lsIePDW5V4/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kebahagiaan Sesungguhnya - Ustadz Armen Halim Naro
+https://invidious.lunar.icu/latest_version?id=9lsIePDW5V4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mari Merenung Sejenak! - Ustadz Syafiq Riza Basalamah" tvg-logo="https://i.ytimg.com/vi/EpZ6wEXXvKY/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Mari Merenung Sejenak! - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=EpZ6wEXXvKY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pacaran Nikmat, Mau? - Ustadz Abdullah Zaen" tvg-logo="https://i.ytimg.com/vi/HRV_Cx0N2rI/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Pacaran Nikmat, Mau? - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=HRV_Cx0N2rI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pentingnya Berakhlak Mulia - Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/pRJr0dP-ehw/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Pentingnya Berakhlak Mulia - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=pRJr0dP-ehw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bersikap Zuhud - Ustadz Abdullah Zaen" tvg-logo="https://i.ytimg.com/vi/Wp2VInXiWRk/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Bersikap Zuhud - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=Wp2VInXiWRk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Eps 1 -  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/BF9OhMI6Hm0/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kisah Khalid bin Walid Eps 1 -  Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=BF9OhMI6Hm0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Eps 2 -  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/etP2LmaRP0I/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kisah Khalid bin Walid Eps 2 -  Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=etP2LmaRP0I
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Episode Finale-  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/0AW6D6pIUZg/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kisah Khalid bin Walid Episode Finale-  Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=0AW6D6pIUZg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahaya Mengikuti Hawa Nafsu - Ustadz Badrussalam" tvg-logo="https://i.ytimg.com/vi/VYe-x_HW6Kw/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Bahaya Mengikuti Hawa Nafsu - Ustadz Badrussalam
+https://invidious.lunar.icu/latest_version?id=VYe-x_HW6Kw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moslem Mindset  - Bagian 1 - Cara mengatur Waktu Efektif" tvg-logo="https://i.ytimg.com/vi/-bol0JRbVDA/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Moslem Mindset  - Bagian 1 - Cara mengatur Waktu Efektif
+https://invidious.lunar.icu/latest_version?id=-bol0JRbVDA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijak Berkata - Ustadz Abdullah Zaen" tvg-logo="https://i.ytimg.com/vi/DK7a53kTHEs/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Bijak Berkata - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=DK7a53kTHEs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kerja Jangan Asal Kerja - Ustadz Abdullah Zaen" tvg-logo="https://i.ytimg.com/vi/6izA1LQjlk8/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kerja Jangan Asal Kerja - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=6izA1LQjlk8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ketetapan Terbaik - Ustadz Abdullah Zaen" tvg-logo="https://i.ytimg.com/vi/YhKrZsXS6Es/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Ketetapan Terbaik - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=YhKrZsXS6Es
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hati-hati Menukil Berita - Ustadz Zaid Susanto" tvg-logo="https://i.ytimg.com/vi/Bir-iTubjSM/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Hati-hati Menukil Berita - Ustadz Zaid Susanto
+https://invidious.lunar.icu/latest_version?id=Bir-iTubjSM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7 Tips Bahagia di Zaman Now - Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/BJNAB4ssrxQ/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",7 Tips Bahagia di Zaman Now - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=BJNAB4ssrxQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Keutamaan Hari Jum'at - Ustadz Syafiq Riza Basalamah" tvg-logo="https://i.ytimg.com/vi/Y0IDqeQZtMY/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Keutamaan Hari Jum'at - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=Y0IDqeQZtMY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dosa Pertama di Langit dan di Bumi - Ustadz Abdullah Zaen" tvg-logo="https://i.ytimg.com/vi/9KEkIywdC34/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Dosa Pertama di Langit dan di Bumi - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=9KEkIywdC34
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tawadhu' - Ustadz Syafiq Riza Basalamah" tvg-logo="https://i.ytimg.com/vi/qTvtjfVKKn8/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Tawadhu' - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=qTvtjfVKKn8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agar Tidak Lalai - Ustadz Lalu Ahmad Yani" tvg-logo="https://i.ytimg.com/vi/MaBT61Hic1U/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Agar Tidak Lalai - Ustadz Lalu Ahmad Yani
+https://invidious.lunar.icu/latest_version?id=MaBT61Hic1U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rahasia Ketenangan Jiwa - Ustadz Johan Saputra Halim" tvg-logo="https://i.ytimg.com/vi/Ykcwrvc1BxY/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Rahasia Ketenangan Jiwa - Ustadz Johan Saputra Halim
+https://invidious.lunar.icu/latest_version?id=Ykcwrvc1BxY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Solusi Hidup di Musim Fitnah - Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/syfuUY0o7EM/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Solusi Hidup di Musim Fitnah - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=syfuUY0o7EM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malas Ibadah - Ustadz Syafiq Riza Basalamah" tvg-logo="https://i.ytimg.com/vi/69bcWhHLtsM/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Malas Ibadah - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=69bcWhHLtsM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jangan Risaukan Rezekimu - Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/WVQVzjSa6cU/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Jangan Risaukan Rezekimu - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=WVQVzjSa6cU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Allah Loves You" tvg-logo="https://i.ytimg.com/vi/tfNSuY6bu28/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Allah Loves You
+https://invidious.lunar.icu/latest_version?id=tfNSuY6bu28
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cobaan Hidup - Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/mn4KSVatpyU/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Cobaan Hidup - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=mn4KSVatpyU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3 Cara Istiqomah dalam Hijrah - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/oHWogvSMzWw/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",3 Cara Istiqomah dalam Hijrah - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=oHWogvSMzWw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3 Cara Mengobati Hati - Ustadz Ammi Nur Baits" tvg-logo="https://i.ytimg.com/vi/OR7qmqpaBZ0/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",3 Cara Mengobati Hati - Ustadz Ammi Nur Baits
+https://invidious.lunar.icu/latest_version?id=OR7qmqpaBZ0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maksiat di Bulan Ramadhan - Ustadz Syafiq Riza Basalamah" tvg-logo="https://i.ytimg.com/vi/vH-a7fWbOQk/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Maksiat di Bulan Ramadhan - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=vH-a7fWbOQk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buku Petunjuk Jiwa - Ustadz Johan Saputra Halim" tvg-logo="https://i.ytimg.com/vi/MVOBjyHunFs/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Buku Petunjuk Jiwa - Ustadz Johan Saputra Halim
+https://invidious.lunar.icu/latest_version?id=MVOBjyHunFs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hamba Dunia - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/DC9qV9qgFUo/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Hamba Dunia - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=DC9qV9qgFUo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="What Do We Life For - Ustadz Johan Saputra Halim" tvg-logo="https://i.ytimg.com/vi/rdAmYqNU8gc/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",What Do We Life For - Ustadz Johan Saputra Halim
+https://invidious.lunar.icu/latest_version?id=rdAmYqNU8gc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ikhlas Itu Berat - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/gLYk4k7Mu7o/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Ikhlas Itu Berat - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=gLYk4k7Mu7o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rahasia Dibalik Umur 40 Tahun - Ustadz Yazid Bin Abdul Qadir Jawas" tvg-logo="https://i.ytimg.com/vi/X4pkgpUeshA/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Rahasia Dibalik Umur 40 Tahun - Ustadz Yazid Bin Abdul Qadir Jawas
+https://invidious.lunar.icu/latest_version?id=X4pkgpUeshA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iman Kepada Takdir - Ustadz Syafiq Riza Basalamah" tvg-logo="https://i.ytimg.com/vi/GKc0XTR5ZMg/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Iman Kepada Takdir - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=GKc0XTR5ZMg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Perbedaan Nabi dan Rasul" tvg-logo="https://i.ytimg.com/vi/Yc9M9yAow4k/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Perbedaan Nabi dan Rasul
+https://invidious.lunar.icu/latest_version?id=Yc9M9yAow4k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cara Taubat Nasuha - Ustadz Syafiq Riza Basalamah" tvg-logo="https://i.ytimg.com/vi/ReEVAT-pj7Q/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Cara Taubat Nasuha - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=ReEVAT-pj7Q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiapan Menyambut Ramadhan - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/C68V1StKj-I/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Persiapan Menyambut Ramadhan - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=C68V1StKj-I
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jangan Sia-Siakan Ramadhan - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/aksdS5ajItI/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Jangan Sia-Siakan Ramadhan - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=aksdS5ajItI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apakah Saya Harus Tahu? - Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/BnrGxjaQbyQ/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Apakah Saya Harus Tahu? - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=BnrGxjaQbyQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/bFUhfGI3SQg/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=bFUhfGI3SQg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/MyNvFgueBYQ/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=MyNvFgueBYQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/SfsK99TNFg0/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=SfsK99TNFg0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/j5yjHCkjjOo/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=j5yjHCkjjOo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/-Yrs32ksXcc/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=-Yrs32ksXcc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/e9zujbaxqD0/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=e9zujbaxqD0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/2C1LPwSrxZU/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=2C1LPwSrxZU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/5rclwjruE5I/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=5rclwjruE5I
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/DU30GpXBsBQ/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=DU30GpXBsBQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/o111ZCEpU5U/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=o111ZCEpU5U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/BuAPbVftDu4/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=BuAPbVftDu4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri" tvg-logo="https://i.ytimg.com/vi/_YTS7lRgvgo/maxresdefault.jpg" group-title="Motion Graphic Yufid TV",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=_YTS7lRgvgo
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Romadhon Bulan Perubahan - Ustadz Abdullah Zaen, MA
+https://kajian.net/kajian-audio/Ceramah/Abdullah%20Zaen/Romadhon%20Bulan%20Perubahan/20220330%20-%20Romadhon%20Bulan%20Perubahan.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Kajian Menjelang Ramadhan - Ustadz Abdullah Zaen, MA
+https://kajian.net/kajian-audio/Ceramah/Abdullah%20Zaen/Kajian%20Menyambut%20Ramadhan/kajian%20menjelang%20ramadhan.mp3?l=12
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Kewajiban Ketaatan Kepada Pemerintah dalam Penetapan Hilal - Ustadz Badrusalam, Lc. dan Ustadz Firanda Andirja, MA
+https://kajian.net/kajian-audio/Ceramah/Abu%20Abdil%20Muhsin%20Firanda%20Andirja/Kewajiban%20Ketaatan%20Kepada%20Pemerintah%20Dalam%20Penetapan%20Hilal/Kewajiban%20Ketaatan%20Kepada%20Pemerintah%20Dalam%20Penetapan%20Hilal.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Bekal Ibadah Menuju Ramadhan - Ustadz Zainal Abidin
+https://kajian.net/kajian-audio/Ceramah/Zainal%20Abidin%20Syamsudin/Bekal%20Ibadah%20Menuju%20Ramadhan/Bekal%20Ibadah%20Menuju%20Ramadhan.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Puasa Bersama Nabi - Ustadz Maududi Abdullah
+https://kajian.net/kajian-audio/Ceramah/Maududi%20Abdullah/Puasa%20Bersama%20Nabi/Puasa%20Bersama%20Nabi%2001.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Ustadz Abu Haidar
+https://kajian.net/kajian-audio/Ceramah/Abu%20Haidar/Hukum%20%2526%20Keutamaan%20Romadhan/Hukum%20%2526%20Keutamaan%20Romadhan%201.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Ustadz Abdullah Zaen · Romadhon Bulan Perubahan
+https://kajian.net/kajian-audio/Ceramah/Abu%20Abdil%20Muhsin%20Firanda%20Andirja/Bekal-Bekal%20Menuju%20Ramadhan%20Mubarak/02%20Hal-Hal%20yang%20Membatalkan%20Puasa%20dan%20Seputar%20Tarawih.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Hukum Seputar Puasa Ramadhan - Ustadz Abduh Tuasikal
+https://kajian.net/kajian-audio/Ceramah/Muhammad%20Abduh%20Tuasikal/Seputar%20Puasa%20Ramadhan/Hukum%20Seputar%20Puasa%20Ramadhan.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Ustadz Abdullah Zaen · Romadhon Bulan Perubahan
+https://kajian.net/kajian-audio/Ceramah/Abdullah%20Zaen/Kajian%20Menyambut%20Ramadhan/Kiat%20Agar%20Ramadhan%20Menjadi%20Indah.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5P6kCR/rmdn.png" group-title="Kajian Audio Spesial Ramadhan",Ustadz Abdullah Zaen · Romadhon Bulan Perubahan
+https://kajian.net/kajian-audio/Ceramah/Muhammad%20Abduh%20Tuasikal/Menghidupkan%20Malam%20Bulan%20Ramadhan%20Dengan%20Sholat%20Tarawih/Menghidupkan%20Malam%20Bulan%20Ramadhan%20Dengan%20Sholat%20Tarawih.mp3
+https://kajian.net/kajian-audio/Ceramah/Muhammad%20Abduh%20Tuasikal/Menghidupkan%20Malam%20Bulan%20Ramadhan%20Dengan%20Sholat%20Tarawih/Menghidupkan%20Malam%20Bulan%20Ramadhan%20Dengan%20Sholat%20Tarawih.mp3?l=12
+https://kajian.net/kajian-audio/Ceramah/Zainal%20Abidin%20Syamsudin/Ceramah%20Ramadhan%20Radio%20Dakta/05%20Itikaf%20di%20Bulan%20Ramadhan.mp3?l=12
+https://kajian.net/kajian-audio/Ceramah/Syaikh%20Prof%20DR%20Abdur%20Rozzaq%20Al%20Badr/Ramadhan%20Syahrul%20Qur%27an/Ramadhan%20Syahrul%20Qur%27an.mp3?l=12
+https://kajian.net/kajian-audio/Ceramah/Badrusalam/Nasihat%20bagi%20Muslim%20selepas%20Romadhon/Nasihat%20bagi%20Muslim%20selepas%20Romadhon.mp3
