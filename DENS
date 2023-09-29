@@ -38,8 +38,14 @@ http://kuchini.site:8080/F30140/f3de2280/298550
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA BRI 1🇲🇨#", MOJI S3
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298550
 
+
+
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/b8ae57911c26ed8313cd09a33f7f43f5.png" group-title="beIN SPORTS", Domino 4K
 http://sharkytv.com:2082/IssaAlkoud/dom4528/238759
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS", LAT DEPORTE: BEIN SPORTS ING HD
+http://sharkytv.com:2082/IssaAlkoud/dom4528/250747
 
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN SPORTS", VIP beIN SPORTS NEWS SD
 http://sharkytv.com:2082/IssaAlkoud/dom4528/243349
