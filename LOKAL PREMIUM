@@ -6422,6 +6422,9 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="20. beIN SPORTS", BEIN SPORTS ING HD
+http://sharkytv.com:2082/IssaAlkoud/dom4528/250747
+
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/b8ae57911c26ed8313cd09a33f7f43f5.png" group-title="20. beIN SPORTS", Domino 4K
 http://sharkytv.com:2082/IssaAlkoud/dom4528/238759
 
@@ -7052,59 +7055,58 @@ http://sharkytv.com:2082/IssaAlkoud/dom4528/234128
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="21. beIN Enter", beIN Fox Action Movies
 http://sharkytv.com:2082/IssaAlkoud/dom4528/247303
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" group-title="20. beIN SPORTS", TR: beIN IZ
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" group-title="21. beIN Enter", TR: beIN IZ
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77302
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" group-title="20. beIN SPORTS", TR: beIN Gurme
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" group-title="21. beIN Enter", TR: beIN Gurme
 http://sharkytv.com:2082/IssaAlkoud/dom4528/39110
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="20. beIN SPORTS", TR: beIN Series 1
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="21. beIN Enter", TR: beIN Series 1
 http://sharkytv.com:2082/IssaAlkoud/dom4528/144690
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="20. beIN SPORTS", TR: beIN Series 2
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="21. beIN Enter", TR: beIN Series 2
 http://sharkytv.com:2082/IssaAlkoud/dom4528/144691
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="20. beIN SPORTS", TR: beIN Movies Premier
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="21. beIN Enter", TR: beIN Movies Premier
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77281
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="20. beIN SPORTS", TR: beIN Movies Premier 2
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="21. beIN Enter", TR: beIN Movies Premier 2
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77282
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="20. beIN SPORTS", TR: beIN Movies Stars
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="21. beIN Enter", TR: beIN Movies Stars
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77283
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="20. beIN SPORTS", TR: beIN Movies Action
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="21. beIN Enter", TR: beIN Movies Action
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77284
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="20. beIN SPORTS", TR: beIN Movies Action 2
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="21. beIN Enter", TR: beIN Movies Action 2
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77469
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" group-title="20. beIN SPORTS", TR: beIN Movies Family
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" group-title="21. beIN Enter", TR: beIN Movies Family
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77285
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" group-title="20. beIN SPORTS", TR: beIN Movies Turk
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" group-title="21. beIN Enter", TR: beIN Movies Turk
 http://sharkytv.com:2082/IssaAlkoud/dom4528/77286
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="20. beIN SPORTS", TR: beIN Series 4
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="21. beIN Enter", TR: beIN Series 4
 http://sharkytv.com:2082/IssaAlkoud/dom4528/236254
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="20. beIN SPORTS", TR: beIN Series 3
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png"group-title="21. beIN Enter", TR: beIN Series 3
 http://sharkytv.com:2082/IssaAlkoud/dom4528/236255
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="20. beIN SPORTS", TR: beIN Box Office 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="21. beIN Enter", TR: beIN Box Office 1
 http://sharkytv.com:2082/IssaAlkoud/dom4528/237769
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="20. beIN SPORTS", TR: beIN Box Office 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="21. beIN Enter", TR: beIN Box Office 2
 http://sharkytv.com:2082/IssaAlkoud/dom4528/237770
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="20. beIN SPORTS", TR: beIN Box Office 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="21. beIN Enter", TR: beIN Box Office 3
 http://sharkytv.com:2082/IssaAlkoud/dom4528/237771
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="20. beIN SPORTS", TR: beIN Series Comedy
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="21. beIN Enter", TR: beIN Series Comedy
 http://sharkytv.com:2082/IssaAlkoud/dom4528/237787
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="20. beIN SPORTS", LAT DEPORTE: BEIN SPORTS ING HD
-http://sharkytv.com:2082/IssaAlkoud/dom4528/250747
+
 
 
 
