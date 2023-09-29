@@ -4168,6 +4168,13 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="8. KNOWLEDGE",Russia Today Documentary English
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="8. KNOWLEDGE", DISCOVERY SCIENCE
+http://forevertv.me:8080/263117997354/213574458699/20640
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="DISCOVERY VELOCITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYHLZa-bhfFms6IP6Yei5mvx_2YkkGfmTNQQ&usqp=CAU" group-title="8. KNOWLEDGE", DISCOVERY VELOCITY
+http://forevertv.me:8080/263117997354/213574458699/39997
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="DISCOVERY TURBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEU9-DD0I_s9A0vQ4QADH4uXCVPMGO9WxAPA&usqp=CAU" group-title="8. KNOWLEDGE", DISCOVERY TURBO
+http://forevertv.me:8080/263117997354/213574458699/8564
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="8. KNOWLEDGE",Dunia Lain
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dunialain
