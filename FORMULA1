@@ -879,28 +879,31 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 --------------- NASIONAL DIGITAL ----------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF1GMty1/enmentari.png" group-title="NASIONAL DIGITAL",Mentari TV
-https://kametv.my.id/putar/digital/mentarii.php
+http://kuchini.site:8080/F30140/f3de2280/298546https://kametv.my.id/putar/digital/mentarii.php
 
 #EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/W40zJQvW/transtv.png",Trans TV
-https://kametv.my.id/putar/digital/transtv.php
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/PfyCkNR7/antv.jpg",ANTV
-https://kametv.my.id/putar/digital/antv.php
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/1t5KC0JQ/moji.png",Moji TV
-https://kametv.my.id/putar/digital/moji.php
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/pdNWJqVm/indosiar.png",Indosiar
-https://kametv.my.id/putar/digital/indosiar.php
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/dV1xmq3X/sctv.png",SCTV
-https://kametv.my.id/putar/digital/sctv.php
+http://kuchini.site:8080/F30140/f3de2280/162503
 
 #EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/pVCZFSVL/trans7.png",Trans 7
-https://kametv.my.id/putar/digital/trans7.php
+http://kuchini.site:8080/F30140/f3de2280/162502
+
+#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/PfyCkNR7/antv.jpg",ANTV
+http://kuchini.site:8080/F30140/f3de2280/165072
+
+#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/1t5KC0JQ/moji.png",Moji TV
+http://kuchini.site:8080/F30140/f3de2280/298550
+
+#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/pdNWJqVm/indosiar.png",Indosiar
+http://kuchini.site:8080/F30140/f3de2280/162138
+
+#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/dV1xmq3X/sctv.png",SCTV
+http://kuchini.site:8080/F30140/f3de2280/162141
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/W4Vs1FXr/RCTI.png" group-title="NASIONAL DIGITAL",RCTI 
+http://kuchini.site:8080/F30140/f3de2280/157591
 
 #EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/XJRpG4Zz/nettv.png",NET TV
-https://kametv.my.id/putar/digital/net.php
+http://kuchini.site:8080/F30140/f3de2280/80292
 
 
 
@@ -1263,6 +1266,17 @@ http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature SY
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
+
+#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="FILM",Cinemax KC
+http://kuchini.site:8080/F30140/f3de2280/197964
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="FILM",HBO KC
+http://kuchini.site:8080/F30140/f3de2280/197972
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="FILM",HBO Family KC
+http://kuchini.site:8080/F30140/f3de2280/197055
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="FILM",HBO Hits KC
+http://kuchini.site:8080/F30140/f3de2280/196480
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature KC
+http://kuchini.site:8080/F30140/f3de2280/221948
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
