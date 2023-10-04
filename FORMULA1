@@ -1224,37 +1224,66 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="FILM",Cinemax 
 #https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
-http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="FILM",HBO 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-https://kametv.my.id/putar/hboindobckup/hbo.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="FILM",HBO Family 
-http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
-https://kametv.my.id/putar/hboindobckup/family.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature 
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
-#http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-https://kametv.my.id/putar/hboindobckup/sign.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="FILM",HBO Hits 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
-http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-https://kametv.my.id/putar/hboindobckup/hits.php
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad9bb9f4c553adbb9046043dc4f4a7e:e33f6abd154ff14a696ef1c1a7a0b496
+#EXTINF:-1 group-title="FILM" tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b113a1f6f4a35cc87344dad432a0dd7:d8a55615aa1346e670120d0500a12618
+#EXTINF:-1 group-title="FILM" tvg-id="HBO Signature HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e47635be214835b58780cfe1b842fa1c:9454fbf8f25234282406ffa0c5ea7934
+#EXTINF:-1 group-title="FILM" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02cb3453a0313c5fb8f31e9e3f0ba979:90c15b569eb7f84efa56feb2d094151a
+#EXTINF:-1 group-title="FILM" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52883505c5eb354db8fd8a81e85ee675:01e87176a59e6f795304100b8609190a
+#EXTINF:-1 group-title="FILM" tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="FILM",Cinemax SY
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
