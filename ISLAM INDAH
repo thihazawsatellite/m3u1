@@ -475,7 +475,7 @@ https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhb
 #EXTINF:-1 tvg-id="5" tvg-name="Muadz TV" tvg-logo="https://i.ibb.co/J33dBX7/Ch5.png" group-title="Intech Media",Muadz TV
 https://anon.devds.site/link.m3u8?hash=aHR0cHM6Ly95dGhscy5vbnJlbmRlci5jb20vY2hhbm5lbC9VQ3NzSTEzMGQyOS1Gbk12YlR5OTFkTkEubTN1OA==
 #EXTINF:-1 tvg-id="6" tvg-name="Rasyaad TV" tvg-logo="https://i.ibb.co/3NYyFKs/Ch6.png" group-title="Intech Media",Rasyaad TV
-https://etus.link/iptvsunnah_rasyaadtv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696431321/ei/eCgdZcT0Oc2s9fwPgr-1gA4/ip/182.1.216.42/id/jpE9pZqlNXU.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f8VO-5T-fipO1I9_Kq4lICgNl3Fyzt5OksXFvn_qx-kXOkNBLBw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIcDw8MAJ4Eic6tGH6pYV9BRmIcO7YpPyvS_0h9frffiAiBFuPbudrBGoKqFzfgsqn7hMJhwOsUd9-aOjsIVZ7LZNg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Izzah TV" tvg-logo="https://i.ibb.co/mtd6nqz/Ch7.png" group-title="Intech Media",Izzah TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Hijrah TV" tvg-logo="https://i.ibb.co/D7BNZmZ/Ch8.png" group-title="Intech Media",Hijrah TV
