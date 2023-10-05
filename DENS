@@ -5435,12 +5435,6 @@ https://ktpremium.com:443/w3399/929720573727/932573
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK TV", [UK] UFC FIGHT NIGHT PASS VIP
 https://ktpremium.com:443/w3399/929720573727/932574
 
-#EXTM3U
-
-#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="SPORT DAZN ESPN ZIGGO SSC KASS" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="SPORT DAZN ESPN ZIGGO SSC KASS", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
-https://playeriptv.com/app
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ SPOR", beIN SPORTS FEED YAYIN mac saati aktif
 http://kzice.ddnsfree.com:8080/fikrettosun/6042593465/12
