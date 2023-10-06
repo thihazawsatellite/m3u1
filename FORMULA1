@@ -1297,15 +1297,15 @@ http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="FILM",Cinemax KC
-http://kuchini.site:8080/F30140/f3de2280/197964
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3012.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="FILM",HBO KC
-http://kuchini.site:8080/F30140/f3de2280/197972
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3008.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="FILM",HBO Family KC
-http://kuchini.site:8080/F30140/f3de2280/197055
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3011.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="FILM",HBO Hits KC
-http://kuchini.site:8080/F30140/f3de2280/196480
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature KC
-http://kuchini.site:8080/F30140/f3de2280/221948
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3009.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
