@@ -1113,8 +1113,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308120&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308119&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ZIGGO SPORT EXTRA 1 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308118&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ZIGGO SPORT EXTRA 1 NL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308118&extension=ts
+
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", CANAL+ SPORT FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=2805&extension=ts
