@@ -24619,54 +24619,63 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97154&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97155&extension=ts
 
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 1
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pFvPiDdcSyx638mMq_0-3c4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 2
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pFWJ9X96x-r9PtzKtUmV-d8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 3
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pHlrtGVmwM6BnH5_u1dLfVX
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 4
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pHJn8ll7PFuQKAPNAT68bai
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 5
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pEe40DW7wZFV66MDDYI24Re
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 6
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pFrx-CUwYmsD8bbWBGFLB3M
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 7
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pFze_OzpI6C3ThviHjOIlvl
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Premier Sports 8
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pHd_E3lm92I9oBOW6GkwuFk
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 4K 616
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", Now HK Now Sports 4K 616
 http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pExLqdtNsEQPMNLacPQgqcr
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", Now HK Now Sports 4K 617
+http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pFyC-0TYxjxPAFFn-mZrD7_
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PRIME
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=319385_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PREMIER 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303192_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PREMIER 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303191_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PREMIER 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303190_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PREMIER 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303189_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PREMIER 5
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303188_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PREMIER 6
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303187_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT PREMIER 7
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303186_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 1
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pEI5MPA0uFVz9FXoqfpxvmA
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303199_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303198_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303197_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303196_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT 5
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303195_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT 6
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303194_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="NOW SPORT", NOW SPORT 7
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303193_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 2
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pGEC4uZsIUHmrAqndew1EKx
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304191_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304192_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304193_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304194_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 5
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304195_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 6
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304196_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 7
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304197_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 8
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304198_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 9
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304199_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 10
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304200_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 3
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pGqEF4F6tcQDy2mCnylZ5R6
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 4
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr47nfH9y2zxKMEepJq8EgiQnqbxp58poCkleKDb7h6OCU
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 5
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr47nfH9y2zxKMEepJq8EgiQk4kd97x_eVNwwXO8dPNHSk
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 6
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr47nfH9y2zxKMEepJq8EgiQnDAnE6elKmlFde0fl5RRUq
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW HK SPORTS", Now HK Now Sports 7
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr47nfH9y2zxKMEepJq8EgiQnpdSmY3EMeLXfMFOuan948
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OPTUS SPORTS", OPTUS 1 HD
 http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr47nfH9y2zxKMEepJq8EgiQkHiTpQLUnmkQzUy2PegkQx
