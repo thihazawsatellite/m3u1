@@ -1743,9 +1743,142 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166797&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166796&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BAND SPORT BR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166813&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", COMBATE SPORT BR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166788&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", COMBATE PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62600_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MOTORSPORT PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62599_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MOTORVISION PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62598_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", LA LIGA TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303298_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", RACING TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71604_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", H&C TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=193731_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MOTOR TRAND
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72095_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", FIGHT NETWORK TV US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72122_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", WWE TV US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72121_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", NBA TV CA
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=80205_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", NBA TV US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72099_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", NBC GOLF TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=80229_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TENNIS CHANNEL US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72184_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", GOLF CHANNEL US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72186_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72183_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 2 AU
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=287850_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", CBS SPORT NETWORK US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72111_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MBL SPORT NETWORK US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72094_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT TR", BEIN SPORT 1 TR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=308749_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT TR", BEIN SPORT 2 TR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=308752_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT TR", BEIN SPORT 3 TR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=308751_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT TR", BEIN SPORT 4 TR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=308750_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT TR", TRT SPORT TR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=308733_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT TR", A SPORT TR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=308754_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 1 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61921_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 2 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61920_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 3 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61919_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT MAX 4 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61918_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT MAX 5 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61917_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT MAX 6 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61916_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT MAX 7 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61915_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT MAX 8 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61914_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT MAX 9 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61913_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT MAX 10 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61912_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="RMC SPORT", RMC SPORT 1 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61926_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="RMC SPORT", RMC SPORT 2 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61925_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="RMC SPORT", RMC SPORT EVENT 3 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61924_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="RMC SPORT", RMC SPORT EVENT 4 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61923_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="RMC SPORT", RMC SPORT EVENT 5 FR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61922_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", AL-KASS SPORT 1 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301539_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", AL-KASS SPORT 2 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301540_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", AL-KASS SPORT 3 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301541_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", ABU DHABI SPORT 1 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301438_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", ABU DHABI SPORT 2 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301439_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI SPORT 1 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301440_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI SPORT 2 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301441_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 1 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61921_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 2 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61920_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 3 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61919_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 4 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61918_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 5 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61917_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 6 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61916_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 7 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61915_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 8 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61914_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 9 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61913_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 10 AR
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61912_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN SPORT US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=269438_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN SPORT 2 US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=269437_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN SPORT DEPORTES US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=269435_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", FOX SPORT 1 US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72156_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", FOX SPORT 2 US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72157_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", FOX SPORT DEPORTES US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72152_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", FOX SPORT SOCCER US
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=72155_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 1
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71577_&extension=ts
@@ -1776,6 +1909,41 @@ http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=63389_&extens
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=63388_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 4
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=63387_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 1 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62617_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 2 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62621_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 3 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62624_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 4 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62629_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 5 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62634_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 6 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62627_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT PT", SPORT TV 1 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62607_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT PT", SPORT TV 2 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62609_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT PT", SPORT TV 3 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62611_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT PT", SPORT TV 4 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62613_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT PT", SPORT TV 5 PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62614_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT PT", SPORT TV+ PT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62594_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=220059_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=220058_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=220060_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=220061_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="ZIGGO SPORT", ZIGGO SPORT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=270641_&extension=ts
@@ -1887,6 +2055,102 @@ http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304198_&exten
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304199_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 10
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304200_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY SPORT", VIAPLAY SPORT 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71602_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY SPORT", VIAPLAY SPORT 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71591_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY SPORT", VIAPLAY SPORT EXTRA
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71599_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="PREMIER SPORT", PREMIER SPORT 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=342707_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="PREMIER SPORT", PREMIER SPORT 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=342708_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="POLSAT SPORT", POLSAT SPORT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219871_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="POLSAT SPORT", POLSAT SPORT EXTRA
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219928_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="POLSAT SPORT", POLSAT SPORT PREMIUM 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219925_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="POLSAT SPORT", POLSAT SPORT PREMIUM 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219926_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="POLSAT SPORT", SPORTCLUB
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219931_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="POLSAT SPORT", FIGHT CLUB
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219849_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+ SPORT", CANAL+ SPORT PL
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219904_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+ SPORT", CANAL+ SPORT 2 PL
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219905_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+ SPORT", CANAL+ SPORT 3 PL
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219851_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+ SPORT", CANAL+ SPORT 4 PL
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219850_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+ SPORT", CANAL+ SPORT 5 PL
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=219846_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT GRANDSTAND
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302496_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT ACTION
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302497_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT PREMIER LEAGUE
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302501_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT FOOTBALL
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302505_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT LA LIGA
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302500_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT RUGBY
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302504_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT GOLF
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302492_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT CRICKET
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302499_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT MOTORSPORT
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302494_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT TENNIS
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302493_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT PSL
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302503_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT MAXIMO
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302495_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT BLITZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302498_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302502_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302506_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302507_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302508_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TSN SPORT", TSN 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=80217_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TSN SPORT", TSN 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=80218_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TSN SPORT", TSN 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=80219_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TSN SPORT", TSN 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=80220_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TSN SPORT", TSN 5
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=80221_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="______" group-title="CLUB SPORT", MADRID TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=264918_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CLUB SPORT", LFC TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71594_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CLUB SPORT", MU TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71585_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CLUB SPORT", SPORTING TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62604_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="CLUB SPORT", BENFICA TV
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62596_&extension=ts
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOLA SPORT TV", Mola Event 0
 http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr45BiD143iLv5_WwPChG2Ik8o6ZgaceojreZ3FgcjHk-t
