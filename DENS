@@ -1843,27 +1843,6 @@ http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301440_&exten
 #EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI SPORT 2 AR
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=301441_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 1 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61921_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 2 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61920_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 3 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61919_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 4 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61918_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 5 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61917_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 6 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61916_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 7 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61915_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 8 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61914_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 9 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61913_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 10 AR
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=61912_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN SPORT US
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=269438_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN SPORT 2 US
