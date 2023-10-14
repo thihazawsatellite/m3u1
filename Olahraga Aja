@@ -9836,6 +9836,321 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174513&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174464&extension=ts
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=918986&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=918985&extension=ts&play_token=N2gmDtJgav
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hyQfCsG2uj55y1lfQkHLo5SeTvsJEr4j6nCVwUnioe5X2MlOaRK-ijrS2KmXh0GDubc&usqp=CAU" group-title="ASIA SPORT", ASTRO SUPERSPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=918984&extension=ts&play_token=NZ62AqCWce
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=918983&extension=ts&play_token=c8RjPsbc3c
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASIA SPORT", W SPORTS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=918982&extension=ts&play_token=ChLPsnBWKh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO CRICKET
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1036490&extension=ts&play_token=ChLPsnBWKh
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110615&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="ASIA SPORT", NOW SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110616&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="ASIA SPORT", NOW SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110617&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="ASIA SPORT", NOW SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110618&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="ASIA SPORT", NOW SPORT 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110619&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="ASIA SPORT", NOW SPORT 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110620&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110621&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110667&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%202.png" group-title="ASIA SPORT", HUB SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110666&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%203.png" group-title="ASIA SPORT", HUB SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1110665&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=156017&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="ASIA SPORT", SONY TEN SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=156010&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="ASIA SPORT", SONY TEN SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=156024&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="ASIA SPORT", SONY TEN SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=156016&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902" group-title="ASIA SPORT", SONY TEN SPORT 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=156102&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1 ENGLISH
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155968&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1 HINDIA
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155967&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1 TAMIL
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155873&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155966&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155976&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHauy6pGcg2tUXirgK_7HroS0-I6RqjyFeA&usqp=CAU" group-title="ASIA SPORT", STAR SPORT SELECT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155972&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCYnAbUMdNdXADJNi7AYkoJURGvIh5AXYVg&usqp=CAU" group-title="ASIA SPORT", STAR SPORT SELECT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155973&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="ASIA SPORT", 18 SPORT IN
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1057243&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://todayt20match.com/wp-content/uploads/2022/12/A-Sports-HD-Logo.png" group-title="ASIA SPORT", A SPORT IN
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=281100&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_3eP1ynRWyxsNyqMee3WFzlKHh3gTF4yfA&usqp=CAU" group-title="ASIA SPORT", D SPORT
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=156027&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DD-Sports.jpg/revision/latest?cb=20190103102616" group-title="ASIA SPORT", DD SPORT
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=155983&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT PH
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=731814&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT PH
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=926155&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="ASIA SPORT", TAP SPORT PH
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=926147&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://todayt20match.com/wp-content/uploads/2022/12/A-Sports-HD-Logo.png" group-title="ASIA SPORT", A SPORT PK
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1116509&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT", A SPORT PK
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=104791&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT PK
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=281153&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT", RTA SPORT AFG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=207578&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT", BAPENW SPORT AFG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=469271&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%203.png" group-title="ASIA SPORT", MBC SPORT KR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=89504&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS SG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=941569&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2 SG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=941568&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2 SG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=941567&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1 SG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=941573&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%202.png" group-title="ASIA SPORT", HUB SPORT 2 SG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=941572&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%203.png" group-title="ASIA SPORT", HUB SPORT 3 SG
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=941571&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1 
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554949&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="ASIA SPORT", NOW SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554948&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="ASIA SPORT", NOW SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554947&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="ASIA SPORT", NOW SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554946&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="ASIA SPORT", NOW SPORT 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554945&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="ASIA SPORT", NOW SPORT 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554944&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554943&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=554953&extension=ts&play_token=8Zz1UB3C6t
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema1.png" group-title="EROPA SPORT", DIEMA SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=154819&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema2.png" group-title="EROPA SPORT", DIEMA SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=154820&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema3.png" group-title="EROPA SPORT", DIEMA SPORT 3
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=154916&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MAX%201.png" group-title="EROPA SPORT", MAX SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=154879&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MAX%202.png" group-title="EROPA SPORT", MAX SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=154880&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MAX%203.png" group-title="EROPA SPORT", MAX SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=154881&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MAX%204.png" group-title="EROPA SPORT", MAX SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=154882&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%201.png" group-title="EROPA SPORT", DIGI SPORT 1 RO
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=56119&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%202.png" group-title="EROPA SPORT", DIGI SPORT 2 RO
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=56118&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%203.png" group-title="EROPA SPORT", DIGI SPORT 3 RO
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=56117&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%204.png" group-title="EROPA SPORT", DIGI SPORT 4 RO
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=56116&extension=ts&play_token=PCrj0cpNiM
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%201.png" group-title="EROPA SPORT", ORANGE SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=92489&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%202.png" group-title="EROPA SPORT", ORANGE SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=92488&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%203.png" group-title="EROPA SPORT", ORANGE SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=208009&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%204.png" group-title="EROPA SPORT", ORANGE SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=92486&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCf2ju6QgElzFs2d5TwBjXnOkoMM5OTVlow&usqp=CAU" group-title="EROPA SPORT", PRIMA SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=92618&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%201.png" group-title="EROPA SPORT", DIGI SPORT 1 HU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=74270&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%202.png" group-title="EROPA SPORT", DIGI SPORT 2 HU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=74269&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%203.png" group-title="EROPA SPORT", DIGI SPORT 3 HU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=74268&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 1 HU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=74202&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 2 HU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=74201&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CT SPORT 
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=98279&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 1 CZ
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=98317&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 2 CZ
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=98317&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", EUROSPORT 1 CZ
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=509077&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", EUROSPORT 2 CZ
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=509078&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", AUTOMOTOR SPORT CZ
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=98272&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", NOVA SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=98306&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", NOVA SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=98307&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", NOVA SPORT 
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=154888&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV3 SPORT
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=804474&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV3 SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=804473&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 1 UR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=841689&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 2 UR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=841688&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SETANTA SPORT UR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040328&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SETANTA SPORT+ UR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040327&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VIJU+ SPORT RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132781&extension=ts&play_token=PCrj0cpNiM
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 1 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132716&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 2 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132716&extension=ts&play_token=PCrj0cpNiM
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 1 RU FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040314&extension=ts&play_token=PCrj0cpNiM
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT",  SETANTA 2 RU FHD
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1040315&extension=ts&play_token=PCrj0cpNiM
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", FLOW SPORT 
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1106879&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", WILLOW CRICKET 
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1104677&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", WILLOW CRICKET EXTRA
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1142110&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", EXTREME SPORT RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132483&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MOTORSPORT RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132601&extension=ts&play_token=8Zz1UB3C6t
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH BOEH RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=300846&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=300843&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH 2 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132562&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH 3 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132564&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH 4 RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132566&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCHPAHA RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132595&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", MATCH ARENA RU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=132558&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 1 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035203&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 2 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035201&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 3 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035199&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 4 IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035197&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5  IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035196&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 GOLD IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035194&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 PLUS IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035193&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 LIVE IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035191&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT 5 STARS IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035190&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", YES SPORT ONE IS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035189&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 1 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1035194&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801859&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 3 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801860&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 1 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801855&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 2 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801856&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT PREMIUM 3 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801857&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110913&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1192360&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=801858&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 EXYU
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110914&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110911&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110912&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 RS
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=161932&extension=ts&play_token=8Zz1UB3C6t
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110913&extension=ts&play_token=8Zz1UB3C6t
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 CR
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=110913&extension=ts&play_token=8Zz1UB3C6t
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", Now HK Now Sports 4K 616
 http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pExLqdtNsEQPMNLacPQgqcr
