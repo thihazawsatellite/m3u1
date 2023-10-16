@@ -2276,3 +2276,10 @@ http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89897.ts
 http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/123348.ts
 
 
+#EXTINF:-1 tvg-logo="______" group-title="EUROSPORT", EUROSPORT 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:B2:17:C3&stream=80452_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EUROSPORT", EUROSPORT 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:B2:17:C3&stream=80453_&extension=ts
+
+xxxc
