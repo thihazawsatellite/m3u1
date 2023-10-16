@@ -1542,3 +1542,737 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extensio
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extension=ts
 
 vvvvvvvvvvvvvvvvvvvvvvv
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS NEWS HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9152.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS NEWS FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/92512.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS GLOBAL
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9156.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS GLOBAL HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30750.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS GLOBAL FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/92511.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 SD p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32008.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9146.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 FHD p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9147.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 FHD 4K p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30756.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 FHD HEVC p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/39224.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS  2 SD p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32007.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 HD P
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9148.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9149.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS  2 FHD 4K p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30757.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 FHD HEVC p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/39225.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 SD p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32006.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 HD p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9150.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 FHD p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9151.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 FHD 4K p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30758.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 FHD HEVC p
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/39226.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 SD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32015.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9131.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32146.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30749.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/28265.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 SD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32014.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9134.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9135.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30751.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/28266.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9136.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9137.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30752.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/28267.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 SD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32012.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9138.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/103764.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30755.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/28268.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 SD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32011.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9140.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9141.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30754.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/28269.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9142.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9143.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30759.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/28270.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 7 SD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/32009.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 7 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9144.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 7 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9145.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 7 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30760.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 7 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/28271.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS ENGLISH 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9153.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS ENGLISH 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9154.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS ENGLISH 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9155.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS XTRA 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/119957.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS XTRA 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/119958.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS FRENCH 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124099.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS FRENCH 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124097.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS FRENCH 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124098.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 MAX SD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124070.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 MAX HD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124071.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 MAX FHD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124072.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 MAX FHD HEVC (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124073.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 1 MAX 4K (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124074.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 MAX SD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124075.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 MAX HD (WC QATAR2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124076.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 MAX FHD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124077.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 MAX FHD HEVC (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124078.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 2 MAX 4K (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124079.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 MAX SD (WC QATAR 22)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124080.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 MAX HD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124081.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 MAX FHD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124082.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 MAX FHD HEVC (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124083.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 3 MAX 4K (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124084.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 MAX SD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124085.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124086.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 MAX FHD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124087.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 MAX FHD HEVC (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124088.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 4 MAX 4K (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124089.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 MAX SD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124090.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124091.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 MAX FHD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124092.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 MAX FHD HEVC (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124093.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 5 MAX 4K (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124094.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 SD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124095.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/124096.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 MAX FHD (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/152293.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 MAX FHD HEVC (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/248954.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 6 MAX 4K (WC QATAR 2022)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/248955.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 8 SD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/279954.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 8 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/279955.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 8 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/279956.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 8 FHD 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/279961.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AR.| BEIN SPORTS 8 FHD HEVC
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/279962.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 1
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15204.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.RP| BEIN SPORT 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9340.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 1 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/51102.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 2
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15203.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.RP| BEIN SPORT 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9339.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 2 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9588.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 2 FHD BKP
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/51101.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 3
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15202.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9341.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 3 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9587.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT 3 FHD BKP
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/51100.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT MAX 4 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15210.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT MAX 5 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15209.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT MAX 6 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15208.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT MAX 7 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15207.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT MAX 8 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15206.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT MAX 9 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15205.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR| BEIN SPORT MAX 10 hd
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/15211.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT 1
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83082.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT 2
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83081.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT 3
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83080.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT MAX 4
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83079.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT MAX 5
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83077.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT MAX 6
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83076.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT MAX 7
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83075.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT MAX 8
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83078.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT MAX 9
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83074.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| BEIN SPORT MAX 10
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/83073.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| beIN SPORT MAX 4
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/271097.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| beIN SPORT MAX 5
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/271098.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| beIN SPORT MAX 6
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/271099.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| beIN SPORT MAX 7
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/271100.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| beIN SPORT MAX 8
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/271101.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| beIN SPORT MAX 9
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/271102.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |FR.H265| beIN SPORT MAX 10
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/271103.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.FR.SD.| BEIN SPORTS 1
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/111567.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.FR.SD.| BEIN SPORTS 2
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/111568.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.FR.SD.| BEIN SPORTS 3
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/111569.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| BEIN SPORTS
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141695.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| beIN Sports 2
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141696.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| beIN Sports 3
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141697.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| BEIN SPORTS 4
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141698.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| BEIN SPORTS 5
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141699.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| Bein Sports 6
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141700.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| Bein Sports 7
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141701.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |US| Bein Sports 8
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141702.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |CA| beIN Sports
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/141120.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", ---??| BEIN ENTERTAINEMENT |??---
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/9183.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.LATINO.| BEIN SPORTS
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/67322.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.LATINO.| BEIN SPORTS  LA LIGA
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/67323.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.LATINO.|D BEIN SPORTS HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/67515.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149526.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 1 HD Backup
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149527.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 1 4K
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149528.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149529.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 2 HD Backup
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149530.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149531.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 3 HD Backup
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149532.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 4 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149533.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports 4 HD Backup
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149534.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports Max 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149535.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports Max 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149536.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Sports Haber HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149537.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Box Office 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149575.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Box Office 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149576.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Box Office 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149577.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Movies Action 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149578.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Movies Action 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149579.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Movies Stars HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149580.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Movies Turk HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149581.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Movies Family HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149582.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Movies Premiere 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149583.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Movies Premiere 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149584.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Series Comedy HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149585.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Series Vice HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149586.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Series Sci-Fi HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149587.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| Bein Series Drama FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149588.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN IZ HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149602.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| BeIN Gurme HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149603.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |TR| beIN Box Office Turk
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/149721.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AU.| beIN Sports 1 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/123302.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", AU beIN Sports 1 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/123303.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", |.AU.| beIN Sports 3 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/123304.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", AU beIN Sports 3 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/123305.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |NBA|Sky Sport NBA FHD IT
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/133801.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.SW.| TELECLUB SKY SPORT 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/81077.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.SW.| TELECLUB SKY SPORT 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/81078.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORT ARENA FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30863.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORT F1 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30967.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS FOOTBALL HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30997.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORT FOOTBALL FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30862.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS ACTION HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/31086.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS ACTION FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30941.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS CRICKET FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/31085.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS CRICKET HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30940.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS GOLF HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/31087.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS GOLF
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30942.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS (MAIN EVENT) FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/31084.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS MAIN EVENT HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30945.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS MIX FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/31025.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS MIX HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30994.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS PREMIER LEAGUE FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/31088.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS PREMIER LEAGUE HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30943.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS NEWS HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30858.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS NEWS FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/31033.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS 2 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/30998.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.| SKY SPORTS F1 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/131004.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.FHD|D SKY SPORTS NFL HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/112441.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.FHD| SKY SPORTS MAIN EVENT FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/112473.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.FHD| SKY SPORTS PREMIER LEAGUE FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/112474.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.FHD| SKY SPORTS RACING FHD (2AM OFF-AUTO BOOT 6.30AM)
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/112475.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.UK.FHD| SKY SPORTS NEWS FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/112476.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.IT.| Sky Sport 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/126305.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.IT.| Sky Sport 24 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/126306.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.IT.| Sky Sport Arena FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/126307.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.IT.| Sky Sport F1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/126308.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.IT.| Sky Sport Football FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/126309.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.IT.| Sky Sport MotoGP FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/126310.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.IT.| Sky Sport Serie A HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/126311.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT NEWS
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/59998.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT NEWS FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70482.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT AUSTRIA
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/59999.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60000.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 1 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70484.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 2 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70486.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60002.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 3 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70487.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 4 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60003.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 4 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70488.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 5 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60004.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 5 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70489.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 6 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70490.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 7 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60006.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 7 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70491.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 8 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60007.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 8 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/70492.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 10 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60009.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 6 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60005.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.DE.| SKY SPORT 9 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/60008.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AT.| SKY SPORT 1 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89891.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AT.| SKY SPORT 2 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89892.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AT.| SKY SPORT 3 HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89893.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AT.| SKY SPORT 4
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89894.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AT.| SKY SPORT AUSTRIA
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89895.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AT.| SKY SPORT AUSTRIA 1
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89896.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AT.| SKY SPORT HD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/89897.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GRUP", |.AU.| SKY Sport Austria 3 FHD
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/123348.ts
+
+
