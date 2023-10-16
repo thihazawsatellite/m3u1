@@ -1233,83 +1233,83 @@ http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62634_&extens
 #EXTINF:-1 tvg-logo="https://sportando.basketball/wp-content/uploads/2022/07/IMG_20220713_084158-300x263.jpg" group-title="ELEVEN SPORT", ELEVEN SPORT 6 PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62627_&extension=ts
 
-
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT GRANDSTAND
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT GRANDSTAND
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302496_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT ACTION
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT ACTION
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302497_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT PREMIER LEAGUE
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302501_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT FOOTBALL
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT FOOTBALL
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302505_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT LA LIGA
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT LA LIGA
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302500_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT RUGBY
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT RUGBY
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302504_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT GOLF
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT GOLF
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302492_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT CRICKET
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT CRICKET
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302499_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT MOTORSPORT
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT MOTORSPORT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302494_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT TENNIS
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT TENNIS
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302493_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT PSL
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT PSL
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302503_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT MAXIMO
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT MAXIMO
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302495_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT BLITZ
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT BLITZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302498_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 1
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 1
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302502_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 2
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 2
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302506_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 3
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 3
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302507_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 4
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="SUPERSPORT AF", SUPERSPORT VARIETY 4
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=302508_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY SPORT", VIAPLAY SPORT 1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyud2QVUjgWDYD53_vZobSMleaoIcnzJZKtoFaKY0QSWHk4h0Pdi6LwW7X2merLgP2jTw&usq" group-title="VIAPLAY SPORT", VIAPLAY SPORT 1
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71602_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY SPORT", VIAPLAY SPORT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyud2QVUjgWDYD53_vZobSMleaoIcnzJZKtoFaKY0QSWHk4h0Pdi6LwW7X2merLgP2jTw&usq" group-title="VIAPLAY SPORT", VIAPLAY SPORT 2
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71591_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY SPORT", VIAPLAY SPORT EXTRA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyud2QVUjgWDYD53_vZobSMleaoIcnzJZKtoFaKY0QSWHk4h0Pdi6LwW7X2merLgP2jTw&usq" group-title="VIAPLAY SPORT", VIAPLAY SPORT EXTRA
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=71599_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 1 NZ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 1 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303053_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 2 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 2 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303054_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 3 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 3 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303055_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 4 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 4 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303056_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 5 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 5 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303057_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 6 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 6 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303058_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 7 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 7 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303059_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 8 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 8 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303060_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT 9 NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT 9 NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303061_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT SELECT NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYkyDb57vwv_ithbDq-ImdYbTPcj6o11WA&usqp=CAU" group-title="SKY SPORT NZ", SKY SPORT SELECT NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303062_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/Sport%20TV%20MXGP.png" group-title="SPORT PT", SPORT TV 1 PT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV-m71HoTCwcbdzH_Qn77i5uPPrSjZV6XmkKhEm_fv-CPaaUAwtfl6RjmVynxL0sDzG8&usq" group-title="SPORT PT", SPORT TV 1 PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62607_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/Sport%20TV%20MXGP.png" group-title="SPORT PT", SPORT TV 2 PT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV-m71HoTCwcbdzH_Qn77i5uPPrSjZV6XmkKhEm_fv-CPaaUAwtfl6RjmVynxL0sDzG8&usq" group-title="SPORT PT", SPORT TV 2 PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62609_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/Sport%20TV%20MXGP.png" group-title="SPORT PT", SPORT TV 3 PT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV-m71HoTCwcbdzH_Qn77i5uPPrSjZV6XmkKhEm_fv-CPaaUAwtfl6RjmVynxL0sDzG8&usq" group-title="SPORT PT", SPORT TV 3 PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62611_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/Sport%20TV%20MXGP.png" group-title="SPORT PT", SPORT TV 4 PT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV-m71HoTCwcbdzH_Qn77i5uPPrSjZV6XmkKhEm_fv-CPaaUAwtfl6RjmVynxL0sDzG8&usq" group-title="SPORT PT", SPORT TV 4 PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62613_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/Sport%20TV%20MXGP.png" group-title="SPORT PT", SPORT TV 5 PT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV-m71HoTCwcbdzH_Qn77i5uPPrSjZV6XmkKhEm_fv-CPaaUAwtfl6RjmVynxL0sDzG8&usq" group-title="SPORT PT", SPORT TV 5 PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62614_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/Sport%20TV%20MXGP.png" group-title="SPORT PT", SPORT TV+ PT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV-m71HoTCwcbdzH_Qn77i5uPPrSjZV6XmkKhEm_fv-CPaaUAwtfl6RjmVynxL0sDzG8&usq" group-title="SPORT PT", SPORT TV+ PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62594_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="https://melba.bg/wp-content/uploads/2021/12/Logo_chennels_vertical.jpg" group-title="MAX SPORT", MAX SPORT 1
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=220059_&extension=ts
@@ -1532,11 +1532,11 @@ http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/83233
 #EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/ARENA-SPORT.png" group-title="ARENA SPORT", EX-YU | ARENA SPORT 1x2
 http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/83318
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115615_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png_" group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 4
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extension=ts
