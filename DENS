@@ -47,6 +47,182 @@ https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч ТВ HD
+http://194.143.148.28:8080/MatchHD/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч ТВ HD
+http://31.148.48.15:80/Match_TV_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! Боец
+http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! Игра
+http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", МАТЧ! ПЛАНЕТА
+http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! СТРАНА
+http://31.148.48.15:80/Match_Nash_Sport/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?telegramm=yossotv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", МАТЧ! Страна HD
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! ФУТБОЛ 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! ФУТБОЛ 2 HD
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Матч! ФУТБОЛ 3 HD
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Бокс ТВ
+https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", БОКС ТВ
+http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Бокс ТВ
+https://sc.id-tv.kz/BoksTV_36_37.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Конный мир
+http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Конный Мир
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", КХЛ ТВ
+http://31.148.48.15:80/KHL_TV/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", ФУТБОЛ 1
+http://176.74.80.162:8099/Russia1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", A Spor TV Canlı
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", ALL SPORTS TV
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Arryadia Спорт HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Art Sports
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Eurosport 1
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Eurosport 2
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", FightBox
+http://176.74.80.162:8099/FightBox/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", KHL
+https://sc.id-tv.kz:443/KHL_36_37.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", KHL Prime
+https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", KHL Prime
+http://31.148.48.15:80/KHL_TV_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", M-1 Global
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", MMA Junkie
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Moto America TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Setanta Sports Ukraine HD
+http://31.146.176.94:80/setanta1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Sport Астрахань
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Sports Grid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", VIASAT SPORT
+http://31.146.176.94:80/viasatsport/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Viasat Sport HD
+http://194.143.148.28:8080/Viasat_Sport/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", VIASAT SPORT HD
+https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", World Poker Tour
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1346
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT RUSDI", Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a366.png" group-title="FORMULA 1", 01 | DAZN F1
 http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/194938
 
