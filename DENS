@@ -36,11 +36,11 @@
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", WELCOME MY PLAYLIST
-https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
+https://github.com/Arrasyid22/inaldie/raw/main/WELCOM.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦GRUP TELEGRAM♦#", JOINT TELEGRAM https://t.me/IPTVcostum
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦PLAYLIST INI GRATIS♦#", DUKUNGAN => https://saweria.co/Inaldie22
-https://github.com/inaldie/inaldie/raw/main/DONATE.ts
+https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
 
