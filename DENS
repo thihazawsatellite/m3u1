@@ -2464,7 +2464,7 @@ http://digitalnow.live:8080/coba-dulu/baru-sawer/22484
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="FIRSTMEDIA", BBC NEWS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch310)/index.m3u8
-#EXTINF:120, BERITA SATU WORLD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="FIRSTMEDIA", BERITA SATU WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="FIRSTMEDIA", BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
