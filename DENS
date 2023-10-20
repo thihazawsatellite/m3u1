@@ -3880,10 +3880,10 @@ http://iptvorbit.net:8080/andy/andy/14261
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT UK", UK: Viaplay Sports 2 HD
 http://iptvorbit.net:8080/andy/andy/14262
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JUARA CHANNEL", JUARA TV 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JUARA CHANNEL", JUARA TV 6
 http://iptvorbit.net:8080/andy/andy/17428
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JUARA CHANNEL", JUARA TV 6
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JUARA CHANNEL", JUARA TV 5
 http://iptvorbit.net:8080/andy/andy/17855
 
 
