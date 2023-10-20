@@ -3431,3 +3431,325 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:B2:17:C3&stream=174513&extens
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:B2:17:C3&stream=174464&extension=ts
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||CA|| beIN Sports HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/41976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 1 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 2 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 3 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 4 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 6 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1973
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 5 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1974
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 7 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1975
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 8 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 9 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 5 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 6 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 7 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 8 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 9 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 10 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/112
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/163
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6708
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 5 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6709
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 6 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6710
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 7 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 1 SD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/48686
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX ACTION MOVIE
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2729
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN STAR WORLD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2730
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN STAR MOVIES
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2731
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN BOOMERANG
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2732
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN JUNIOR
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2733
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN DTX
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2734
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN AMC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2735
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN OUTDOOR
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2736
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN BOOMERANG
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FATAFEAT
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2738
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN JEEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2739
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN BARAEEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2740
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOOD NETWORK
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2741
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN ANIMAL PLANET
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN DISCOVERY KIDS
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX LIFE
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2746
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX CRIME
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2747
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN ACTION HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN DRAMA HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6741
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FATAFEAT HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX MOVIES HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN GOURMET HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6744
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN HGTV HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6745
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SERIES HD 1
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6747
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||  BEIN MOVIES 2 ACTION
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6905
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||  BEIN MOVIES 4 FAMILY
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6906
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||  BEIN MOVIES DRAMA 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6907
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.KIDS|| BEIN BARAEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.KIDS|| BEIN JEEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.KIDS|| BEIN DREAMWORKS
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2686
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 HEVC HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7477
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 HEVC HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||| DREAM WORKS HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/137
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/138
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/139
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 6 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 7 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 8 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/142
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 9 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 10 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1871
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1872
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1874
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1875
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1876
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 6 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1877
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 7 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1878
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 8 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1879
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORT 9 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 10 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1881
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2683
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2684
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2685
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SERIES 1
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2687
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SERIES 2
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2688
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX REWAYAT
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2690
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FATAFEAT
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2691
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN GOURMET
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN GULI
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2693
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS NEWS HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/5275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", •●★BEIN SPORTS ARABE  بين سبورت عربية ★●•
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/9640
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", •●★BEIN ARABE  بين عربية ★●•
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/9649
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47271
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47278
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 6 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORT XTRA 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORT XTRA 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 ENGLISH HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61145
+
+
