@@ -2648,48 +2648,93 @@ http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336763
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein Sport NBA 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336692
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", beIN MOVIES 4K 1
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336693
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", beIN MOVIES 4K 2
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336694
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", beIN MOVIES 4K 3
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336695
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", beIN MOVIES 4K 4
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336696
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", beIN SERIES 4K 1
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336697
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", beIN SERIES 4K 2
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336698
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", beIN DRAMA 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336699
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein FOX MOVIES 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336700
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein FOX MOV ACTION 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336701
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein FOX LIFE 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336702
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein BBC EARTH 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336703
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein GORMENT 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336704
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein FATAFEAT 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336705
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein BARAEAM 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336706
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN ENTERTAIMENT", Bein JEEM 4K
 http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336707
+#EXTINF:-1 tvg-logo="______" group-title="TNT", TNT SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11484_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TNT", TNT SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11485_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TNT", TNT SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11486_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TNT", TNT SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=316_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TNT", TNT SPORTS 5 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109870_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TNT", TNT SPORTS 6 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109871_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="TNT", TNT SPORTS 7 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109872_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="DIGI", DIGI SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=802_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="DIGI", DIGI SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=803_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="DIGI", DIGI SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=804_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="DIGI", DIGI SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=9180_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE", TELEKOM SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38422_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE", ORANGE SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=162299_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE", ORANGE SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE", ORANGE SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38424_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE", ORANGE SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38425_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="PLAY", PLAY SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65657_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="PLAY", PLAY SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66524_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="PLAY", PLAY SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=48789_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN SPORTS 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40242_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN SPORTS 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40243_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN SPORTS 3 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65656_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN PRO LEAGUE 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66512_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN PRO LEAGUE 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66513_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VOO", VOO SPORT WORLD 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30673_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VOO", VOO SPORT WORLD 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30670_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN SPORTS 1 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21904_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN SPORTS 2 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21903_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN SPORTS 3 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41766_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN", ELEVEN SPORTS 4 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41767_&extension=ts
