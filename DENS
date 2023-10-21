@@ -1552,6 +1552,47 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21903_&extens
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41766_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ELEVEN", ELEVEN SPORTS 4 PL
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41767_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="TIVIBU", TIVIBU SPORTS 1 TR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=13469_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="TIVIBU", TIVIBU SPORTS 2 TR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=13470_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="TIVIBU", TIVIBU SPORTS 3 TR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=13458_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="TIVIBU", SMART SPORTS TR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=12799_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="TIVIBU", a SPORTS TR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=92_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="TIVIBU", S SPORTS TR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=29745_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="TIVIBU", S SPORTS 2 TR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=92_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 1 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=534_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 2 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=535_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 3 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=536_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 4 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=537_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 5 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=401_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 1 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=404_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 2 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=218_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 3 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=405_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 4 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=406_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARENA", ARENA SPORTS 5 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=787_&extension=ts
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT MANCANEGARA", VOO WORLD SPORT 1 BE
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:B2:17:C3&stream=390413&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT MANCANEGARA", VOO WORLD SPORT 2 BE
