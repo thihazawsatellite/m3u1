@@ -96,75 +96,156 @@ http://digitalnow.live:8080/gratisan/4kERDedz6R/21390
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN HABER TR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN HABER TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=27725_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT 4K TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT 4K TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=32950_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT 1 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=41811_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT 2 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=41810_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT 3 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT 3 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=41809_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT 4 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT 4 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=1989_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT 5 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT 5 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=109251_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT MAX 1 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT MAX 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=13599_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", BEIN SPORT MAX 2 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", BEIN SPORT MAX 2 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=15181_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TIVIBU SPORT 1 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TIVIBU SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=13469_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TIVIBU SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TIVIBU SPORT 2 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=13470_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TIVIBU SPORT 3 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TIVIBU SPORT 3 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=13458_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", SMART SPORT TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", SMART SPORT TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=13471_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", A SPORT TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", A SPORT TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=14824_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TRT SPORT 1 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TRT SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=14828_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TRT SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TRT SPORT 2 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=46642_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TRT SPORT 3 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TRT SPORT 3 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=68255_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TAY TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TAY TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=14836_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", S SPORT 1 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", S SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", S SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", S SPORT 2 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=46640_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", EUROSPORT 1 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", EUROSPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=7774_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", EUROSPORT 2 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", EUROSPORT 2 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=7877_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", GALATASARAY TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", GALATASARAY TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=7875_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", FENERBAHCE TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", FENERBAHCE TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=7874_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", TJK TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", TJK TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=8708_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", RUMBLE TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", RUMBLE TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=135160_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", FIFA ESPORT TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", FIFA ESPORT TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=125225_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", WWE TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", WWE TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=122560_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORTBACKUP", ALEX TOPROLL TV TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT TR", ALEX TOPROLL TV TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=124333_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 1 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=534_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 2 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=535_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 3 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=536_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 4 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=537_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 5 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=401_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 1 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=404_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 2 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=218_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 3 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=405_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 4 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=406_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 5 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=787_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11484_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11485_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11486_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=316_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 5 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109870_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 6 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109871_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 7 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109872_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=802_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=803_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=804_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=9180_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", TELEKOM SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38422_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=162299_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38424_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38425_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65657_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66524_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=48789_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40242_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40243_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 3 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65656_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN PRO LEAGUE 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66512_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN PRO LEAGUE 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66513_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 1 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21904_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 2 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21903_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 3 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41766_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 4 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41767_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOO", VOO SPORT WORLD 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30673_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOO", VOO SPORT WORLD 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30670_&extension=ts
 
 
 
