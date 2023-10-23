@@ -21,7 +21,6 @@ http://kuchini.site:8080/F30140/f3de2280/298549
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA BRI 1🇲🇨#", SPORTSTARS S3
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
 
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA BRI 1🇲🇨#", RCTI S1
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA BRI 1🇲🇨#", RCTI S2
@@ -36,9 +35,9 @@ http://kuchini.site:8080/F30140/f3de2280/298550
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA BRI 1🇲🇨#", MOJI S3
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298550
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="####JUARA CHANNEL####", JUARA TV 6
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 6
 http://iptvorbit.net:8080/andy/andy/17428
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="####JUARA CHANNEL####", JUARA TV 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 5
 http://iptvorbit.net:8080/andy/andy/17855
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="TV NASIONAL", Berita Satu
