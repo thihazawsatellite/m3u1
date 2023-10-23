@@ -4486,10 +4486,10 @@ http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/6642
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/MBC_Bollywood_HD.png" group-title="MBC GROUP", |SA| MBC BOLLYWOOD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7301
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/MBC_MASR.png" group-title="EGYPT", |EG| MBC MASR 1
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/MBC_MASR.png" group-title="MBC GROUP", |EG| MBC MASR 1
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7256
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/MBC_Masr_2.png" group-title="EGYPT", |EG| MBC MASR 2
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/MBC_Masr_2.png" group-title="MBC GROUP", |EG| MBC MASR 2
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7255
 
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC1_HD.png" group-group-title="MBC GROUP", MYHD: MBC1 HD
