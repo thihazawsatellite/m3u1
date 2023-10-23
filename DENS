@@ -4492,69 +4492,68 @@ http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7256
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/MBC_Masr_2.png" group-title="MBC GROUP", |EG| MBC MASR 2
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7255
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC1_HD.png" group-group-title="MBC GROUP", MYHD: MBC1 HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC1_HD.png" group-title="MBC GROUP", MYHD: MBC1 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25523
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC2_HD.png" group-group-title="MBC GROUP", MYHD: MBC2 HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC2_HD.png" group-title="MBC GROUP", MYHD: MBC2 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25522
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC3_HD.png" group-group-title="MBC GROUP", MYHD: MBC3 HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC3_HD.png" group-title="MBC GROUP", MYHD: MBC3 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25521
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC4_HD.png" group-group-title="MBC GROUP", MYHD: MBC4 HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC4_HD.png" group-title="MBC GROUP", MYHD: MBC4 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25520
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC+Drama_HD.png" group-group-title="MBC GROUP", MYHD: MBC  DRAMA+ HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC+Drama_HD.png" group-title="MBC GROUP", MYHD: MBC  DRAMA+ HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25518
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC+Variety_HD.png" group-group-title="MBC GROUP", MYHD: MBC  Variety HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC+Variety_HD.png" group-title="MBC GROUP", MYHD: MBC  Variety HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25513
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Action_HD.png" group-group-title="MBC GROUP", MYHD: MBC Action HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Action_HD.png" group-title="MBC GROUP", MYHD: MBC Action HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25515
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Bollywood_HD.png" group-group-title="MBC GROUP", MYHD: MBC Bollywood HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Bollywood_HD.png" group-title="MBC GROUP", MYHD: MBC Bollywood HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25514
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Drama_HD.png" group-group-title="MBC GROUP", MYHD: MBC DRAMA  HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Drama_HD.png" group-title="MBC GROUP", MYHD: MBC DRAMA  HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25517
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/MBC_MASR.png" group-group-title="MBC GROUP", MYHD: MBC MASR
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/ARABEGYPT/MBC_MASR.png" group-title="MBC GROUP", MYHD: MBC MASR
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25519
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Max_HD.png" group-group-title="MBC GROUP", MYHD: MBC MAX HD
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/MYHD/MBC_Max_HD.png" group-title="MBC GROUP", MYHD: MBC MAX HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/25512
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC1_HD.png" group-group-title="MBC GROUP", AR: MBC 1 HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC1_HD.png" group-title="MBC GROUP", AR: MBC 1 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7414
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC2_HD.png" group-group-title="MBC GROUP", AR: MBC 2 HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC2_HD.png" group-title="MBC GROUP", AR: MBC 2 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7413
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC3_HD.png" group-group-title="MBC GROUP", AR: MBC 3 HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC3_HD.png" group-title="MBC GROUP", AR: MBC 3 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7412
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC4_HD.png" group-group-title="MBC GROUP", AR: MBC 4 HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC4_HD.png" group-title="MBC GROUP", AR: MBC 4 HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7411
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Action_HD.png" group-group-title="MBC GROUP", AR: MBC ACTION HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Action_HD.png" group-title="MBC GROUP", AR: MBC ACTION HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7410
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Max_HD.png" group-group-title="MBC GROUP", AR: MBC MAX HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Max_HD.png" group-title="MBC GROUP", AR: MBC MAX HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7409
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Drama_HD.png" group-group-title="MBC GROUP", AR: MBC DRAMA  HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Drama_HD.png" group-title="MBC GROUP", AR: MBC DRAMA  HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7408
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC+_Variety_HD.png" group-group-title="MBC GROUP", AR: MBC VARIETY HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC+_Variety_HD.png" group-title="MBC GROUP", AR: MBC VARIETY HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/7407
 
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_IRAQ_HD.png" group-group-title="MBC GROUP", AR: MBC IRAQ HD
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_IRAQ_HD.png" group-title="MBC GROUP", AR: MBC IRAQ HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/39075
 
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/IRAN/MBC_PERSIA_HD.png" group-title="MBC GROUP", |IR| MBC PERSIA HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/100873
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ASIA ENGLISH", ENGLISH: AND FLIX HD
