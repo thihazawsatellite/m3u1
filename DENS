@@ -2162,6 +2162,12 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=16514_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=13155_&extension=ts
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 1
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303207_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 2
@@ -2179,321 +2185,95 @@ http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303213_&exten
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 8
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303214_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 1 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=534_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 2 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=535_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 3 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=536_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 4 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=537_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 5 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=401_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 1 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=404_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 2 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=218_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 3 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=405_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 4 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=406_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 5 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=787_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11484_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11485_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11486_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=316_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 5 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109870_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 6 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109871_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 7 EVENT
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109872_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=802_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=803_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=804_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=9180_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", TELEKOM SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38422_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=162299_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38424_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38425_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65657_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66524_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=48789_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40242_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40243_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 3 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65656_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN PRO LEAGUE 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66512_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN PRO LEAGUE 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66513_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 1 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21904_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 2 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21903_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 3 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41766_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 4 PL
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41767_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOO", VOO SPORT WORLD 1 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30673_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOO", VOO SPORT WORLD 2 BE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30670_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||CA|| beIN Sports HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/41976
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 1 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/450
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 2 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/451
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 3 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/453
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 4 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1972
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 6 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1973
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 5 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1974
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 7 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1975
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 8 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1976
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 9 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1977
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 4 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/106
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 5 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/107
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 6 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/108
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 7 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/109
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 8 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/110
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 9 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/111
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 10 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/112
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 1 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/163
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 2 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/164
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 3 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/165
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 4 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6708
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 5 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6709
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 6 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6710
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN MAX 7 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6711
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||FR|| BEIN SPORTS 1 SD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/48686
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX ACTION MOVIE
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2729
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN STAR WORLD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2730
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN STAR MOVIES
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2731
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN BOOMERANG
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2732
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN JUNIOR
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2733
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN DTX
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2734
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN AMC
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2735
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN OUTDOOR
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2736
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN BOOMERANG
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2737
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FATAFEAT
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2738
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN JEEM
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2739
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN BARAEEM
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2740
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOOD NETWORK
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2741
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN ANIMAL PLANET
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN DISCOVERY KIDS
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2743
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX LIFE
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2746
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX CRIME
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2747
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN ACTION HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6737
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN DRAMA HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6741
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FATAFEAT HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX MOVIES HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6743
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN GOURMET HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6744
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN HGTV HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6745
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SERIES HD 1
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6747
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||  BEIN MOVIES 2 ACTION
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6905
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||  BEIN MOVIES 4 FAMILY
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6906
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||  BEIN MOVIES DRAMA 3 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6907
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.KIDS|| BEIN BARAEM
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/365
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.KIDS|| BEIN JEEM
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/366
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.KIDS|| BEIN DREAMWORKS
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/370
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 4 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2686
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 HEVC HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7477
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 HEVC HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7478
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN||| DREAM WORKS HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7494
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/131
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/132
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/137
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/138
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/139
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 6 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/140
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 7 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/141
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 8 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/142
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 9 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/143
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 10 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/144
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1871
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1872
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1874
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1875
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1876
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 6 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1877
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 7 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1878
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 8 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1879
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORT 9 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1880
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 10 FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1881
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 1 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2683
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 2 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2684
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN MOVIES 3 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2685
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SERIES 1
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2687
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SERIES 2
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2688
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FOX REWAYAT
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2690
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN FATAFEAT
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2691
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN GOURMET
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2692
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN GULI
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2693
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS NEWS HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/5275
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47269
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47270
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47271
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 HEVC
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47277
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 4 HEVC
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47278
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 5 HEVC
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47279
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 6 HEVC
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47280
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORT XTRA 1 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORT XTRA 2 HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47293
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 ENGLISH HD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47294
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47295
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47296
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47297
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61143
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61144
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+
-http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61145
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⭐️UK⭐️", UK: BBC One
@@ -4268,123 +4048,6 @@ http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/167069
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 1 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=534_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 2 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=535_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 3 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=536_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 4 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=537_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 5 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=401_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 1 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=404_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 2 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=218_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 3 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=405_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 4 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=406_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA", ARENA SPORTS 5 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=787_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11484_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11485_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=11486_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 4
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=316_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 5 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109870_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 6 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109871_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT", TNT SPORTS 7 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=109872_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=802_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=803_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=804_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI", DIGI SPORTS 4
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=9180_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", TELEKOM SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38422_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=162299_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65476_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38424_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ORANGE", ORANGE SPORTS 4
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=38425_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65657_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66524_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="PLAY", PLAY SPORTS 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=48789_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 1 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40242_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 2 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=40243_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 3 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65656_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN PRO LEAGUE 1 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66512_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN PRO LEAGUE 2 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=66513_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 1 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21904_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 2 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=21903_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 3 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41766_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN", ELEVEN SPORTS 4 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=41767_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOO", VOO SPORT WORLD 1 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30673_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOO", VOO SPORT WORLD 2 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=30670_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E01
-http://iptvorbit.net:8080/series/andy/andy/21116.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E02
-http://iptvorbit.net:8080/series/andy/andy/21117.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E03
-http://iptvorbit.net:8080/series/andy/andy/21118.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E04
-http://iptvorbit.net:8080/series/andy/andy/21119.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E05
-http://iptvorbit.net:8080/series/andy/andy/21120.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E06
-http://iptvorbit.net:8080/series/andy/andy/21121.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E07
-http://iptvorbit.net:8080/series/andy/andy/21122.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E08
-http://iptvorbit.net:8080/series/andy/andy/21123.mkv
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", END
-http://iptvorbit.net:8080/series/andy/andy/21123.mkv
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ASIA ENGLISH", ENGLISH: AND FLIX HD
 http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/93643
 
@@ -4513,216 +4176,348 @@ http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/93685
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS", [4K] BEIN SPORTS NEWS
-http://zeintv.xyz:8080/akram/102030/227067
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||CA|| beIN Sports HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/41976
 
-#EXTINF:-1 tvg-logo="http://65.21.140.181:8080/6qvDPPjN/resize?maxw=96&maxh=32&url=s%3A1%3A%2Fimages%2FKv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="BEIN SPORTS", [4K] BEIN SPORT 1 4K
-http://zeintv.xyz:8080/akram/102030/129172
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN SPORTS 1 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/450
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyLpY7EABsRFGrmChupYOIdQ.png" group-title="BEIN SPORTS", [FHD] BEIN SPORTS 1 FHD
-http://zeintv.xyz:8080/akram/102030/203303
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN SPORTS 2 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/451
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="BEIN SPORTS", [4K] BEIN SPORTS 2 4K
-http://zeintv.xyz:8080/akram/102030/157334
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN SPORTS 3 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/453
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="BEIN SPORTS", [FHD] BEIN SPORTS 2 FHD
-http://zeintv.xyz:8080/akram/102030/129169
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 4 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1972
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 3 4K
-http://zeintv.xyz:8080/akram/102030/129167
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 6 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1973
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="BEIN SPORTS", [FHD] BEIN SPORTS 3 FHD
-http://zeintv.xyz:8080/akram/102030/203307
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 5 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1974
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 4 4K
-http://zeintv.xyz:8080/akram/102030/129168
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 7 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1975
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="BEIN SPORTS", [FHD]  BEIN SPORTS 4 FHD
-http://zeintv.xyz:8080/akram/102030/203306
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 8 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1976
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHnkzqMoKkcD0cNMHwVnAu_f1GtORfMGtie-3rCJQtdP1A.png" group-title="BEIN SPORTS", [4K] BEIN SPORTS 5 4K
-http://zeintv.xyz:8080/akram/102030/129160
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 9 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1977
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyYroInL_B_otlHkBX5o8fBg.png" group-title="BEIN SPORTS", [FHD] BEIN SPORTS 5 FHD
-http://zeintv.xyz:8080/akram/102030/203304
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/106
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="BEIN SPORTS", [4K] BEIN SPORTS 6 4K
-http://zeintv.xyz:8080/akram/102030/129170
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 5 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/107
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyMkHdOfcK2FUUB6fHbvRiIw.png" group-title="BEIN SPORTS", [FHD]  BEIN SPORTS 6 FHD
-http://zeintv.xyz:8080/akram/102030/203309
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 6 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/108
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzy2CQjyCdZ6yHkN_s7Pcjplw.png" group-title="BEIN SPORTS", [4K] BEIN SPORTS 7 4K
-http://zeintv.xyz:8080/akram/102030/203312
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 7 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/109
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="BEIN SPORTS", [FHD]  BEIN SPORTS 7  FHD
-http://zeintv.xyz:8080/akram/102030/203308
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 8 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/110
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyywKhs7UPBm9OpF6Em_Xs4w.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 8 4K
-http://zeintv.xyz:8080/akram/102030/129166
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 9 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/111
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyywKhs7UPBm9OpF6Em_Xs4w.png" group-title="BEIN SPORTS", [FHD]  BEIN SPORTS 8 FHD
-http://zeintv.xyz:8080/akram/102030/203310
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 10 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/112
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHnmNi8G2skF4BexRosPwYBJeGmFJbTxF9pu87u6Pm_ExQ.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 9 4K
-http://zeintv.xyz:8080/akram/102030/129165
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN SPORTS 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/163
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHnmNi8G2skF4BexRosPwYBJeGmFJbTxF9pu87u6Pm_ExQ.png" group-title="BEIN SPORTS", [FHD]  BEIN SPORTS 9 FHD
-http://zeintv.xyz:8080/akram/102030/203311
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN SPORTS 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/164
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS XTRA 1 4k
-http://zeintv.xyz:8080/akram/102030/129155
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN SPORTS 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/165
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS XTRA 2 4k
-http://zeintv.xyz:8080/akram/102030/129156
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6708
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyFnhUJzQxwR6q3UzhCfk6cA.png" group-title="BEIN SPORTS", [4K] BEIN SPORTS XTRA 3 4k
-http://zeintv.xyz:8080/akram/102030/203305
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 5 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6709
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 1 4K EN
-http://zeintv.xyz:8080/akram/102030/129159
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 6 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6710
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 02 4K EN
-http://zeintv.xyz:8080/akram/102030/129158
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN MAX 7 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6711
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 3 EN 4K
-http://zeintv.xyz:8080/akram/102030/129161
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||FR|| BEIN SPORTS 1 SD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/48686
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 1 FR 4K
-http://zeintv.xyz:8080/akram/102030/129162
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FOX ACTION MOVIE
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2729
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 1 FR 4K
-http://zeintv.xyz:8080/akram/102030/129163
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN STAR WORLD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2730
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS 03  FR 4k
-http://zeintv.xyz:8080/akram/102030/129157
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN STAR MOVIES
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2731
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHnkzqMoKkcD0cNMHwVnAu_f1GtORfMGtie-3rCJQtdP1A.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS GLOBAL 4K
-http://zeintv.xyz:8080/akram/102030/203298
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN BOOMERANG
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2732
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyedfTrmTFWI_3wZ3h_e1S1Q.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS XTRA 1 4K
-http://zeintv.xyz:8080/akram/102030/203313
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN JUNIOR
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2733
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyz4HLnHZ27KPT8TEP3SnoFw.png" group-title="BEIN SPORTS", [4K]  BEIN SPORTS XTRA 2 4K
-http://zeintv.xyz:8080/akram/102030/203314
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN DTX
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2734
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="BEIN SPORTS", [FHD] BEIN SPORTS 1 ENGLISH FHD
-http://zeintv.xyz:8080/akram/102030/227068
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN AMC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2735
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="BEIN SPORTS", [FHD] BEIN SPORTS 2 ENGLISH FHD
-http://zeintv.xyz:8080/akram/102030/227069
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN OUTDOOR
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2736
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="BEIN SPORTS", [FHD] BEIN Sports French 1 FHD
-http://zeintv.xyz:8080/akram/102030/227071
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN BOOMERANG
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2737
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="BEIN SPORTS", [FHD] BEIN  Sports French 2 FHD
-http://zeintv.xyz:8080/akram/102030/227072
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FATAFEAT
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2738
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="BEIN SPORTS", [FHD] BEIN  SPORTS FRANCH 3 FHD
-http://zeintv.xyz:8080/akram/102030/227073
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN JEEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2739
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN BARAEEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2740
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FOOD NETWORK
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2741
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/aBeyiKIb4ARyYRRCMNw5EmdNbsRpCMjRgnObirRJ0s1y9Ezo1gTnRaqw_rA_lGHr.png" group-title="MBC ARAB", MBC : 1 8K
-http://zeintv.xyz:8080/akram/102030/60563
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN ANIMAL PLANET
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2742
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/K2WVf1vtNh7ZH_EEh0XlMTqMkyeEwhSOJmKDn78nvo_jsuZooteCR-0uTiO4V7tm.png" group-title="MBC ARAB", MBC : 2  4K+
-http://zeintv.xyz:8080/akram/102030/60583
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN DISCOVERY KIDS
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2743
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/19USpYcyIC_BbCSiSvWqMe0F4vOuDt1e-uwGHcb2S4nrJQDlq28HhI74iR__-S6b.png" group-title="MBC ARAB", MBC : 3  4K+
-http://zeintv.xyz:8080/akram/102030/60584
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FOX LIFE
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2746
 
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_14778wnk01.png" group-title="MBC ARAB", MBC : 4  4K+
-http://zeintv.xyz:8080/akram/102030/60585
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FOX CRIME
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2747
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/aBeyiKIb4ARyYRRCMNw5EnL9wkkZ4zL68wqWBuagTsMPSATB8S9-PBkDozlkaHYh.png" group-title="MBC ARAB", MBC : 5  4K+
-http://zeintv.xyz:8080/akram/102030/60586
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN ACTION HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6737
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/TCxgrxTEwCVNZyS_cZg4iIZU43FKZfsXPT5ezDbekmY2GHRfrb60fWGf4y0JFP4l.png" group-title="MBC ARAB", MBC : IRAQ  4K+
-http://zeintv.xyz:8080/akram/102030/60587
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN DRAMA HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6741
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/4Ws0bfy-XXXeIXjlVNKukEr5r2CN29BCbHiXzHQKTAB-RXR7M9_MW6IIBuUNZWKrSh4JISS3ohcGL4Op-dKQOw.png" group-title="MBC ARAB", MBC : MASER  4K+
-http://zeintv.xyz:8080/akram/102030/60588
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FATAFEAT HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6742
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/K2WVf1vtNh7ZH_EEh0XlMTqMkyeEwhSOJmKDn78nvo-ky9lNvDLgLcu_aTBoITctMZmmj88ruhB40ppr1g-xXg.png" group-title="MBC ARAB", MBC : MASER 2  4K+
-http://zeintv.xyz:8080/akram/102030/60589
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FOX MOVIES HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6743
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/EZXiNPf1_IbXVy8Mexc7Hu1nadU58s29kSVhiFvcf8Btblp5pXw7fC8PMpkE9ClHBzBcYD50fCpjjkCDaAVF3EdDxk_M97YtiyfFMyNMHHjx7XAG8-LqlIHFdt_9V--zUAF69b-FfOOJbHCcXuBsm-95syB5GI1xlfzgUa3IdUT03rgEHB7vqbYfcaGM-14EAyYSC6_vh6m76yuDb8quIw.png" group-title="MBC ARAB", MBC : Drama  4K
-http://zeintv.xyz:8080/akram/102030/60590
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN GOURMET HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6744
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="MBC ARAB", MBC : ACTION 4K
-http://zeintv.xyz:8080/akram/102030/60574
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN HGTV HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6745
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKbZlpHnz6lK8qiPIfo7BB4TuGstoZPGGvYEWD_fjJlDieK4kZIzijSLa08ewo9Epat.png" group-title="MBC ARAB", MBC : Drama Plus 4K
-http://zeintv.xyz:8080/akram/102030/60573
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SERIES HD 1
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6747
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Noyzu7dv5e3gZcDq7SSxElDKVoOpt8lj3yx4oWAeXxtVY2xQH25ktl9bRLjaNH2l.png" group-title="MBC ARAB", MBC : MAX 4K
-http://zeintv.xyz:8080/akram/102030/60575
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN||  BEIN MOVIES 2 ACTION
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6905
 
-#EXTINF:-1 tvg-logo="https://i.top4top.io/p_14772p4rp2.png" group-title="MBC ARAB", MBC : Variety 4K
-http://zeintv.xyz:8080/akram/102030/60576
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN||  BEIN MOVIES 4 FAMILY
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6906
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/9w4Q8YzSkCBLnFvS-3YzR2PoW_aHAUOpDQjtJoKGA4sklZLQRh5m0VfHWsVaRolz.png" group-title="MBC ARAB", MBC : BOLLYWOOD 4K
-http://zeintv.xyz:8080/akram/102030/60577
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN||  BEIN MOVIES DRAMA 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/6907
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/4Ws0bfy-XXXeIXjlVNKukJt-s8FeZbqL_A7oHhw7j9gSeF71KqVyF1QYEEG4aAQFa-rF6Vz22ZBY_TkNfJA6QQ.png" group-title="MBC ARAB", MBC : Mix Hollywood 4K
-http://zeintv.xyz:8080/akram/102030/60578
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.KIDS|| BEIN BARAEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/365
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="MBC ARAB", MBC  : ZEE AFLAM 4K
-http://zeintv.xyz:8080/akram/102030/60579
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.KIDS|| BEIN JEEM
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/366
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/-7oKEATgI6CdWxwKW-B7i0vdltilRHMDqBi7ayIqSAZXEKU4_gMI0BTA9KXIGDyMk7kEvx3CkZwK0g4rl1Dkl386czdhFxQHyPmW66x11ys.png" group-title="MBC ARAB", MBC : ZEE ALWAN 4K
-http://zeintv.xyz:8080/akram/102030/60580
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.KIDS|| BEIN DREAMWORKS
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/370
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/4Ws0bfy-XXXeIXjlVNKukJt-s8FeZbqL_A7oHhw7j9hoCQcaobjyuoMjHeOhqmkdEaA54bpNo667WzKXA5_ZCw.png" group-title="MBC ARAB", MBC : B4U AFLAM
-http://zeintv.xyz:8080/akram/102030/60581
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN MOVIES 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2686
 
-#EXTINF:-1 tvg-logo="https://cdn.appsiat.com/media/thumbnail/h300/net.mbc.shahid-h300_thumbnail.png" group-title="MBC ARAB", MBC SHAHED AFLAM  8K
-http://zeintv.xyz:8080/akram/102030/56150
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 4 HEVC HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7477
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/K2WVf1vtNh7ZH_EEh0XlMTqMkyeEwhSOJmKDn78nvo_jsuZooteCR-0uTiO4V7tm.png" group-title="MBC ARAB", MBC : 2 8K
-http://zeintv.xyz:8080/akram/102030/60565
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 5 HEVC HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7478
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/bNcH0f6LDWq7CK45Most7maqSTgh5knoHGDNW6uCBFZdYXlA6v4RQXS1qJJ4jiyO.png" group-title="MBC ARAB", MBC  : 3 8K.
-http://zeintv.xyz:8080/akram/102030/60566
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN||| DREAM WORKS HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/7494
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/CZl_fuVkRGL0mqB26JfCdWXE_AgixnRu3_BX9rEdXWaOQc3gLCj9kaeidfXXfBbn.png" group-title="MBC ARAB", MBC : 4  8K
-http://zeintv.xyz:8080/akram/102030/60567
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/131
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/aBeyiKIb4ARyYRRCMNw5EnL9wkkZ4zL68wqWBuagTsMPSATB8S9-PBkDozlkaHYh.png" group-title="MBC ARAB", MBC :  5 8K
-http://zeintv.xyz:8080/akram/102030/60568
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/132
 
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_1477aboh73.png" group-title="MBC ARAB", MBC : IRAQ 8K
-http://zeintv.xyz:8080/akram/102030/60569
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/137
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/4Ws0bfy-XXXeIXjlVNKukEr5r2CN29BCbHiXzHQKTAB-RXR7M9_MW6IIBuUNZWKrSh4JISS3ohcGL4Op-dKQOw.png" group-title="MBC ARAB", MBC : MASR 1 8K
-http://zeintv.xyz:8080/akram/102030/60570
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 4 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/138
 
-#EXTINF:-1 tvg-logo="http://safarisat.com/logos/arabic/MBC%20Masr%202.png" group-title="MBC ARAB", MBC : Maser 2 8K
-http://zeintv.xyz:8080/akram/102030/60571
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 5 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/139
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png" group-title="MBC ARAB", MBC : DRAMA 8K
-http://zeintv.xyz:8080/akram/102030/60572
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 6 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/140
 
-#EXTINF:-1 tvg-logo="https://e.top4top.io/p_1477smq2o3.png" group-title="MBC ARAB", MBC : ACTION  4K+
-http://zeintv.xyz:8080/akram/102030/60592
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 7 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/141
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/PVCahky7V7thTz7Ca64Ds1lzugbay1NposBrjmlzki6RzLYn2kDS3HaIOEwufV4NGNR9Vh5Rfvc9i9dUiV7jPkXmmEdz1jltzpGtpfgyfwQ0Cj4zQ7eCEqaHYZPMMXny.png" group-title="MBC ARAB", MBC : Drama  PLUS  4K+
-http://zeintv.xyz:8080/akram/102030/60591
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 8 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/142
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/images/Noyzu7dv5e3gZcDq7SSxElDKVoOpt8lj3yx4oWAeXxtVY2xQH25ktl9bRLjaNH2l.png" group-title="MBC ARAB", MBC : MAX  4K+
-http://zeintv.xyz:8080/akram/102030/60593
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 9 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/143
 
-#EXTINF:-1 tvg-logo="https://i.top4top.io/p_14772p4rp2.png" group-title="MBC ARAB", MBC : Variety  4K+
-http://zeintv.xyz:8080/akram/102030/60594
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 10 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/144
 
-#EXTINF:-1 tvg-logo="https://k.top4top.io/p_1477hc8131.png" group-title="MBC ARAB", MBC :Bollywood  4K+
-http://zeintv.xyz:8080/akram/102030/60595
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 1 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1871
 
-#EXTINF:-1 tvg-logo="http://zeintv.xyz:8080/kSa6EAs1gr4d/resize.php?max=42&url=https://d.top4top.io/p_1477bk0fq1.png" group-title="MBC ARAB", MBC 1 8K .
-http://zeintv.xyz:8080/akram/102030/61859
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 2 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1872
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 3 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1874
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 4 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1875
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 5 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1876
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 6 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1877
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 7 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1878
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 8 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1879
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORT 9 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 10 FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/1881
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN MOVIES 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2683
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN MOVIES 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2684
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN MOVIES 3 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2685
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SERIES 1
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2687
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SERIES 2
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2688
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FOX REWAYAT
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2690
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN FATAFEAT
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2691
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN GOURMET
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN GULI
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/2693
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS NEWS HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/5275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47271
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 3 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 4 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47278
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 5 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 6 HEVC
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORT XTRA 1 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORT XTRA 2 HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 1 ENGLISH HD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS & ENTER", ||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+
+http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/61145
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E01
+http://iptvorbit.net:8080/series/andy/andy/21116.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E02
+http://iptvorbit.net:8080/series/andy/andy/21117.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E03
+http://iptvorbit.net:8080/series/andy/andy/21118.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E04
+http://iptvorbit.net:8080/series/andy/andy/21119.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E05
+http://iptvorbit.net:8080/series/andy/andy/21120.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E06
+http://iptvorbit.net:8080/series/andy/andy/21121.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E07
+http://iptvorbit.net:8080/series/andy/andy/21122.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", ONE PIECE S01 E08
+http://iptvorbit.net:8080/series/andy/andy/21123.mkv
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VOD ONE PIECE", END
+http://iptvorbit.net:8080/series/andy/andy/21123.mkv
 
 
 
