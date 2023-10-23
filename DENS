@@ -2162,6 +2162,24 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=16514_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=13155_&extension=ts
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303207_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303208_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303209_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303210_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 5
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303211_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 6
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303212_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 7
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303213_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 8
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303214_&extension=ts
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SAJA", ||CA|| beIN Sports HD
 http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/41976
 
