@@ -37,6 +37,13 @@ http://kuchini.site:8080/F30140/f3de2280/162141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S3
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162141
 
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/80292
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S2
+http://kuchini.site:8080/F30140/f3de2280/80292
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/80292
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S1
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
