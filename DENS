@@ -127,28 +127,28 @@ http://mykingtv.net:2082/0163352422/0163352422/5162
 #EXTINF:-1 tvg-logo="https://www.theindonesiachannel.com/uploads/site/TIC_Logo_2019_Web2X.png" group-title="NASIONAL ID", ID: The Indonesia Channel
 http://mykingtv.net:2082/0163352422/0163352422/5163
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NDp7uOB9J4c/X82uvKk5qDI/AAAAAAAAHjU/o6UqwPfsxgArIrvvayHAy-lqBqxyTljGACLcBGAsYHQ/s978/logo-transtv.png" title="NASIONAL ID", TRANS TV FHD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NDp7uOB9J4c/X82uvKk5qDI/AAAAAAAAHjU/o6UqwPfsxgArIrvvayHAy-lqBqxyTljGACLcBGAsYHQ/s978/logo-transtv.png" group-title="NASIONAL ID", TRANS TV FHD
 http://mykingtv.net:2082/0163352422/0163352422/6975
 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/6/4/20/trans7-indonesia-trans-tv-streaming-media-television-png-favpng-9xxGhtW1PX9Vn3EaJLFUvKFFD.jpg" title="NASIONAL ID", TRANS 7 FHD
+#EXTINF:-1 tvg-logo="https://img.favpng.com/6/4/20/trans7-indonesia-trans-tv-streaming-media-television-png-favpng-9xxGhtW1PX9Vn3EaJLFUvKFFD.jpg" group-title="NASIONAL ID", TRANS 7 FHD
 http://mykingtv.net:2082/0163352422/0163352422/6976
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bzm74EAI1UU/W-rSTwODMUI/AAAAAAAAE-E/7_oqe2IlYek3TUp5ZQJcJDR2CdvIX6FvgCLcBGAs/w1200-h630-p-k-no-nu/Global%2BTV%2BTerbaru.png" title="NASIONAL ID", GTV FHD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bzm74EAI1UU/W-rSTwODMUI/AAAAAAAAE-E/7_oqe2IlYek3TUp5ZQJcJDR2CdvIX6FvgCLcBGAs/w1200-h630-p-k-no-nu/Global%2BTV%2BTerbaru.png" group-title="NASIONAL ID", GTV FHD
 http://mykingtv.net:2082/0163352422/0163352422/6977
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/189/696/png-clipart-jakarta-rcti-streaming-television-streaming-media-rajawali-television-blue.png" title="NASIONAL ID", RCTI FHD
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/189/696/png-clipart-jakarta-rcti-streaming-television-streaming-media-rajawali-television-blue.png" group-title="NASIONAL ID", RCTI FHD
 http://mykingtv.net:2082/0163352422/0163352422/6978
 
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/jowo.png" title="NASIONAL ID", Jowo Channel FHD
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/jowo.png" group-title="NASIONAL ID", Jowo Channel FHD
 http://mykingtv.net:2082/0163352422/0163352422/6981
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" title="NASIONAL ID", INDOSIAR FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="NASIONAL ID", INDOSIAR FHD
 http://mykingtv.net:2082/0163352422/0163352422/6982
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" title="NASIONAL ID", NET FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="NASIONAL ID", NET FHD
 http://mykingtv.net:2082/0163352422/0163352422/6983
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" title="NASIONAL ID", SCTV FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" group-title="NASIONAL ID", SCTV FHD
 http://mykingtv.net:2082/0163352422/0163352422/6984
 
 
