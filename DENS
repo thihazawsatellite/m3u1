@@ -6,13 +6,15 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#♦DONASI SUSUN PL♦#", LINK SAWER https://saweria.co/Inaldie22
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S1
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S2
 http://kuchini.site:8080/F30140/f3de2280/162138
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S3
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S4
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", RCTI S1
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
@@ -34,8 +36,7 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162141
 http://kuchini.site:8080/F30140/f3de2280/162141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S3
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S4
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S1
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
