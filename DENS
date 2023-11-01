@@ -52,6 +52,35 @@ http://kuchini.site:8080/F30140/f3de2280/298549
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S3
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
 
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64945_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64946_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64947_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64948_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64949_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64950_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64951_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64952_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64953_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 10
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64954_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL", ###NASIONAL###
