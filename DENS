@@ -82,6 +82,108 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64953_&exte
 #EXTINF:-1 tvg-logo="______" group-title="##EVENT DAZN##", DAZN EVENT 10
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64954_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242989_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242990_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242991_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242992_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242993_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242994_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243043_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243044_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243045_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243046_&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 1X2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242987_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243035_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243036_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243037_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243027_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243028_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243029_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243030_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243031_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243032_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243033_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243034_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=55327_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 10
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=55328_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253345_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253346_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253347_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253348_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253349_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253350_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253351_&extension=ts
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL", ###NASIONAL###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
