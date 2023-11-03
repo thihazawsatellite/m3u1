@@ -1868,15 +1868,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 4
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="_____" group-title="MALAYSIA", SPOTV
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704583_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MALAYSIA", SPOTV HD
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704584_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MALAYSIA", SPOTV 2
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704585_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MALAYSIA", PREMIER SPORT
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704589_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AWANI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571243&extension=ts&play_token=GVZS088tcf
@@ -1940,7 +1931,60 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&ex
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AFN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
 
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT BG", MAX SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56238_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT BG", MAX SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56239_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT BG", MAX SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56240_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT BG", MAX SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56241_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIEMA SPORT BG", DIEMA SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56190_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIEMA SPORT BG", DIEMA SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56191_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIEMA SPORT BG", DIEMA SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=129243_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30335_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30334_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30333_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30332_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 5
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30331_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT PT", ELEVEN SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45105_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT PT", ELEVEN SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45106_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT PT", ELEVEN SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45107_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT PT", ELEVEN SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45108_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT PT", ELEVEN SPORT 5
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45109_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT PT", ELEVEN SPORT 6
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45110_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA", BEIN HABER TR
