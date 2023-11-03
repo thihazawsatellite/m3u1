@@ -961,6 +961,78 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253350_&ext
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253351_&extension=ts
 
 
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31362_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31361_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31360_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31359_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31392_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31391_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31390_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31389_&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38387_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38365_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="FLOW", FLOW SPORT
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1563800_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 1
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601495_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 2
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601494_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 3
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601493_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 4
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601492_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 5
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601491_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 6
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601490_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 7
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601489_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 8
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601488_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 9
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601487_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="OD APPLE TV", APPLE FILM 10
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601486_&extension=ts
+
 
 
 
