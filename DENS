@@ -728,44 +728,6 @@ http://starhd.kozow.com:8880/Hatemel150/b6HvNk7zQD/131594
 http://starhd.kozow.com:8880/Hatemel150/b6HvNk7zQD/132161
 
 
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31362_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31361_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31360_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31359_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31392_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31391_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31390_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31389_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38387_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38365_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL", ###NASIONAL###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
@@ -1650,6 +1612,45 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&ex
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AFN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
 
+
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31362_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31361_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31360_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31359_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31392_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31391_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31390_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31389_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38387_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38365_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
+
 #EXTINF:-1 tvg-logo="______" group-title="MAX SPORT BG", MAX SPORT 1
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56238_&extension=ts
 
@@ -1670,7 +1671,6 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=56191_&exten
 
 #EXTINF:-1 tvg-logo="______" group-title="DIEMA SPORT BG", DIEMA SPORT 3
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=129243_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 1
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30335_&extension=ts
