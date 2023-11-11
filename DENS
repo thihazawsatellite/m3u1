@@ -435,4 +435,6 @@ http://116.90.98.4:5000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOD", ONE PIECE EP1082 
 https://api3.mp4.to/static/downloads/b4ddfe5c-6f1c-4cbe-b89b-7172ca30ea2a/op-1082-360p-samehadakucare.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOD", THE KILLER
+https://ss309.dominofile.com/stream/0/A1/eR8mwAXjswwUAXYojGla79dr2tSANdR2cK5/hls480/eR8mwAXjswwUAXYojGla79dr2tSANdR2cK5480.m3u8
 #EXTM3U billed-msg="❤️PLAYLIST GRATIS YG JUAL HARAM https://t.me/IPTVcostum ❤️"
