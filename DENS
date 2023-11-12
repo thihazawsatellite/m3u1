@@ -296,10 +296,12 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&exten
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOD", ONE PIECE EP1082 
-https://api3.mp4.to/static/downloads/b4ddfe5c-6f1c-4cbe-b89b-7172ca30ea2a/op-1082-360p-samehadakucare.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOD", ONE PIECE EP1081
 https://api3.mp4.to/static/downloads/149f696f-2a02-4714-b1a8-c9865f3b6393/op-1081-360p-samehadakucare_2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOD", ONE PIECE EP1082 
+https://api3.mp4.to/static/downloads/b4ddfe5c-6f1c-4cbe-b89b-7172ca30ea2a/op-1082-360p-samehadakucare.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="VOD", ONE PIECE EP1083
+https://api.mp4.to/static/downloads/ee1edc36-dc31-4d00-93cd-db5bbc0d67e5/wibufile-watch-op-1083-360p-samehadakucare.m3u8
 
 
 
