@@ -286,6 +286,8 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41532_&exten
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41531_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORT AR", BEIN SPORT 7
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41530_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORT AR", BEIN SPORT 8
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41529_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORT AR", BEIN SPORT 9
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41528_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORT AR", BEIN SPORT 10
