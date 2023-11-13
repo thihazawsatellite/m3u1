@@ -18,9 +18,9 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=47346_&exten
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 5
 https://stream.ayas.ir/hls2/bein5.m3u8
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 6
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41531_&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=55550&extension=ts
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 7
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=2801_&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=2801&extension=ts
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
