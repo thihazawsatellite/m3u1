@@ -27,6 +27,10 @@ http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:6B:06:77&stream=552870_
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 10
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60/&stream=1021130&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 11
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60/&stream=1756294&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 12
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60/&stream=1497336&extension=ts
 
 
 
