@@ -497,7 +497,7 @@ http://46.175.129.146:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65112_&exten
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA", ARENA SPORTS 1 RS
 http://46.175.129.146:80/play/live.php?mac=00:1A:79:50:C3:35&stream=534_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA, ARENA SPORTS 2 RS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA", ARENA SPORTS 2 RS
 http://46.175.129.146:80/play/live.php?mac=00:1A:79:50:C3:35&stream=535_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA", ARENA SPORTS 3 RS
 http://46.175.129.146:80/play/live.php?mac=00:1A:79:50:C3:35&stream=536_&extension=ts
@@ -1362,35 +1362,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=97153&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=97154&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", TNT SPORT EXTRA 8 UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=97155&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642943&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642944&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 3
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642945&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 4
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642946&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 5
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642947&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 6
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642948&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 7
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642949&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 8
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642950&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 9
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642951&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 10
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642952&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 11
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642953&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 12
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642954&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 13
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642955&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", MLS LEAGUE 14
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=642956&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA 2", BEIN SPORT 1 AR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=59306&extension=ts
