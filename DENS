@@ -7,6 +7,14 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 1
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 2
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162141
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 3
+http://iptvtree.net:8080/devtv/5af3eeb538/162138
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 4
+http://iptvtree.net:8080/devtv/5af3eeb538/162141
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 1
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41528_&extension=ts
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 2
