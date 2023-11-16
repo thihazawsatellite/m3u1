@@ -1658,6 +1658,251 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
 
 
+
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MOVIE MANCANEGARA", CINEMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/71
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MOVIE MANCANEGARA", CINEMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/72
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/5starmax.png" group-title="MOVIE MANCANEGARA", CINEMAX 5STARMAX
+http://bbiptv.net:8000/Cathy6335/Williams/1164
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/actionmax.png" group-title="MOVIE MANCANEGARA", CINEMAX ACTIONMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1163
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/actionmax.png" group-title="MOVIE MANCANEGARA", CINEMAX ACTIONMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2627
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/cinemax.png" group-title="MOVIE MANCANEGARA", CINEMAX LATINO
+http://bbiptv.net:8000/Cathy6335/Williams/3867
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moremax.png" group-title="MOVIE MANCANEGARA", CINEMAX MOREMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1655
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/moremax.png" group-title="MOVIE MANCANEGARA", CINEMAX MOREMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2628
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moviemax.png" group-title="MOVIE MANCANEGARA", CINEMAX MOVIEMAX
+http://bbiptv.net:8000/Cathy6335/Williams/1656
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/outermax.png" group-title="MOVIE MANCANEGARA", CINEMAX OUTERMAX
+http://bbiptv.net:8000/Cathy6335/Williams/1657
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/thrillermax.png" group-title="MOVIE MANCANEGARA", CINEMAX THRILLERMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1658
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/thrillermax.png" group-title="MOVIE MANCANEGARA", CINEMAX THRILLERMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2629
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MOVIE MANCANEGARA", HBO EAST
+http://bbiptv.net:8000/Cathy6335/Williams/69
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MOVIE MANCANEGARA", HBO WEST
+http://bbiptv.net:8000/Cathy6335/Williams/70
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/hbo2.png" group-title="MOVIE MANCANEGARA", HBO 2 EAST
+http://bbiptv.net:8000/Cathy6335/Williams/2943
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo2.png" group-title="MOVIE MANCANEGARA", HBO 2 WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4162
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbocomedy.png" group-title="MOVIE MANCANEGARA", HBO COMEDY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1659
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbocomedy.png" group-title="MOVIE MANCANEGARA", HBO COMEDY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2630
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbofamily.png" group-title="MOVIE MANCANEGARA", HBO FAMILY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1207
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbofamily.png" group-title="MOVIE MANCANEGARA", HBO FAMILY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2631
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MOVIE MANCANEGARA", HBO LATINO EAST
+http://bbiptv.net:8000/Cathy6335/Williams/3866
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MOVIE MANCANEGARA", HBO LATINO WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4178
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbosignature.png" group-title="MOVIE MANCANEGARA", HBO SIGNATURE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1432
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbosignature.png" group-title="MOVIE MANCANEGARA", HBO SIGNATURE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2632
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbozone.png" group-title="MOVIE MANCANEGARA", HBO ZONE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1660
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbozone.png" group-title="MOVIE MANCANEGARA", HBO ZONE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2633
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hdnet.png" group-title="MOVIE MANCANEGARA", HDNET MOVIES
+http://bbiptv.net:8000/Cathy6335/Williams/1208
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MOVIE MANCANEGARA", INDIE PLEX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1209
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MOVIE MANCANEGARA", INDIE PLEX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4180
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Yn8txHE2dyvFHvoYwMovZZ31wfY6zcWRMfugBr6bDMtq8ldci2ZmI1HnwWhOxIPSRNAenFh1hO8=ns-nd" group-title="MOVIE MANCANEGARA", MGM+
+http://bbiptv.net:8000/Cathy6335/Williams/374
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/hiV1m3YK_ILYiuyo3T1VsQ5aIyKmoZRkqcJhzYurTVXmwFPULezUG0Rq-I9hHE1bimki2JZXfDH-3g=ns-nd" group-title="MOVIE MANCANEGARA", MGM+ MARQUEE
+http://bbiptv.net:8000/Cathy6335/Williams/375
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/umVrzYeNsqcfAfnW4kZVvuQzoFR3ccWddjpfDjJvrCO29GPt0uDDP2aYkeQsItD0t7J9DwsqtTs=ns-nd" group-title="MOVIE MANCANEGARA", MGM+ DRIVE-IN
+http://bbiptv.net:8000/Cathy6335/Williams/1205
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/03EirdfNDGlhSZWg8LJRvu1-TfriBrfG-MbcQfsOOrPqG4Pwh-XC8iZpafFZ91kjzr3l2ffDX2N0=ns-nd" group-title="MOVIE MANCANEGARA", MGM+ HITS
+http://bbiptv.net:8000/Cathy6335/Williams/76
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MOVIE MANCANEGARA", MOVIE PLEX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1212
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MOVIE MANCANEGARA", MOVIE PLEX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4181
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MOVIE MANCANEGARA", RETRO PLEX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1230
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MOVIE MANCANEGARA", RETRO PLEX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4182
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MOVIE MANCANEGARA", SHOWTIME EAST
+http://bbiptv.net:8000/Cathy6335/Williams/73
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MOVIE MANCANEGARA", SHOWTIME WEST
+http://bbiptv.net:8000/Cathy6335/Williams/74
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtime2.png" group-title="MOVIE MANCANEGARA", SHOWTIME 2 EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1231
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MOVIE MANCANEGARA", SHOWTIME 2 WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4840
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MOVIE MANCANEGARA", SHO x  BET EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1232
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MOVIE MANCANEGARA", SHO x BET WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2655
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimeextreme.png" group-title="MOVIE MANCANEGARA", SHOWTIME EXTREME EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1233
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimeextreme.png" group-title="MOVIE MANCANEGARA", SHOWTIME EXTREME WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2656
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimefamilyzone.png" group-title="MOVIE MANCANEGARA", SHOWTIME FAMILY ZONE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1234
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimefamilyzone.png" group-title="MOVIE MANCANEGARA", SHOWTIME FAMILY ZONE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2657
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimenext.png" group-title="MOVIE MANCANEGARA", SHOWTIME NEXT EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1235
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimenext.png" group-title="MOVIE MANCANEGARA", SHOWTIME NEXT WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2658
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showcase.png" group-title="MOVIE MANCANEGARA", SHOWTIME SHOWCASE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1236
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showcase.png" group-title="MOVIE MANCANEGARA", SHOWTIME SHOWCASE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2659
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimewomen.png" group-title="MOVIE MANCANEGARA", SHOWTIME WOMEN EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1237
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimewomen.png" group-title="MOVIE MANCANEGARA", SHOWTIME WOMEN WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2660
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starz.png" group-title="MOVIE MANCANEGARA", STARZ EAST
+http://bbiptv.net:8000/Cathy6335/Williams/373
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starz.png" group-title="MOVIE MANCANEGARA", STARZ WEST
+http://bbiptv.net:8000/Cathy6335/Williams/1254
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcinema.png" group-title="MOVIE MANCANEGARA", STARZ CINEMA EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1240
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzcinema.png" group-title="MOVIE MANCANEGARA", STARZ CINEMA WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2662
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MOVIE MANCANEGARA", STARZ COMEDY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1241
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MOVIE MANCANEGARA", STARZ COMEDY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2663
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzedge.png" group-title="MOVIE MANCANEGARA", STARZ EDGE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1242
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzedge.png" group-title="MOVIE MANCANEGARA", STARZ EDGE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2664
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzinblack.png" group-title="MOVIE MANCANEGARA", STARZ IN BLACK EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1252
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzinblack.png" group-title="MOVIE MANCANEGARA", STARZ IN BLACK WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2667
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MOVIE MANCANEGARA", STARZ KIDS & FAMILY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1253
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MOVIE MANCANEGARA", STARZ KIDS & FAMILY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2666
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencore.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1243
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzencore.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2665
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ESPANOL EAST
+http://bbiptv.net:8000/Cathy6335/Williams/3474
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ESPANOL WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4189
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ACTION EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1244
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ACTION WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4183
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE BLACK EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1245
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE BLACK WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4184
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE CLASSIC EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1246
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE CLASSIC WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4185
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE FAMILY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1248
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE FAMILY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4186
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE SUSPENSE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1249
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE SUSPENSE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4187
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE WESTERNS EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1251
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE WESTERNS WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4188
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Disney Movie
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15010/index.m3u8
 
@@ -2123,6 +2368,495 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19233/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE MANCANEGARA", Ultra HD Cinema 4K
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/4000/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/5star.png" group-title="UK CHANNELS", UK | 5STAR
+http://bbiptv.net:8000/Cathy6335/Williams/1082
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/5usa.png" group-title="UK CHANNELS", UK | 5USA
+http://bbiptv.net:8000/Cathy6335/Williams/3476
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/aljazeera.png" group-title="UK CHANNELS", UK | AL JAZEERA
+http://bbiptv.net:8000/Cathy6335/Williams/1734
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/bbcfour.png" group-title="UK CHANNELS", UK | BBC FOUR
+http://bbiptv.net:8000/Cathy6335/Williams/2670
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/bbcnews.png" group-title="UK CHANNELS", UK | BBC NEWS
+http://bbiptv.net:8000/Cathy6335/Williams/3477
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/bbcone.png" group-title="UK CHANNELS", UK | BBC ONE
+http://bbiptv.net:8000/Cathy6335/Williams/1084
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/bbcparliament.png" group-title="UK CHANNELS", UK | BBC PARLIAMENT
+http://bbiptv.net:8000/Cathy6335/Williams/2624
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/bbctwo.png" group-title="UK CHANNELS", UK | BBC TWO
+http://bbiptv.net:8000/Cathy6335/Williams/1085
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/btsports1.png" group-title="UK CHANNELS", UK | BT SPORT 1
+http://bbiptv.net:8000/Cathy6335/Williams/1088
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/btsports2.png" group-title="UK CHANNELS", UK | BT SPORT 2
+http://bbiptv.net:8000/Cathy6335/Williams/1089
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/btsports3.png" group-title="UK CHANNELS", UK | BT SPORT 3
+http://bbiptv.net:8000/Cathy6335/Williams/1090
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | BT SPORT 4
+http://bbiptv.net:8000/Cathy6335/Williams/1739
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/btsportsespn.png" group-title="UK CHANNELS", UK | BT SPORT ESPN
+http://bbiptv.net:8000/Cathy6335/Williams/1091
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/questred.png" group-title="UK CHANNELS", UK | CBS DRAMA
+http://bbiptv.net:8000/Cathy6335/Williams/1735
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | CBS JUSTICE
+http://bbiptv.net:8000/Cathy6335/Williams/1737
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cbsreality.png" group-title="UK CHANNELS", UK | CBS REALITY
+http://bbiptv.net:8000/Cathy6335/Williams/1096
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/challenge.png" group-title="UK CHANNELS", UK | CHALLENGE
+http://bbiptv.net:8000/Cathy6335/Williams/1097
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/channel4.png" group-title="UK CHANNELS", UK | CHANNEL 4
+http://bbiptv.net:8000/Cathy6335/Williams/1098
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/channel5.png" group-title="UK CHANNELS", UK | CHANNEL 5
+http://bbiptv.net:8000/Cathy6335/Williams/1099
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/channel5p1.png" group-title="UK CHANNELS", UK | CHANNEL 5 +1
+http://bbiptv.net:8000/Cathy6335/Williams/1112
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/dave.png" group-title="UK CHANNELS", UK | DAVE
+http://bbiptv.net:8000/Cathy6335/Williams/1101
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/drama.png" group-title="UK CHANNELS", UK | DRAMA
+http://bbiptv.net:8000/Cathy6335/Williams/1106
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/e4.png" group-title="UK CHANNELS", UK | E4
+http://bbiptv.net:8000/Cathy6335/Williams/1122
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/e4p1.png" group-title="UK CHANNELS", UK | E4 +1
+http://bbiptv.net:8000/Cathy6335/Williams/1133
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/euronews.png" group-title="UK CHANNELS", UK | EURO NEWS
+http://bbiptv.net:8000/Cathy6335/Williams/1742
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/eurosports1.png" group-title="UK CHANNELS", UK | EUROSPORT 1
+http://bbiptv.net:8000/Cathy6335/Williams/1109
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/eurosports2.png" group-title="UK CHANNELS", UK | EUROSPORT 2
+http://bbiptv.net:8000/Cathy6335/Williams/1110
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/film4.png" group-title="UK CHANNELS", UK | FILM 4
+http://bbiptv.net:8000/Cathy6335/Williams/1102
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/horrorchannel.png" group-title="UK CHANNELS", UK | HORROR CHANNEL
+http://bbiptv.net:8000/Cathy6335/Williams/1114
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/idealextra.png" group-title="UK CHANNELS", UK | IDEAL EXTRA
+http://bbiptv.net:8000/Cathy6335/Williams/1731
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/ITV1.png" group-title="UK CHANNELS", UK | ITV 1
+http://bbiptv.net:8000/Cathy6335/Williams/1115
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/ITV2.png" group-title="UK CHANNELS", UK | ITV 2
+http://bbiptv.net:8000/Cathy6335/Williams/1116
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/ITV3.png" group-title="UK CHANNELS", UK | ITV 3
+http://bbiptv.net:8000/Cathy6335/Williams/1117
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/itv3p1.png" group-title="UK CHANNELS", UK | ITV 3 +1
+http://bbiptv.net:8000/Cathy6335/Williams/1759
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/ITV4.png" group-title="UK CHANNELS", UK | ITV 4
+http://bbiptv.net:8000/Cathy6335/Williams/1118
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/itv4p1.png" group-title="UK CHANNELS", UK | ITV 4 +1
+http://bbiptv.net:8000/Cathy6335/Williams/1103
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/ITVBe.png" group-title="UK CHANNELS", UK | ITVBE
+http://bbiptv.net:8000/Cathy6335/Williams/1119
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/more4.png" group-title="UK CHANNELS", UK | MORE 4
+http://bbiptv.net:8000/Cathy6335/Williams/1121
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/mtv.png" group-title="UK CHANNELS", UK | MTV
+http://bbiptv.net:8000/Cathy6335/Williams/1738
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/quest.png" group-title="UK CHANNELS", UK | QUEST
+http://bbiptv.net:8000/Cathy6335/Williams/1127
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/qvc.png" group-title="UK CHANNELS", UK | QVC
+http://bbiptv.net:8000/Cathy6335/Williams/1733
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/really.png" group-title="UK CHANNELS", UK | REALLY
+http://bbiptv.net:8000/Cathy6335/Williams/1129
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/s4c.png" group-title="UK CHANNELS", UK | SC4
+http://bbiptv.net:8000/Cathy6335/Williams/1159
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemaactionadventure.png" group-title="UK CHANNELS", UK | SKY CINEMA ACTION & ADVENTURE
+http://bbiptv.net:8000/Cathy6335/Williams/1134
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemacomedy.png" group-title="UK CHANNELS", UK | SKY CINEMA COMEDY
+http://bbiptv.net:8000/Cathy6335/Williams/1135
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemacrimethriller.png" group-title="UK CHANNELS", UK | SKY CINEMA CRIME & THRILLER
+http://bbiptv.net:8000/Cathy6335/Williams/1136
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemadisney.png" group-title="UK CHANNELS", UK | SKY CINEMA DISNEY
+http://bbiptv.net:8000/Cathy6335/Williams/1137
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemadramaromance.png" group-title="UK CHANNELS", UK | SKY CINEMA DRAMA & ROMANCE
+http://bbiptv.net:8000/Cathy6335/Williams/1138
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemafamily.png" group-title="UK CHANNELS", UK | SKY CINEMA FAMILY
+http://bbiptv.net:8000/Cathy6335/Williams/1139
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemagreats.png" group-title="UK CHANNELS", UK | SKY CINEMA GREATS
+http://bbiptv.net:8000/Cathy6335/Williams/1140
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemahits.png" group-title="UK CHANNELS", UK | SKY CINEMA HITS
+http://bbiptv.net:8000/Cathy6335/Williams/1141
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemapremiere.png" group-title="UK CHANNELS", UK | SKY CINEMA PREMIERE
+http://bbiptv.net:8000/Cathy6335/Williams/1142
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemascifihorror.png" group-title="UK CHANNELS", UK | SKY CINEMA SCI-FI & HORROR
+http://bbiptv.net:8000/Cathy6335/Williams/1143
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemaselect.png" group-title="UK CHANNELS", UK | SKY CINEMA SELECT
+http://bbiptv.net:8000/Cathy6335/Williams/1144
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skynews.png" group-title="UK CHANNELS", UK | SKY NEWS
+http://bbiptv.net:8000/Cathy6335/Williams/1145
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsaction.png" group-title="UK CHANNELS", UK | SKY SPORTS ACTION
+http://bbiptv.net:8000/Cathy6335/Williams/1146
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsarena.png" group-title="UK CHANNELS", UK | SKY SPORTS ARENA
+http://bbiptv.net:8000/Cathy6335/Williams/1147
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportscricket.png" group-title="UK CHANNELS", UK | SKY SPORTS CRICKET
+http://bbiptv.net:8000/Cathy6335/Williams/1148
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsf1.png" group-title="UK CHANNELS", UK | SKY SPORTS F1
+http://bbiptv.net:8000/Cathy6335/Williams/1149
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsfootball.png" group-title="UK CHANNELS", UK | SKY SPORTS FOOTBALL
+http://bbiptv.net:8000/Cathy6335/Williams/1150
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsgolf.png" group-title="UK CHANNELS", UK | SKY SPORTS GOLF
+http://bbiptv.net:8000/Cathy6335/Williams/1151
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsmainevent.png" group-title="UK CHANNELS", UK | SKY SPORTS MAIN EVENT
+http://bbiptv.net:8000/Cathy6335/Williams/1152
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsmix.png" group-title="UK CHANNELS", UK | SKY SPORTS MIX
+http://bbiptv.net:8000/Cathy6335/Williams/1153
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skysportsnews.png" group-title="UK CHANNELS", UK | SKY SPORTS NEWS
+http://bbiptv.net:8000/Cathy6335/Williams/1154
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/aljazeera.png" group-title="UK CHANNELS", UK | AL JAZEERA
+http://bbiptv.net:8000/Cathy6335/Williams/1734
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | SKY SPORTS RACING
+http://bbiptv.net:8000/Cathy6335/Williams/1128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | SKY DOCUMENTARIES
+http://bbiptv.net:8000/Cathy6335/Williams/3478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | SKY CRIME
+http://bbiptv.net:8000/Cathy6335/Williams/3637
+
+
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/accnetwork.png" group-title="SPORTS USA", ACC NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/170
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/altitude.png" group-title="SPORTS USA", ALTITUDE SPORTS
+http://bbiptv.net:8000/Cathy6335/Williams/4106
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/attsportsnet.png" group-title="SPORTS USA", AT&T SPORTSNET PITTSBURGH
+http://bbiptv.net:8000/Cathy6335/Williams/3802
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/attsportsnet.png" group-title="SPORTS USA", AT&T SPORTSNET ROCKY MOUNTAIN
+http://bbiptv.net:8000/Cathy6335/Williams/3779
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/attsportsnet.png" group-title="SPORTS USA", AT&T SPORTSNET SOUTHWEST
+http://bbiptv.net:8000/Cathy6335/Williams/548
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS ARIZONA
+http://bbiptv.net:8000/Cathy6335/Williams/201
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS INDIANA
+http://bbiptv.net:8000/Cathy6335/Williams/203
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS GREAT LAKES
+http://bbiptv.net:8000/Cathy6335/Williams/205
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS DETROIT
+http://bbiptv.net:8000/Cathy6335/Williams/207
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS FLORIDA
+http://bbiptv.net:8000/Cathy6335/Williams/208
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS KANSAS CITY
+http://bbiptv.net:8000/Cathy6335/Williams/211
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS MID-WEST
+http://bbiptv.net:8000/Cathy6335/Williams/212
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS NEW ORLEANS
+http://bbiptv.net:8000/Cathy6335/Williams/213
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS NORTH
+http://bbiptv.net:8000/Cathy6335/Williams/214
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS OHIO
+http://bbiptv.net:8000/Cathy6335/Williams/217
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOCAL
+http://bbiptv.net:8000/Cathy6335/Williams/219
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SAN DIEGO
+http://bbiptv.net:8000/Cathy6335/Williams/221
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOUTH
+http://bbiptv.net:8000/Cathy6335/Williams/222
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOUTHEAST
+http://bbiptv.net:8000/Cathy6335/Williams/224
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOUTHWEST
+http://bbiptv.net:8000/Cathy6335/Williams/225
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SUN
+http://bbiptv.net:8000/Cathy6335/Williams/228
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS TENNESSEE
+http://bbiptv.net:8000/Cathy6335/Williams/229
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS WEST
+http://bbiptv.net:8000/Cathy6335/Williams/230
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS WISCONSIN
+http://bbiptv.net:8000/Cathy6335/Williams/231
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/beinsports.png" group-title="SPORTS USA", BEINSPORTS
+http://bbiptv.net:8000/Cathy6335/Williams/1466
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/beinsports.png" group-title="SPORTS USA", BEINSPORTS LA LIGA
+http://bbiptv.net:8000/Cathy6335/Williams/1605
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/btn.png" group-title="SPORTS USA", BIG TEN NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/171
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/cbssn.png" group-title="SPORTS USA", CBS SPORTS NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/175
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/elevensports.png" group-title="SPORTS USA", ELEVEN SPORTS
+http://bbiptv.net:8000/Cathy6335/Williams/176
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espn.png" group-title="SPORTS USA", ESPN
+http://bbiptv.net:8000/Cathy6335/Williams/177
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espn2.png" group-title="SPORTS USA", ESPN 2
+http://bbiptv.net:8000/Cathy6335/Williams/178
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espndeportes.png" group-title="SPORTS USA", ESPN DEPORTES
+http://bbiptv.net:8000/Cathy6335/Williams/181
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/longhorn.png" group-title="SPORTS USA", ESPN LONGHORN NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/183
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espnnews.png" group-title="SPORTS USA", ESPN NEWS
+http://bbiptv.net:8000/Cathy6335/Williams/179
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/sec.png" group-title="SPORTS USA", ESPN SEC NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/184
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espnu.png" group-title="SPORTS USA", ESPNU
+http://bbiptv.net:8000/Cathy6335/Williams/180
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/foxsoccerplus.png" group-title="SPORTS USA", FOX SOCCER PLUS
+http://bbiptv.net:8000/Cathy6335/Williams/200
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/foxdeportes.png" group-title="SPORTS USA", FOX SPORTS DEPORTES
+http://bbiptv.net:8000/Cathy6335/Williams/206
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/fs1.png" group-title="SPORTS USA", FS1
+http://bbiptv.net:8000/Cathy6335/Williams/195
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/fs2.png" group-title="SPORTS USA", FS2
+http://bbiptv.net:8000/Cathy6335/Williams/196
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/goltv.png" group-title="SPORTS USA", GOL TV
+http://bbiptv.net:8000/Cathy6335/Williams/4682
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/marquee.png" group-title="SPORTS USA", MARQUEE SPORTS
+http://bbiptv.net:8000/Cathy6335/Williams/4812
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/masn.png" group-title="SPORTS USA", MASN 1
+http://bbiptv.net:8000/Cathy6335/Williams/3803
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/masn.png" group-title="SPORTS USA", MASN 2
+http://bbiptv.net:8000/Cathy6335/Williams/3804
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/mavtv.png" group-title="SPORTS USA", MAV TV
+http://bbiptv.net:8000/Cathy6335/Williams/1211
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/mlbnetwork.png" group-title="SPORTS USA", MLB NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/237
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/mlbstrikezone.png" group-title="SPORTS USA", MLB STRIKE ZONE
+http://bbiptv.net:8000/Cathy6335/Williams/3473
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/monumental.png" group-title="SPORTS USA", MONUMENTAL SPORTS NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/249
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/monumental.png" group-title="SPORTS USA", MONUMENTAL SPORTS NETWORK PLUS
+http://bbiptv.net:8000/Cathy6335/Williams/4431
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/motortrend.png" group-title="SPORTS USA", MOTORTREND
+http://bbiptv.net:8000/Cathy6335/Williams/258
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/msg.png" group-title="SPORTS USA", MSG
+http://bbiptv.net:8000/Cathy6335/Williams/1213
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/msg.png" group-title="SPORTS USA", MSG 2
+http://bbiptv.net:8000/Cathy6335/Williams/1214
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msgplus.png" group-title="SPORTS USA", MSGSN
+http://bbiptv.net:8000/Cathy6335/Williams/1216
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msgplus.png" group-title="SPORTS USA", MSGSN 2
+http://bbiptv.net:8000/Cathy6335/Williams/2982
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msg.png" group-title="SPORTS USA", MSG BUFFALO
+http://bbiptv.net:8000/Cathy6335/Williams/4124
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msg.png" group-title="SPORTS USA", MSG BUFFALO PLUS
+http://bbiptv.net:8000/Cathy6335/Williams/4157
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nbatv.png" group-title="SPORTS USA", NBA TV
+http://bbiptv.net:8000/Cathy6335/Williams/238
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/golfchannel.png" group-title="SPORTS USA", NBC GOLF CHANNEL
+http://bbiptv.net:8000/Cathy6335/Williams/251
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnbayarea.png" group-title="SPORTS USA", NBCSN BAY AREA
+http://bbiptv.net:8000/Cathy6335/Williams/240
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnbayarea.png" group-title="SPORTS USA", NBCSN BAY AREA PLUS
+http://bbiptv.net:8000/Cathy6335/Williams/4428
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnboston.png" group-title="SPORTS USA", NBCSN BOSTON
+http://bbiptv.net:8000/Cathy6335/Williams/242
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnca.png" group-title="SPORTS USA", NBCSN CALIFORNIA
+http://bbiptv.net:8000/Cathy6335/Williams/243
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnchicago.png" group-title="SPORTS USA", NBCSN CHICAGO
+http://bbiptv.net:8000/Cathy6335/Williams/245
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnchicago.png" group-title="SPORTS USA", NBCSN CHICAGO PLUS
+http://bbiptv.net:8000/Cathy6335/Williams/4429
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnphilly.png" group-title="SPORTS USA", NBCSN PHILADELPHIA
+http://bbiptv.net:8000/Cathy6335/Williams/247
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnphilly.png" group-title="SPORTS USA", NBCSN PHILADELPHIA PLUS
+http://bbiptv.net:8000/Cathy6335/Williams/4430
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nesn.png" group-title="SPORTS USA", NESN
+http://bbiptv.net:8000/Cathy6335/Williams/521
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo//USA/nesnplus.png" group-title="SPORTS USA", NESN PLUS
+http://bbiptv.net:8000/Cathy6335/Williams/522
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nflnetwork.png" group-title="SPORTS USA", NFL NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/252
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nflredzone.png" group-title="SPORTS USA", NFL REDZONE
+http://bbiptv.net:8000/Cathy6335/Williams/2981
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nhlnetwork.png" group-title="SPORTS USA", NHL NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/253
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12networks.png" group-title="SPORTS USA", PAC12 NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/1224
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12az.png" group-title="SPORTS USA", PAC12 ARIZONA
+http://bbiptv.net:8000/Cathy6335/Williams/1220
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12ba.png" group-title="SPORTS USA", PAC12 BAY AREA
+http://bbiptv.net:8000/Cathy6335/Williams/1221
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12.png" group-title="SPORTS USA", PAC12 INSIDER
+http://bbiptv.net:8000/Cathy6335/Williams/2661
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12la.png" group-title="SPORTS USA", PAC12 LOS ANGELES
+http://bbiptv.net:8000/Cathy6335/Williams/1222
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12mn.png" group-title="SPORTS USA", PAC12 MOUNTAIN
+http://bbiptv.net:8000/Cathy6335/Williams/1223
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12oregon.png" group-title="SPORTS USA", PAC12 OREGON
+http://bbiptv.net:8000/Cathy6335/Williams/1225
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12washington.png" group-title="SPORTS USA", PAC12 WASHINGTON
+http://bbiptv.net:8000/Cathy6335/Williams/1226
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/rootsports.png" group-title="SPORTS USA", ROOT SPORTS NORTHWEST
+http://bbiptv.net:8000/Cathy6335/Williams/248
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/rootsports.png" group-title="SPORTS USA", ROOTS SPORTS
+http://bbiptv.net:8000/Cathy6335/Williams/3806
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/sny.png" group-title="SPORTS USA", SNY
+http://bbiptv.net:8000/Cathy6335/Williams/255
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/spectrumsportsnet.png" group-title="SPORTS USA", SPECTRUM SPORTSNET LA DODGERS
+http://bbiptv.net:8000/Cathy6335/Williams/2945
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/spectrumsportsnet.png" group-title="SPORTS USA", SPECTRUM SPORTSNET LA LAKERS
+http://bbiptv.net:8000/Cathy6335/Williams/2946
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/sportsman.png" group-title="SPORTS USA", SPORTSMAN CHANNEL
+http://bbiptv.net:8000/Cathy6335/Williams/1239
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/stadium.png" group-title="SPORTS USA", STADIUM
+http://bbiptv.net:8000/Cathy6335/Williams/256
+
+#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/tennischannel.png" group-title="SPORTS USA", TENNIS CHANNEL
+http://bbiptv.net:8000/Cathy6335/Williams/1525
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/tudn.png" group-title="SPORTS USA", TUDN
+http://bbiptv.net:8000/Cathy6335/Williams/3661
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/ufcfightpass.png" group-title="SPORTS USA", UFC FIGHT PASS
+http://bbiptv.net:8000/Cathy6335/Williams/596
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/willow.png" group-title="SPORTS USA", WILLOW CRICKET
+http://bbiptv.net:8000/Cathy6335/Williams/3649
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/worldfishing.png" group-title="SPORTS USA", WORLD FISHING NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/1258
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/wwe.png" group-title="SPORTS USA", WWE NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/1264
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/yes.png" group-title="SPORTS USA", YES NETWORK
+http://bbiptv.net:8000/Cathy6335/Williams/236
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/zonafutbol.png" group-title="SPORTS USA", ZONA FUTBOL TUDN
+http://bbiptv.net:8000/Cathy6335/Williams/2940
 
 
 
