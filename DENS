@@ -72,7 +72,7 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683149&extensi
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TVN
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683148&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Thrill
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683148&extension=ts&play_token=GVZS088tcf
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683154extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", CinemaWorld
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683146&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Hits
