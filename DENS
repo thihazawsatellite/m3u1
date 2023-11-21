@@ -8,6 +8,10 @@ https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://media.vivagoal.com/2023/11/Filipina-vs-Indonesia.jpg" group-title="LIVE TIMNAS", SERVER 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161&extension=ts&play_token=bo2m2wHalz
+#EXTINF:-1 tvg-logo="https://media.vivagoal.com/2023/11/Filipina-vs-Indonesia.jpg" group-title="LIVE TIMNAS", SERVER 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=926161&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", RCTI
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf 
