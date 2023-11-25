@@ -62,7 +62,8 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 http://iptvtree.net:8080/devtv/5af3eeb538/197964
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 6
 http://iptvstream.xyz:8080/Dooby/66754f23/197964
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 7
+http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197055
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/197972
@@ -76,6 +77,10 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
 http://iptvtree.net:8080/devtv/5af3eeb538/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 6
 http://iptvstream.xyz:8080/Dooby/66754f23/197972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 7
+http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197972
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/197055
@@ -89,6 +94,9 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
 http://iptvtree.net:8080/devtv/5af3eeb538/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 6
 http://iptvstream.xyz:8080/Dooby/66754f23/197055
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 7
+http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197055
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/196480
@@ -102,6 +110,9 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
 http://iptvtree.net:8080/devtv/5af3eeb538/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 6
 http://iptvstream.xyz:8080/Dooby/66754f23/196480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 7
+http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/196480
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/221948
@@ -115,7 +126,8 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
 http://iptvtree.net:8080/devtv/5af3eeb538/221948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 6
 http://iptvstream.xyz:8080/Dooby/66754f23/221948
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 7
+http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/221948
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA 1", ID: 01. ETV Live Event
