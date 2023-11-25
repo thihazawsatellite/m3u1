@@ -2079,7 +2079,7 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=250626&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=250615&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", DIGI SPORT 1 RO
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262326&extension=ts&play_token=yK7Ppvy2jW
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262327&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", DIGI SPORT 2 RO
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262328&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", DIGI SPORT 3 RO
@@ -2102,7 +2102,7 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262392&extension=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ORANGE SPORT 3 RO
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262393&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ORANGE SPORT 4 RO
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262396&extension=ts&play_token=yK7Ppvy2jW
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262395&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ARENA SPORT PREMIUM 1 RS
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=674862&extension=ts&play_token=yK7Ppvy2jW
@@ -2201,6 +2201,16 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=766853&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=766854&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 4
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=766855&extension=ts&play_token=yK7Ppvy2jW
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", DAZN 1 DE
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=699786&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", DAZN 2 DE
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=699784&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", SKY SPORT F1 DE
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=699780&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", SKY SPORT PREMIER LEAGUE1 DE
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=750142&extension=ts&play_token=yK7Ppvy2jW
+
 
 
 
