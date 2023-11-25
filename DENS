@@ -9,20 +9,46 @@ https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="###LIVE INDOSIAR###", INDOSIAR 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 1
 https://mantul.biz.id:443/ekos/748382/60
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="###LIVE INDOSIAR###", INDOSIAR 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 2
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="###LIVE INDOSIAR###", INDOSIAR 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 3
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="###LIVE INDOSIAR###", INDOSIAR 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 4
 http://iptvtree.net:8080/06c71787/b4841bff74/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="###LIVE INDOSIAR###", INDOSIAR 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 5
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="###LIVE INDOSIAR###", INDOSIAR 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 6
 http://iptvtree.net:8080/devtv/5af3eeb538/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="###LIVE INDOSIAR###", INDOSIAR 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 7
 http://iptvstream.xyz:8080/Dooby/66754f23/162138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 1
+http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/298550
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 2
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298550
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 3
+http://iptvtree.net:8080/06c71787/b4841bff74/298550
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 4
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298550
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 5
+http://iptvtree.net:8080/devtv/5af3eeb538/298550
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 6
+http://iptvstream.xyz:8080/Dooby/66754f23/298550
+
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 1
+http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/162141
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 2
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/162141
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 3
+http://iptvtree.net:8080/06c71787/b4841bff74/162141
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 4
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162141
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 5
+http://iptvtree.net:8080/devtv/5af3eeb538/162141
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 6
+http://iptvstream.xyz:8080/Dooby/66754f23/162141
 
 
 
