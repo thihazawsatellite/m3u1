@@ -1640,6 +1640,107 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Stingray_Now_4K.png" group-title="FIRSTMEDIA", STINGRAY NOW
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095558_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095557_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095556_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 4
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095555_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 5
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095554_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 6
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095553_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 7
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095552_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 8
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095551_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 9
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095550_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095583_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095582_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095581_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  4
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095580_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  5
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095579_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  6
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095578_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  7
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095577_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  8
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095576_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  9
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095575_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  10
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095574_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095724_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095723_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095722_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  4
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095721_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  5
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095720_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  6
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095719_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  7
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095718_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  8
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095717_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  8
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095716_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  10
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095715_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994040&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994039&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994038&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994037&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994036&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994035&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 4
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994034&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 5
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994033&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 6
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994032&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 7
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994031&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 8
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994030&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 9
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994029&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 10
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994028&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 11
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994027&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 12
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994026&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 13
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994025&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 14
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994024&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 15
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994023&extension=ts&play_token=9t1VGqgnHU
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ONDAMAGE SKYGO", SKYGO OD 1 ANIME
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=699648&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ONDAMAGE SKYGO", SKYGO OD 2 ANIME
@@ -2471,7 +2572,57 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=601734&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=601733&extension=ts&play_token=yK7Ppvy2j
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superPL.png" group-title="AFRICA SPORT", SUPERSPORT PREMIER LEAGUE
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239078&extension=ts&play_token=WIj93CqWrq
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superlaliga.png" group-title="AFRICA SPORT", SUPERSPORT LIGA
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239076&extension=ts&play_token=WDliZuSmkz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supertennis.png" group-title="AFRICA SPORT", SUPERSPORT TENNIS
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=425314&extension=ts&play_token=KmNBsBy8G3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superblitz.png" group-title="AFRICA SPORT", SUPERSPORT BLITZ
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=425310&extension=ts&play_token=cB75vs6tv4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superpsl.png" group-title="AFRICA SPORT", SUPERSPORT PSL
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239077&extension=ts&play_token=wAy6FmsPtA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supergolf.png" group-title="AFRICA SPORT", SUPERSPORT GOLF
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=425667&extension=ts&play_token=Sh0E1BOGwg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supergrandstand.png" group-title="AFRICA SPORT", SUPERSPORT GRANDSTAND
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239079&extension=ts&play_token=iplWY8qXC5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supermotor.png" group-title="AFRICA SPORT", SUPERSPORT MOTOR SPORT
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239082&extension=ts&play_token=a0dyarOiLA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superfootball.png" group-title="AFRICA SPORT", SUPERSPORT FOOTBALL
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239083&extension=ts&play_token=tJv2b2KNwD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superrugby.png" group-title="AFRICA SPORT", SUPERSPORT RUGBY
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239086&extension=ts&play_token=TCL5qFctcH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supercricket.png" group-title="AFRICA SPORT", SUPERSPORT CRICKET
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239087&extension=ts&play_token=blkGUKpfD1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety1.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239081&extension=ts&play_token=7C6v0BjPnK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety2.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239080&extension=ts&play_token=kt1XRyNjAK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety3.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239085&extension=ts&play_token=EJNtH2IgAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety4.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 4
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SOCCER PLUS
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174668&extension=ts&play_token=aP5SGPY26C
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174669&extension=ts&play_token=eYcVCzh36m
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174670&extension=ts&play_token=IdEBSk7LYU
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT ARIZONA
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174671&extension=ts&play_token=JaPTMoccbH
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT WEST
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174688&extension=ts&play_token=2101Kmd4c0
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT SOUTH
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174684&extension=ts&play_token=Wipa3xAkxU
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT EAST
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174682&extension=ts&play_token=bj9EQummoH
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 ES
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=984950&extension=ts&play_token=KbEinhef17
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 ES
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=984951&extension=ts&play_token=KADFOT0Lsx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=984953&extension=ts&play_token=HalHutHLf1
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6Ecw0q.png" group-title="RADIO FM", INDONESIA - Motion RADIO 97.5 FM Jakarta
