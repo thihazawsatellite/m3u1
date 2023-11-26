@@ -2603,28 +2603,6 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239085&extensi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety4.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 4
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SOCCER PLUS
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174668&extension=ts&play_token=aP5SGPY26C
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174669&extension=ts&play_token=eYcVCzh36m
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174670&extension=ts&play_token=IdEBSk7LYU
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT ARIZONA
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174671&extension=ts&play_token=JaPTMoccbH
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT WEST
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174688&extension=ts&play_token=2101Kmd4c0
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT SOUTH
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174684&extension=ts&play_token=Wipa3xAkxU
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT EAST
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=174682&extension=ts&play_token=bj9EQummoH
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 ES
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=984950&extension=ts&play_token=KbEinhef17
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 ES
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=984951&extension=ts&play_token=KADFOT0Lsx
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=984953&extension=ts&play_token=HalHutHLf1
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6Ecw0q.png" group-title="RADIO FM", INDONESIA - Motion RADIO 97.5 FM Jakarta
 http://101.50.1.250:8000/motion.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ovw3cQS.png" group-title="RADIO FM", INDONESIA - Sonora 92.0 FM Jakarta
